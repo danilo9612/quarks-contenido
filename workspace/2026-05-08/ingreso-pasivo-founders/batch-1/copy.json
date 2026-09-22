@@ -1,0 +1,183 @@
+{
+  "concept_label": "A",
+  "framework": "Myth-Busting",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "El ingreso pasivo: la trampa que nadie te cuenta.",
+      "swipe_hint": "La verdad del 'dinero f\u00e1cil'",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\shape_star_burst.png",
+      "deco_position": "top-right",
+      "glow_primary": "bottom-left",
+      "accent": "#FF2978"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "El espejismo del 'dinero que llega solo'",
+      "body": "Muchos founders se frustran persiguiendo una fantas\u00eda. La creencia de que existe un producto que 'se vende solo' es atractiva, pero peligrosa.",
+      "bullets": [
+        {
+          "title": "\ud83d\udc94 Falsa esperanza",
+          "body": "Promete libertad sin esfuerzo, llevando a inversiones fallidas y desmotivaci\u00f3n temprana."
+        },
+        {
+          "title": "\u23f0 P\u00e9rdida de foco",
+          "body": "Desv\u00eda la atenci\u00f3n de lo realmente crucial: entender al cliente y mejorar el producto d\u00eda a d\u00eda."
+        },
+        {
+          "title": "\ud83d\udcb8 Costo oculto",
+          "body": "El tiempo y dinero invertidos en el 'atajo' se restan de la construcci\u00f3n de valor real y sostenible."
+        }
+      ],
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "tags": [
+        "MITO",
+        "FOUNDERS"
+      ],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "headline": "No hay atajos, solo *trabajo compuesto*.",
+      "graphic_prompt": "horizontal bar chart: 'Esfuerzo Visible (5%)', 'Trabajo Compuesto Invisible (95%)' del \u00e9xito de un producto. Mostrar el 95% mucho m\u00e1s largo y destacado. Usar colores de marca Quarks: accent #FF2978, fondo #141414. Etiquetas claras.",
+      "stat_value": "95%",
+      "stat_context": "del \u00e9xito es trabajo invisible.",
+      "body": "El verdadero crecimiento proviene del esfuerzo incremental y constante. Peque\u00f1as mejoras diarias que se acumulan con el tiempo, no de una \u00fanica soluci\u00f3n m\u00e1gica.",
+      "icon_fa": "fa-solid fa-gears",
+      "tags": [
+        "ESFUERZO",
+        "ESCALA"
+      ],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Iterar no es automatizar",
+      "body": "Un producto digital exitoso nunca est\u00e1 'terminado'. Requiere evoluci\u00f3n constante basada en el feedback del usuario y las din\u00e1micas del mercado.",
+      "bullets": [
+        {
+          "title": "\ud83d\udcc8 Mejora continua",
+          "body": "Cada interacci\u00f3n y lanzamiento aporta datos valiosos para refinar el producto y su estrategia."
+        },
+        {
+          "title": "\ud83e\udd1d Escucha activa",
+          "body": "Los founders que triunfan entienden que su producto es un di\u00e1logo constante con sus usuarios, no un mon\u00f3logo."
+        },
+        {
+          "title": "\ud83c\udf31 Adaptaci\u00f3n constante",
+          "body": "El mercado cambia. Tu producto debe adaptarse, integrar nuevas tecnolog\u00edas y funcionalidades relevantes."
+        }
+      ],
+      "icon_fa": "fa-solid fa-arrow-rotate-right",
+      "tags": [
+        "PRODUCTO",
+        "CRECIMIENTO"
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "Delegar no es desaparecer",
+      "col_a": {
+        "title": "Lo que NO es pasivo",
+        "items": [
+          "El equipo lo hace solo",
+          "Me desentiendo",
+          "Dinero garantizado"
+        ]
+      },
+      "col_b": {
+        "title": "La REALIDAD Quarks",
+        "items": [
+          "Deleg\u00e1s con estrategia",
+          "Supervis\u00e1s, optimiz\u00e1s",
+          "Constru\u00eds valor sostenido"
+        ]
+      },
+      "col_b_accent": true,
+      "icon_fa": "fa-solid fa-handshake",
+      "tags": [
+        "LIDERAZGO",
+        "EQUIPO"
+      ],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "El verdadero 'ingreso pasivo' (NO ES)",
+      "body": "La \u00fanica 'pasividad' real es la que se obtiene tras a\u00f1os de construir algo tan valioso que la gente paga por su mejora continua.",
+      "bullets": [
+        {
+          "title": "\u2728 Valor sustentable",
+          "body": "Constru\u00ed un producto que resuelva un problema real y evolucione con las necesidades de tus clientes."
+        },
+        {
+          "title": "\ud83c\udf10 Ecosistema de confianza",
+          "body": "Fideliz\u00e1 a tus usuarios y clientes. Ellos ser\u00e1n tus mejores promotores y fuente de feedback constante."
+        },
+        {
+          "title": "\ud83d\udd04 Mejora ininterrumpida",
+          "body": "El ciclo de producto es infinito. Tu dedicaci\u00f3n a mejorarlo es lo que asegura el 'retorno' a largo plazo."
+        }
+      ],
+      "icon_fa": "fa-solid fa-rocket",
+      "tags": [
+        "VALOR",
+        "SOSTENIBILIDAD"
+      ],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_quote",
+      "headline": "Impacto real, no fantas\u00edas",
+      "body": "En Quarks Alchemist, acompa\u00f1amos a founders a transformar sus ideas en productos que escalan y generan valor, con metodolog\u00edas probadas.",
+      "quote": "Nuestro revenue creci\u00f3 un 40% despu\u00e9s de entender que el producto nunca est\u00e1 'terminado'. El acompa\u00f1amiento de Quarks fue clave para adoptar esa mentalidad de iteraci\u00f3n constante.",
+      "quote_by": "CEO de Startup X (cliente de Quarks)",
+      "icon_fa": "fa-solid fa-chart-line",
+      "tags": [
+        "RESULTADOS",
+        "CRECIMIENTO"
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "Constru\u00ed el camino, no el atajo.",
+      "body": "\u00bfQu\u00e9 otro mito de startup te frustra m\u00e1s en tu d\u00eda a d\u00eda?",
+      "giant_word": "COMENT\u00c1",
+      "brand_logo": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_cluster.png",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    }
+  ]
+}

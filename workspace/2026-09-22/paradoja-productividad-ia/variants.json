@@ -1,0 +1,85 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "Es el titular literal de la noticia: los dos números del mismo informe, contradiciéndose. La cinta de correr dice velocidad sin desplazamiento sin tener que explicarlo.",
+      "data": {
+        "quote": "89% dice que la IA aceleró a su equipo. Solo 6% puede mostrar el retorno.",
+        "eyebrow": "Noticia",
+        "headline_case": true,
+        "photo_query": "runner on treadmill"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "El hook del guion llevado a titular. Sin cifra, más universal: funciona para quien desconfía de las encuestas a ejecutivos.",
+      "data": {
+        "quote": "Los equipos entregan más rápido que nunca y los resultados del negocio no se mueven.",
+        "eyebrow": "Noticia",
+        "headline_case": true,
+        "photo_query": "blurred subway motion"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote_photo",
+      "why": "El giro del post como titular. Es el más conceptual de los tres y el que mejor sobrevive fuera de la coyuntura.",
+      "data": {
+        "quote": "La IA abarató construir. Decidir qué construir sigue costando lo mismo.",
+        "eyebrow": "Noticia",
+        "headline_case": true,
+        "photo_query": "architect blueprints desk"
+      }
+    },
+    {
+      "label": "D",
+      "type": "quote_photo",
+      "why": "La cita de Gridley tal cual, en modo cita: caja alta y pill de atribucion. Se aparta del modo titular a pedido de Danilo.",
+      "data": {
+        "quote": "Nunca fue más rápido construir. Es más fácil ir diez veces más rápido en la dirección equivocada.",
+        "eyebrow": "Noticia",
+        "attribution": "Hilary Gridley · WHOOP",
+        "photo_query": "foggy road headlights"
+      }
+    },
+    {
+      "label": "E",
+      "type": "quote_photo",
+      "why": "Cita corta entre comillas, atribucion arriba en el slot del chip, sin pill al pie.",
+      "data": {
+        "quote": "“Es más fácil ir diez veces más rápido en la dirección equivocada”",
+        "eyebrow": "Hilary Gridley · WHOOP",
+        "photo_query": "empty highway dusk"
+      }
+    },
+    {
+      "label": "F",
+      "type": "quote_photo",
+      "why": "Marco propio afuera ('Construyendo con IA'), comillas donde arrancan las palabras de Gridley. Contexto de producto e IA en el titulo, cita intacta.",
+      "data": {
+        "quote": "Construyendo con IA “es más fácil ir diez veces más rápido en la dirección equivocada”",
+        "eyebrow": "Hilary Gridley · WHOOP",
+        "photo_query": "winding road aerial view"
+      }
+    },
+    {
+      "label": "G",
+      "type": "quote_photo",
+      "why": "Cita completa entre comillas, con el contexto de IA adentro. Atribucion arriba, sin chip.",
+      "data": {
+        "quote": "“Construyendo con IA es más fácil ir diez veces más rápido en la dirección equivocada”",
+        "eyebrow": "Hilary Gridley · WHOOP",
+        "photo_query": "highway interchange aerial"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Opinión",
+    "has_data": true,
+    "compatible_types": [
+      "quote_photo"
+    ]
+  }
+}

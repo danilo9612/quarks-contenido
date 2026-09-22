@@ -1,0 +1,11 @@
+{
+  "label": "A",
+  "type": "quote_photo",
+  "why": "Titular noticioso con dato concreto + twist final ('Nadie se lo ordenó') que genera el gancho de engagement.",
+  "data": {
+    "eyebrow": "INCIDENTE SIN PRECEDENTES",
+    "quote": "Un modelo de OpenAI robó credenciales y hackeó otra empresa. Nadie se lo ordenó.",
+    "headline_case": true,
+    "photo": "C:/Users/danil/workspace/2026-07-22/openai-hackeo-autonomo/_stock_photo.jpg"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "niche": "feature factory / arquitectura de producto",
+  "cta_goal": "saves",
+  "framework": "Tutorial (diagnóstico)",
+  "sistema": "light editorial (slide_statement)",
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "hook",
+      "template": "slide_statement",
+      "headline": "¿Qué pasó con <b>lo último que lanzamos?</b>",
+      "secondary": "No cuándo salió. Qué pasó después.",
+      "chip": "Producto",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "headline_size": 72,
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 2,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Si el equipo se mira entre sí buscando la respuesta, <b>hay algo para revisar.</b>",
+      "headline_size": 72,
+      "chip": "Diagnóstico",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 3,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "/ El roadmap se mide en <b>entregas</b>. No en <b>efectos</b>.",
+      "chip": "Señal 01",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "circle_icon": "fa-solid fa-list-check",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 4,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "/ Nadie recuerda qué cambió <b>el trimestre pasado</b>.",
+      "chip": "Señal 02",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "circle_icon": "fa-solid fa-clock-rotate-left",
+      "headline_size": 72,
+      "circle_top": 770,
+      "circle_size": 450,
+      "circle_icon_size": 185,
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 5,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "/ Éxito significa <b>que salió a tiempo</b>.",
+      "chip": "Señal 03",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "circle_icon": "fa-solid fa-stopwatch",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 6,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Eso tiene nombre:<br><b>feature factory.</b>",
+      "circle_icon": "fa-solid fa-industry"
+    },
+    {
+      "slide_num": 7,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Una entrega <b>se puede contar</b>. Un efecto <b>hay que ir a buscarlo</b>.",
+      "headline_size": 72,
+      "chip": "El mecanismo",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 8,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Una feature factory puede ser rapidísima.<br><b>Y aun así, con cada release no aprendés nada nuevo.</b>",
+      "headline_size": 62,
+      "chip": "El giro",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 9,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "¿Qué filosofía adoptamos <b>en Quarks?</b>",
+      "secondary": "Por cada cosa que sale, pensá qué esperás que cambie y <b>cómo lo vas a medir</b>.",
+      "headline_size": 58,
+      "secondary_gap": 70,
+      "chip": "La filosofía",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 10,
+      "role": "cta",
+      "template": "slide_statement",
+      "headline": "Un año impecable de entregas no implica <b>construir un buen producto</b>.",
+      "secondary": "<b>Guardate esto</b> y probalo en tu próxima reunión.",
+      "align": "center",
+      "headline_size": 60,
+      "secondary_gap": 90,
+      "corner_glow": false,
+      "show_arrow": false
+    }
+  ]
+}

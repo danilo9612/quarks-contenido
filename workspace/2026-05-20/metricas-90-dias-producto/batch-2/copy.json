@@ -1,0 +1,125 @@
+{
+  "concept_label": "A",
+  "framework": "Myth-Busting",
+  "niche": "metricas-90-dias-producto",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Los primeros 90 días de producto: todos miden, casi nadie mide bien.",
+      "swipe_hint": "Las métricas que realmente importan",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\shape_star_spike.png",
+      "deco_position": "top-right",
+      "glow_primary": "bottom-left",
+      "accent": "#FF2978"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tiered_stats",
+      "headline": "Tres métricas para el centro de tu dashboard.",
+      "stats": [
+        {
+          "label": "Activation Rate",
+          "description": "El % que completa la acción clave por primera vez."
+        },
+        {
+          "label": "Retención D7/D30",
+          "description": "Si no volvieron en la primera semana, el problema es el producto."
+        },
+        {
+          "label": "Time to Value",
+          "description": "Cuánto tarda el usuario en obtener el primer resultado concreto."
+        }
+      ],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "Dos tipos de métricas. Una sola importa ahora.",
+      "col_a": {
+        "title": "Métricas de vanidad",
+        "items": ["Usuarios registrados", "Total de descargas", "Primeros ingresos"]
+      },
+      "col_b": {
+        "title": "Métricas de diagnóstico",
+        "items": ["¿Activaron el producto?", "¿Volvieron en 7 días?", "¿Cuánto tardaron en ver valor?"]
+      },
+      "col_b_accent": true,
+      "icon_fa": "fa-solid fa-chart-simple",
+      "tags": ["VANIDAD", "DIAGNÓSTICO"],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "kicker": "La pregunta que cambia todo",
+      "headline": "El objetivo no es crecer.",
+      "body": "Es descubrir si el producto merece crecer. La diferencia entre esas dos preguntas define todo lo que medís en esta etapa.",
+      "icon_fa": "fa-solid fa-lightbulb",
+      "tags": ["ESTRATEGIA", "EARLY STAGE"],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "kicker": "MÉTRICA 01",
+      "headline": "Activation Rate",
+      "body": "El % que completa la acción clave por primera vez. Si esto falla, nada de lo que construís después funciona.",
+      "icon_fa": "fa-solid fa-bolt",
+      "tags": ["ACTIVACIÓN"],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "kicker": "MÉTRICA 02 — Retención D7/D30",
+      "stat_value": "7",
+      "stat_context": "días definen si tu producto tiene futuro. Si el usuario no vuelve en la primera semana, el problema no es marketing: es el producto.",
+      "icon_fa": "fa-solid fa-rotate",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "kicker": "MÉTRICA 03",
+      "headline": "Time to Value",
+      "body": "Cuánto tarda un usuario nuevo en obtener el primer resultado concreto. Más largo = más fricción = más abandono.",
+      "icon_fa": "fa-solid fa-stopwatch",
+      "tags": ["FRICCIÓN", "ONBOARDING"],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "No midás el ruido. Medí el derecho a crecer.",
+      "body": "Para vos: ¿cuáles son las métricas más relevantes al empezar un producto nuevo?",
+      "giant_word": "COMENTÁ",
+      "brand_logo": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_cluster.png",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    }
+  ]
+}

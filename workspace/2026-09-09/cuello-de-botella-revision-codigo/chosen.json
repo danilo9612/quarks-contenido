@@ -1,0 +1,13 @@
+{
+  "label": "A",
+  "type": "quote_photo",
+  "why": "Es el titular de la noticia casi tal cual: la admisión. Dice 'un equipo de Microsoft' y no 'Microsoft' porque es lo que efectivamente pasó — fue el equipo de extensiones de Edge, no la empresa.",
+  "data": {
+    "quote": "Un equipo de Microsoft admite que no da abasto con el código de la IA.",
+    "headline_case": true,
+    "eyebrow": "Noticia",
+    "photo_query": "software developer reviewing code screens",
+    "gradient_ring": "top-right",
+    "gradient_ring_size": "sm"
+  }
+}

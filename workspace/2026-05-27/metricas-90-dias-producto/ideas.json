@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "M\u00e9tricas de vanidad al descubierto",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "El Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Tener muchas descargas no te asegura nada.",
+      "body_summary": "Los primeros 90 d\u00edas de un producto son para diagnosticar, no para crecer. Dej\u00e1 de lado las m\u00e9tricas de vanidad y enfoc\u00e1 tu energ\u00eda en lo que de verdad importa.",
+      "cta_copy": "Coment\u00e1: \u00bfqu\u00e9 m\u00e9trica de vanidad dejaste de mirar?",
+      "why_stands_out": "Este concepto desaf\u00eda directamente una creencia com\u00fan y perjudicial, ofreciendo una perspectiva fresca sobre el prop\u00f3sito real de las m\u00e9tricas iniciales."
+    },
+    {
+      "label": "B",
+      "framework": "Tutorial",
+      "title": "Gu\u00eda para m\u00e9tricas clave",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "El Product Manager / Builder",
+      "hook_type": "friccion",
+      "hook_copy": "\u00bfTu producto no retiene? Esto es el porqu\u00e9.",
+      "body_summary": "El valor de tu producto no se mide por usuarios, sino por la velocidad y efectividad con la que los activ\u00e1s y reten\u00e9s. Te mostramos c\u00f3mo empezar a medirlo bien.",
+      "cta_copy": "Contanos: \u00bfqu\u00e9 m\u00e9trica aplicar\u00edas primero?",
+      "why_stands_out": "Ofrece un camino claro y accionable para implementar las m\u00e9tricas correctas, evitando los errores frecuentes en la medici\u00f3n temprana de productos."
+    },
+    {
+      "label": "C",
+      "framework": "Data-Driven",
+      "title": "An\u00e1lisis de lanzamientos tech",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "El Founder T\u00e9cnico",
+      "hook_type": "empirico",
+      "hook_copy": "Analizamos 100 lanzamientos. Esto aprendimos.",
+      "body_summary": "Estudiamos c\u00f3mo productos exitosos y fallidos manejan sus primeros 90 d\u00edas. Hay patrones claros y m\u00e9tricas que marcan la diferencia entre uno y otro.",
+      "cta_copy": "Coment\u00e1: \u00bfqu\u00e9 dato te sorprendi\u00f3 m\u00e1s de tu producto?",
+      "why_stands_out": "Proporciona insights valiosos y agregados de m\u00faltiples casos reales, brindando una perspectiva autorizada que va m\u00e1s all\u00e1 de un solo estudio de caso."
+    },
+    {
+      "label": "D",
+      "framework": "Jornada del Founder",
+      "title": "Mis errores con m\u00e9tricas",
+      "content_bucket": "Alquimia en Acci\u00f3n",
+      "target_audience": "Persona 1 \u2014 El Founder T\u00e9cnico",
+      "hook_type": "epifania",
+      "hook_copy": "Mis 3 errores al medir productos nuevos.",
+      "body_summary": "Confieso mis errores m\u00e1s caros en los primeros 90 d\u00edas de producto. Aprend\u00ed, por experiencia propia, que algunas m\u00e9tricas son distracciones peligrosas.",
+      "cta_copy": "Contanos: \u00bfcu\u00e1l fue tu mayor aprendizaje inicial?",
+      "why_stands_out": "Humaniza el complejo desaf\u00edo de las m\u00e9tricas de producto a trav\u00e9s de una historia aut\u00e9ntica de errores y aprendizajes de la experiencia de un founder."
+    }
+  ]
+}

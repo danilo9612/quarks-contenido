@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "Mito ingreso pasivo",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "El Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "El ingreso pasivo: la trampa que nadie te cuenta.",
+      "body_summary": "Desmontamos la creencia de que existe el dinero que llega solo para founders, revelando el trabajo compuesto detr\u00e1s de productos exitosos.",
+      "cta_copy": "Coment\u00e1: \u00bfqu\u00e9 mito de startup te frustra m\u00e1s?",
+      "why_stands_out": "Este concepto desaf\u00eda una creencia popular y da\u00f1ina en el ecosistema emprendedor, generando debate y posicionando a Quarks como una voz sincera y realista."
+    },
+    {
+      "label": "B",
+      "framework": "Jornada del Founder",
+      "title": "Mi fracaso pasivo",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "El Founder T\u00e9cnico",
+      "hook_type": "epifania",
+      "hook_copy": "Mi atajo pasivo termin\u00f3 en fracaso real.",
+      "body_summary": "Comparto c\u00f3mo perseguir la 'pasividad' me hizo perder foco y c\u00f3mo abrac\u00e9 la verdad del trabajo compuesto para construir algo que escalara de verdad.",
+      "cta_copy": "Contanos: \u00bfqu\u00e9 creencia te cost\u00f3 m\u00e1s cara?",
+      "why_stands_out": "Humaniza la experiencia del fundador al exponer un fracaso personal ligado a la falacia del ingreso pasivo, construyendo confianza a trav\u00e9s de la vulnerabilidad y la lecci\u00f3n aprendida."
+    },
+    {
+      "label": "C",
+      "framework": "Tutorial Paso a Paso",
+      "title": "Constru\u00ed valor, no ilusi\u00f3n",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "El Product Manager / Builder",
+      "hook_type": "friccion",
+      "hook_copy": "\u00bfTu producto no escala? La clave no es pasividad.",
+      "body_summary": "Un camino de 8 pasos para founders y PMs que quieren dise\u00f1ar productos que generen valor consistente y duradero, m\u00e1s all\u00e1 del 'piloto autom\u00e1tico'.",
+      "cta_copy": "Guard\u00e1 esto. \u00bfQu\u00e9 paso vas a aplicar hoy?",
+      "why_stands_out": "Ofrece una gu\u00eda pr\u00e1ctica y accionable para construir productos sostenibles, contrarrestando la ambig\u00fcedad del 'ingreso pasivo' con pasos concretos que la audiencia puede implementar."
+    },
+    {
+      "label": "D",
+      "framework": "Data-Driven",
+      "title": "La verdad de los pasivos",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "La Empresa que busca desarrollo",
+      "hook_type": "empirico",
+      "hook_copy": "Analizamos 100 startups 'pasivas'. Esto es real.",
+      "body_summary": "Presentamos insights estad\u00edsticos sobre por qu\u00e9 los modelos de 'ingreso pasivo' suelen fallar o requieren una gesti\u00f3n activa inmensa en el mercado LATAM.",
+      "cta_copy": "\u00bfQu\u00e9 estad\u00edstica te sorprende m\u00e1s? Queremos leerte.",
+      "why_stands_out": "Aporta rigor cuantitativo al debate sobre el ingreso pasivo, utilizando datos para desmitificar y posicionar a Quarks como una fuente de autoridad y an\u00e1lisis profundo."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "La falsa estrella polar",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founders (T\u00e9cnicos y No T\u00e9cnicos), C-Level",
+      "hook_type": "paradoja",
+      "hook_copy": "Tu North Star Metric no es tu North Star.",
+      "body_summary": "Desafiamos la creencia de que una sola m\u00e9trica lo es todo. Descubr\u00ed por qu\u00e9 tu estrategia de producto necesita un ecosistema m\u00e9trico para un crecimiento real y sostenible.",
+      "cta_copy": "\u00bfCu\u00e1l m\u00e9trica te obsesiona y por qu\u00e9? Cont\u00e1 tu experiencia.",
+      "why_stands_out": "Desaf\u00eda una pr\u00e1ctica com\u00fan con una perspectiva m\u00e1s profunda, fomentando la reflexi\u00f3n sobre la complejidad real de las m\u00e9tricas."
+    },
+    {
+      "label": "B",
+      "framework": "Tutorial Paso a Paso",
+      "title": "Ciclo m\u00e9trico: iterar mejor",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Managers, Founders T\u00e9cnicos",
+      "hook_type": "friccion",
+      "hook_copy": "\u00bfTus m\u00e9tricas no mueven la aguja?",
+      "body_summary": "Te guiamos paso a paso para construir un ciclo de feedback de m\u00e9tricas robusto: desde la recolecci\u00f3n de datos hasta la toma de decisiones informadas para tu producto.",
+      "cta_copy": "\u00bfQu\u00e9 paso aplicar\u00edas primero para un cambio real? Coment\u00e1 abajo.",
+      "why_stands_out": "Ofrece una receta clara y accionable para transformar datos en mejoras de producto, evitando la abstracci\u00f3n y enfoc\u00e1ndose en la implementaci\u00f3n pr\u00e1ctica."
+    },
+    {
+      "label": "C",
+      "framework": "Data-Driven",
+      "title": "Retenci\u00f3n LATAM: n\u00fameros que duelen",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "Ecosistema tech, Founders, PMs",
+      "hook_type": "empirico",
+      "hook_copy": "Analizamos 100 startups LATAM: Retenci\u00f3n es clave.",
+      "body_summary": "Presentamos datos concretos sobre la retenci\u00f3n de usuarios en la regi\u00f3n, identificando las causas m\u00e1s comunes de churn y su impacto directo en la valoraci\u00f3n de tu negocio.",
+      "cta_copy": "\u00bfQu\u00e9 dato de retenci\u00f3n te sorprendi\u00f3 m\u00e1s? Sumate al debate.",
+      "why_stands_out": "Utiliza datos espec\u00edficos de LATAM para generar insights relevantes, diferenci\u00e1ndose de an\u00e1lisis globales y aportando valor regional aut\u00e9ntico."
+    },
+    {
+      "label": "D",
+      "framework": "Jornada del Founder",
+      "title": "Mi m\u00e9trica invisible",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founders (T\u00e9cnicos y No T\u00e9cnicos), Startups",
+      "hook_type": "epifania",
+      "hook_copy": "Mi startup casi falla por una m\u00e9trica invisible.",
+      "body_summary": "La historia de un founder que ignor\u00f3 una m\u00e9trica clave por miedo o desconocimiento. Descubr\u00ed la lecci\u00f3n que transform\u00f3 su producto y c\u00f3mo la aplic\u00f3 para escalar.",
+      "cta_copy": "\u00bfCu\u00e1l m\u00e9trica ignoraste que te pas\u00f3 factura? Compart\u00ed tu aprendizaje.",
+      "why_stands_out": "Humaniza el desaf\u00edo de las m\u00e9tricas a trav\u00e9s de una historia personal de vulnerabilidad y aprendizaje, creando una conexi\u00f3n profunda y emp\u00e1tica con la audiencia."
+    }
+  ]
+}

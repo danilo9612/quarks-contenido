@@ -1,0 +1,83 @@
+{
+  "niche": "proceso de producto / arquitectura de producto",
+  "cta_goal": "saves",
+  "framework": "Data-Driven (lista curada)",
+  "sistema": "light editorial (slide_statement)",
+  "document_title": "6 razones por las que un producto digital fracasa",
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "hook",
+      "template": "slide_statement",
+      "headline": "6 razones por las que<br><b>un producto digital fracasa.</b>",
+      "headline_size": 74
+    },
+    {
+      "slide_num": 2,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Marty Cagan revisó las ideas que sostuvo durante años y reconoció diez aspectos que había subestimado.",
+      "secondary": "<b>Estos seis explican por qué un producto no llega.</b>",
+      "headline_size": 46,
+      "secondary_gap": 50,
+      "circle_image": "C:/Users/danil/.claude/skills/ig-carousels/assets/marty_cagan.jpg",
+      "circle_image_position": "center 15%",
+      "circle_top": 830,
+      "circle_size": 340
+    },
+    {
+      "slide_num": 3,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>1. Viabilidad:</b> había enseñado a preguntarse si el producto sirve y si se puede construir. No si el negocio lo puede sostener.",
+      "headline_size": 52
+    },
+    {
+      "slide_num": 4,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>2. El problema:</b> no previó que los equipos se iban a quedar meses validando cuál es el problema, en vez de resolverlo.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 5,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>3. El porqué:</b> insistió con el propósito de la empresa. Lo que importa es por qué la gente usa tu producto, y sobre todo por qué lo deja.",
+      "headline_size": 50
+    },
+    {
+      "slide_num": 6,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>4. Humildad:</b> antes decía que el PM es el CEO del producto. Hoy dice que el trabajo empieza por admitir lo que no sabés.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 7,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>5. Previsibilidad:</b> la obsesión con roadmaps y documentos compra previsibilidad y la paga con innovación.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 8,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>6. Pensar:</b> ordenó todo en procesos y rituales. Hoy dice que muchos equipos los usan para no tener que pensar.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 9,
+      "role": "cta",
+      "template": "slide_statement",
+      "headline": "Seis correcciones del tipo que escribió <b>el método que usás.</b>",
+      "secondary": "<b>Guardate la lista</b> y leela antes de tu próxima reunión.",
+      "align": "center",
+      "headline_size": 58,
+      "secondary_gap": 90,
+      "corner_glow": false,
+      "show_arrow": false
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "concept_label": "A",
+  "framework": "Myth-Busting",
+  "niche": "ingreso-pasivo-founders",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "El ingreso pasivo se comió una generación de emprendedores.",
+      "swipe_hint": "Te explico por qué.",
+      "accent": "#FF2978"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "La fantasía del 'una sola vez'",
+      "body": "Founders brillantes perdidos en la idea de que existe el dinero que llega solo.",
+      "bullets": [
+        { "title": "Cursos", "body": "Que se venden solos." },
+        { "title": "Apps", "body": "Que generan revenue mientras dormís." },
+        { "title": "Productos digitales", "body": "En piloto automático." }
+      ],
+      "icon_fa": "fa-solid fa-wand-magic-sparkles",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "La realidad es más incómoda.",
+      "body": "Cada negocio exitoso tiene founders que se levantan todos los días a iterar, optimizar y pelear por cada cliente.",
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "No existe la fórmula mágica.",
+      "col_a": {
+        "title": "Lo que no existe",
+        "items": [
+          "Algoritmos mágicos",
+          "Fórmulas de crecimiento automático",
+          "El dinero que llega solo"
+        ]
+      },
+      "col_b": {
+        "title": "Lo que sí existe",
+        "items": [
+          "Trabajo compuesto",
+          "Iteración constante",
+          "Pelea por cada cliente"
+        ]
+      },
+      "col_b_accent": true,
+      "icon_fa": "fa-solid fa-ban",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_flow_diagram",
+      "headline": "Trabajo compuesto",
+      "body": "Y después de años, algunos flujos se vuelven más predecibles. Pero nunca pasivos.",
+      "steps": [
+        { "label": "1", "title": "Construís un producto", "highlighted": false },
+        { "label": "2", "title": "Lo mejorás", "highlighted": false },
+        { "label": "3", "title": "Entendés a tu mercado", "highlighted": false },
+        { "label": "4", "title": "Escalás el equipo", "highlighted": false },
+        { "label": "5", "title": "Optimizás procesos", "highlighted": true }
+      ],
+      "icon_fa": "fa-solid fa-gears",
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "Dos confusiones que cuestan caro.",
+      "col_a": {
+        "title": "Escalar",
+        "items": [
+          "Crecer con equipo y estructura",
+          "Más mercado, más operación",
+          "Requiere presencia activa"
+        ]
+      },
+      "col_b": {
+        "title": "≠ Automatizar",
+        "items": [
+          "Optimizar tareas repetitivas",
+          "No reemplaza la estrategia",
+          "No es desaparecer"
+        ]
+      },
+      "col_a_accent": true,
+      "icon_fa": "fa-solid fa-code-branch",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "El único 'pasivo' real.",
+      "body": "Construir algo tan valioso que la gente esté dispuesta a pagarte por seguir mejorándolo.",
+      "bullets": [
+        { "title": "Eso no vende cursos.", "body": "" },
+        { "title": "Pero construye empresas.", "body": "" }
+      ],
+      "icon_fa": "fa-solid fa-rocket",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "¿Atajo o camino?",
+      "body": "¿Estás buscando el atajo o construyendo el camino? COMENTÁ.",
+      "giant_word": "COMENTÁ",
+      "accent": "#FF2978"
+    }
+  ]
+}

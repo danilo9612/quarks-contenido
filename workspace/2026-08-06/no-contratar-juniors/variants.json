@@ -1,0 +1,68 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "La tesis del post: la frase de quien no contrata juniors leída como confesión sobre su propia organización. Es el hook y el ángulo que diferencia a Quarks del reclamo esperable.",
+      "data": {
+        "quote": "Cuando una empresa dice que no necesita juniors, está diciendo otra cosa.",
+        "eyebrow": "OPINIÓN",
+        "headline_case": true,
+        "photo_query": "empty office chairs meeting",
+        "gradient_ring": "bottom-left",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "El giro del post en una línea: mueve la discusión de seniority a diseño del trabajo. Es la frase más accionable para un líder técnico que está tomando la decisión hoy.",
+      "data": {
+        "quote": "La variable no son los años. Es qué le pedís que haga.",
+        "eyebrow": "TAREAS O PROBLEMAS",
+        "headline_case": true,
+        "photo_query": "developers pair programming office",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote_photo",
+      "why": "La consecuencia temporal, con la tensión más incómoda para un founder: el ahorro de hoy es un costo con fecha. La más polarizante de las tres.",
+      "data": {
+        "quote": "El ahorro de este trimestre es la escasez de 2029.",
+        "eyebrow": "CONTRATACIÓN TECH",
+        "headline_case": true,
+        "photo_query": "empty office corridor night",
+        "gradient_ring": "bottom-right",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "D",
+      "type": "quote_photo",
+      "why": "El dato duro de SignalFire como titular: la caída de la contratación junior con la cifra de startups como remate. La fuente va en el pill, así el número es rastreable.",
+      "data": {
+        "quote": "La contratación junior cayó un 65% en las grandes tecnológicas. En startups, un 76%.",
+        "eyebrow": "EL DATO",
+        "attribution": "SignalFire, State of Tech Talent 2026",
+        "headline_case": true,
+        "photo_query": "empty office desks",
+        "gradient_ring": "bottom-left",
+        "gradient_ring_size": "sm"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": true,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight",
+      "data_stat"
+    ],
+    "note": "Usuario pidió explícitamente el template with photo (quote_photo). Las 3 variantes son quote_photo con ángulos distintos."
+  }
+}

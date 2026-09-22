@@ -1,0 +1,14 @@
+{
+  "label": "D",
+  "type": "quote_photo",
+  "why": "El dato duro de SignalFire como titular: la caída de la contratación junior con la cifra de startups como remate. La fuente va en el pill, así el número es rastreable.",
+  "data": {
+    "quote": "La contratación junior cayó un 65% en las grandes tecnológicas. En startups, un 76%.",
+    "eyebrow": "EL DATO",
+    "attribution": "SignalFire, State of Tech Talent 2026",
+    "headline_case": true,
+    "photo_query": "empty office desks",
+    "gradient_ring": "bottom-left",
+    "gradient_ring_size": "sm"
+  }
+}

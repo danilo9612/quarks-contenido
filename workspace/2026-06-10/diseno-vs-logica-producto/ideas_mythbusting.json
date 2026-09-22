@@ -1,0 +1,64 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "Codear vs. Pensar Primero",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder T\u00e9cnico, Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Codear primero NO acelera tu producto.",
+      "body_summary": "Desarmamos el mito de 'primero el c\u00f3digo' revelando c\u00f3mo un enfoque no consciente genera deuda t\u00e9cnica y retrasa el lanzamiento real.",
+      "cta_copy": "\u00bfCu\u00e1nto te cost\u00f3 no pensar primero?",
+      "why_stands_out": "Este concepto desaf\u00eda la creencia arraigada de que la rapidez del c\u00f3digo inicial es la clave, exponiendo sus costos ocultos con una perspectiva m\u00e1s estrat\u00e9gica."
+    },
+    {
+      "label": "B",
+      "framework": "Jornada del Founder",
+      "title": "La Deuda de NO Elegir",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder T\u00e9cnico, Founder No T\u00e9cnico, Startups",
+      "hook_type": "epifania",
+      "hook_copy": "Mi peor error fue no elegir, solo hacer.",
+      "body_summary": "Un founder comparte c\u00f3mo aprender a elegir conscientemente su enfoque inicial, salv\u00f3 su producto de la deuda invisible del 'hacer por hacer'.",
+      "cta_copy": "\u00bfQu\u00e9 lecci\u00f3n aprendiste tarde? Compartila.",
+      "why_stands_out": "Humaniza la complejidad de la elecci\u00f3n inicial a trav\u00e9s de la vulnerabilidad de un fundador, ofreciendo lecciones concretas m\u00e1s all\u00e1 de la teor\u00eda metodol\u00f3gica."
+    },
+    {
+      "label": "C",
+      "framework": "Doble Diamante",
+      "title": "Decidiendo tu Enfoque",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager, Builder, Founder T\u00e9cnico",
+      "hook_type": "friccion",
+      "hook_copy": "Tu equipo se siente 'desalineado', \u00bfpor qu\u00e9?",
+      "body_summary": "El Doble Diamante como mapa para definir conscientemente si tu producto necesita dise\u00f1o o l\u00f3gica primero, evitando la deuda de enfoques no declarados.",
+      "cta_copy": "\u00bfQu\u00e9 fase de este mapa aplic\u00e1s hoy?",
+      "why_stands_out": "Propone el Double Diamond como una herramienta pr\u00e1ctica para hacer expl\u00edcita la elecci\u00f3n del enfoque, superando la vaguedad de 'elegir la mejor metodolog\u00eda'."
+    },
+    {
+      "label": "D",
+      "framework": "Tutorial",
+      "title": "Dise\u00f1o NO Es Decoraci\u00f3n",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager, Builder, Dise\u00f1adores, Founders",
+      "hook_type": "friccion",
+      "hook_copy": "Tu dise\u00f1o no es 'decoraci\u00f3n'. Es esto.",
+      "body_summary": "Una gu\u00eda simple para integrar un enfoque design-first al arrancar, demostrando que es una decisi\u00f3n consciente que define el rumbo del producto.",
+      "cta_copy": "Contanos: \u00bfQu\u00e9 paso aplicar\u00edas primero?",
+      "why_stands_out": "Ofrece un tutorial accionable que no solo refuta el mito del dise\u00f1o como adorno, sino que gu\u00eda al lector a integrar la elecci\u00f3n del enfoque de forma pr\u00e1ctica y temprana."
+    },
+    {
+      "label": "E",
+      "framework": "Data-Driven",
+      "title": "El Costo de No Elegir",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "Ecosistema tech general, Founders, PMs",
+      "hook_type": "empirico",
+      "hook_copy": "100 startups: el costo de NO elegir.",
+      "body_summary": "Analizamos el impacto de elegir (o no) conscientemente un enfoque de producto inicial, mostrando en datos el costo de la deuda de equipo.",
+      "cta_copy": "\u00bfTus decisiones se basan en datos o intuici\u00f3n?",
+      "why_stands_out": "Cuantifica el impacto de la elecci\u00f3n inconsciente de enfoque, transformando una discusi\u00f3n cualitativa en un argumento de negocio basado en evidencia emp\u00edrica."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "concept_label": "B",
+  "framework": "Myth-Busting",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Tu Design System es una decisi\u00f3n de negocio.",
+      "swipe_hint": "Descubr\u00ed su valor estrat\u00e9gico",
+      "background_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_medium.png",
+      "overlay_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_small.png",
+      "glow_primary": "bottom-left",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "headline": "El mito del 'lujo est\u00e9tico'",
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "stat_value": "62%",
+      "stat_context": "de equipos pierde tiempo rehaciendo dise\u00f1os por brechas de comunicaci\u00f3n.",
+      "body": "Sin un sistema compartido, dise\u00f1adores y desarrolladores hablan idiomas distintos. El resultado: retrabajo constante y plata tirada.",
+      "tags": [
+        "MITO",
+        "PERCEPCI\u00d3N"
+      ],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Acelera el desarrollo",
+      "icon_fa": "fa-solid fa-bolt",
+      "body": "Componentes reutilizables significan menos c\u00f3digo y m\u00e1s foco en la innovaci\u00f3n. Tu equipo avanza m\u00e1s r\u00e1pido.",
+      "bullets": [
+        {
+          "title": "REDUCE DUPLICACI\u00d3N",
+          "body": "Evit\u00e1 crear lo mismo una y otra vez. Centraliz\u00e1 los elementos UI de tu producto."
+        },
+        {
+          "title": "OPTIMIZA TIEMPOS",
+          "body": "Los desarrolladores acceden a librer\u00edas listas, no necesitan inventar la rueda en cada tarea."
+        },
+        {
+          "title": "FACILITA LA ITERACI\u00d3N",
+          "body": "Prototip\u00e1 y teste\u00e1 ideas nuevas con bloques prefabricados, de forma \u00e1gil y eficiente."
+        }
+      ],
+      "tags": [
+        "PRODUCTIVIDAD",
+        "VELOCIDAD"
+      ],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Unifica la experiencia de usuario",
+      "icon_fa": "fa-solid fa-gem",
+      "body": "Una marca fuerte se construye con coherencia. Tu producto debe sentirse id\u00e9ntico en cada punto de contacto con el cliente.",
+      "bullets": [
+        {
+          "title": "DISE\u00d1O COHERENTE",
+          "body": "Todos los elementos visuales y de interacci\u00f3n siguen las mismas reglas y principios est\u00e9ticos."
+        },
+        {
+          "title": "MEJORA LA USABILIDAD",
+          "body": "Los usuarios reconocen patrones y se sienten c\u00f3modos navegando una interfaz familiar y predecible."
+        },
+        {
+          "title": "REDUCE FRICCI\u00d3N",
+          "body": "Elimina sorpresas en el flujo de usuario, construyendo confianza y lealtad hacia tu marca."
+        }
+      ],
+      "tags": [
+        "UX/UI",
+        "MARCA"
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Escalabilidad garantizada",
+      "icon_fa": "fa-solid fa-code-branch",
+      "graphic_prompt": "horizontal bar chart: 'Dise\u00f1adores m\u00e1s r\u00e1pidos' +34%, 'Tiempo de desarrollo' -50%, 'Velocidad de ciclos' +70%. Accent #FF2978 bars, background #141414, text #E5E5E5. Minimal labels. Source: Netguru.",
+      "graphic_image": "C:\\Users\\danil\\workspace\\2026-05-13\\design-system-components\\batch-1\\graphic_slide05.png",
+      "body": "Prepara tu producto para crecer. Un Design System es la columna vertebral que soporta la expansi\u00f3n futura sin romper el dise\u00f1o.",
+      "tags": [
+        "ARQUITECTURA",
+        "CRECIMIENTO"
+      ],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Optimiza costos a largo plazo",
+      "icon_fa": "fa-solid fa-money-bill-trend-up",
+      "body": "Lo que parece una inversi\u00f3n inicial, se transforma en ahorros exponenciales a medida que tu producto digital evoluciona y crece.",
+      "bullets": [
+        {
+          "title": "MENOS ERRORES",
+          "body": "La estandarizaci\u00f3n minimiza bugs de UI, reduciendo tiempo y recursos de control de calidad (QA)."
+        },
+        {
+          "title": "AHORRO EN DISE\u00d1O",
+          "body": "Los dise\u00f1adores no parten de cero en cada proyecto, lo que acelera y profesionaliza su trabajo."
+        },
+        {
+          "title": "ONBOARDING \u00c1GIL",
+          "body": "Nuevos miembros del equipo se integran m\u00e1s r\u00e1pido gracias a la documentaci\u00f3n clara y organizada."
+        }
+      ],
+      "tags": [
+        "INVERSI\u00d3N",
+        "ROI"
+      ],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Resultados que transforman",
+      "icon_fa": "fa-solid fa-chart-line",
+      "body": "Un Design System bien implementado reduce hasta un 50% el tiempo de desarrollo y los ciclos son un 70% más veloces.",
+      "bullets": [
+        {
+          "title": "EQUIPOS SIN FRICCI\u00d3N",
+          "body": "Dise\u00f1adores y desarrolladores hablan el mismo idioma, evitando retrabajos costosos y demoras."
+        },
+        {
+          "title": "PRODUCTO COHERENTE",
+          "body": "Los usuarios perciben una marca s\u00f3lida y confiable en todas sus interacciones con tu producto."
+        },
+        {
+          "title": "ESCALABILIDAD REAL",
+          "body": "Tu infraestructura est\u00e1 lista para crecer, soportando nuevos features y equipos sin fricciones."
+        }
+      ],
+      "tags": [
+        "M\u00c9TRICAS",
+        "\u00c9XITO"
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "Guard\u00e1 para entender el verdadero valor de tu inversi\u00f3n.",
+      "body": "\u00bfQu\u00e9 otros mitos sobre desarrollo y producto te gustar\u00eda que desarticulemos? \u00a1Contanos!",
+      "giant_word": "GUARD\u00c1",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\shape_diamond.png",
+      "deco_position": "mid-right",
+      "glow_primary": "bottom-left",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    }
+  ]
+}

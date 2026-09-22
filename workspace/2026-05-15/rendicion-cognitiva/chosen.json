@@ -1,0 +1,14 @@
+{
+  "label": "A",
+  "type": "data_stat",
+  "why": "Test — variante A con glow_primary top-right para validar decorativos.",
+  "data": {
+    "stat_value": "73%",
+    "stat_context": "de los participantes aceptó respuestas incorrectas de la IA, aumentando su confianza.",
+    "source": "Estudio con 1.372 participantes",
+    "kicker": "COYUNTURA IA",
+    "glow_primary": "top-right",
+    "dotted_ring": "bottom-left",
+    "dotted_ring_size": "lg"
+  }
+}

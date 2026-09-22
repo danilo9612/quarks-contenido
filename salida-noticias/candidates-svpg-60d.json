@@ -1,0 +1,224 @@
+{
+  "generadoEn": "2026-09-17T20:37:11.855642+00:00",
+  "negocio": "quarks",
+  "maxDiasAntiguedad": 60,
+  "fuentesConsultadas": 1,
+  "fuentesFallidas": [],
+  "totalArticulos": 3,
+  "totalClusters": 3,
+  "clusteresAPuntuar": 3,
+  "descartadosPorton": {},
+  "rescatados": 0,
+  "candidatos": [
+    {
+      "titulo": "A Fresh Definition of The Product Role",
+      "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+      "descripcion": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group .",
+      "fechaPublicacion": "2026-08-10T12:49:18+00:00",
+      "fuente": "SVPG (Marty Cagan)",
+      "prioridad": 2.1,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 1,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "The AI Productivity Paradox",
+      "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+      "descripcion": "We’ve been writing a lot lately about product teams that are clearly leveraging AI to deliver faster, yet their outcomes are not improving. Today, this phenomenon, known as the “AI Productivity Paradox,” has been recognized by people from across the industry. From the latest McKinsey Quarterly: “The business world is grappling with an AI paradox:... The post The AI Productivity Paradox appeared first on Silicon Valley Product Group .",
+      "fechaPublicacion": "2026-07-23T18:22:04+00:00",
+      "fuente": "SVPG (Marty Cagan)",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [
+        "+decisión de producto",
+        "−noticia o coyuntura"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 2,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Strong Opinions, Loosely Held",
+      "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+      "descripcion": "Note: This is the narrative version of a keynote talk for the Lenny Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group .",
+      "fechaPublicacion": "2026-09-11T14:56:15+00:00",
+      "fuente": "SVPG (Marty Cagan)",
+      "prioridad": 0.0,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 3,
+      "puntuar": false,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    }
+  ],
+  "clusters": [
+    {
+      "id": 1,
+      "tema": "A Fresh Definition of The Product Role",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "prioridad": 2.1,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "SVPG (Marty Cagan)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-10T12:49:18+00:00",
+      "descripcion": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group .",
+      "articulos": [
+        {
+          "titulo": "A Fresh Definition of The Product Role",
+          "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+          "fuente": "SVPG (Marty Cagan)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-10T12:49:18+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 2,
+      "tema": "The AI Productivity Paradox",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [
+        "+decisión de producto",
+        "−noticia o coyuntura"
+      ],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "SVPG (Marty Cagan)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.svpg.com/the-ai-productivity-paradox/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-07-23T18:22:04+00:00",
+      "descripcion": "We’ve been writing a lot lately about product teams that are clearly leveraging AI to deliver faster, yet their outcomes are not improving. Today, this phenomenon, known as the “AI Productivity Paradox,” has been recognized by people from across the industry. From the latest McKinsey Quarterly: “The business world is grappling with an AI paradox:... The post The AI Productivity Paradox appeared first on Silicon Valley Product Group .",
+      "articulos": [
+        {
+          "titulo": "The AI Productivity Paradox",
+          "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+          "fuente": "SVPG (Marty Cagan)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-23T18:22:04+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 3,
+      "tema": "Strong Opinions, Loosely Held",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "SVPG (Marty Cagan)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.svpg.com/strong-opinions-loosely-held/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-11T14:56:15+00:00",
+      "descripcion": "Note: This is the narrative version of a keynote talk for the Lenny Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group .",
+      "articulos": [
+        {
+          "titulo": "Strong Opinions, Loosely Held",
+          "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+          "fuente": "SVPG (Marty Cagan)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-11T14:56:15+00:00"
+        }
+      ],
+      "puntuar": false
+    }
+  ]
+}

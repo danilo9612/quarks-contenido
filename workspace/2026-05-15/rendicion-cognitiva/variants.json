@@ -1,0 +1,41 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "data_stat",
+      "why": "Test — variante A con glow_primary top-right para validar decorativos.",
+      "data": {
+        "stat_value": "73%",
+        "stat_context": "de los participantes aceptó respuestas incorrectas de la IA, aumentando su confianza.",
+        "source": "Estudio con 1.372 participantes",
+        "kicker": "COYUNTURA IA",
+        "glow_primary": "top-right",
+        "dotted_ring": "bottom-left",
+        "dotted_ring_size": "lg"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote",
+      "why": "Frase potente.",
+      "data": {
+        "quote": "No heredamos el razonamiento del modelo. Heredamos su confianza.",
+        "kicker": "REFLEXIÓN IA"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote",
+      "why": "Perspectiva accionable.",
+      "data": {
+        "quote": "La clave no es usar menos IA. Es mantener el criterio activo mientras la usás.",
+        "kicker": "CRITERIO ACTIVO"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Coyuntura",
+    "has_data": true,
+    "compatible_types": ["data_stat", "quote"]
+  }
+}

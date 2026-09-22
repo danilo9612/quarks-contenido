@@ -1,0 +1,42 @@
+GUION BASE — Categoría: Educación
+Niche: Métricas primeros 90 días de un producto digital
+CTA Goal: Engagement (comentarios)
+
+---
+
+En los primeros 90 días de un producto digital, la mayoría de los founders mira las métricas equivocadas.
+
+En esta etapa el objetivo no es crecer. Es descubrir si el producto merece crecer. La diferencia entre esas dos preguntas define todo lo que medís.
+
+Hay una diferencia entre métricas de vanidad y métricas de diagnóstico. En los primeros 90 días, solo las segundas importan.
+
+Las métricas de vanidad se ven bien en un slide: usuarios registrados, descargas, primeros ingresos. Te hacen sentir que algo está pasando.
+
+Las de diagnóstico incomodan: ¿cuántos usuarios entendieron para qué sirve el producto? ¿Qué porcentaje volvió al séptimo día? ¿Cuánto tardaron en ver valor real?
+
+Tres métricas para el centro de tu dashboard en esta etapa:
+
+Activation rate — el % que completa la acción clave por primera vez. Si esto falla, nada de lo que construís después funciona.
+
+Retención D7 y D30 — si los usuarios no vuelven en la primera semana, el problema no es marketing. Es el producto.
+
+Time to Value — cuánto tarda un usuario nuevo en obtener el primer resultado concreto. Cuanto más largo, más fricción, más abandono.
+
+Mirar las métricas correctas no es un ejercicio técnico. Es una decisión estratégica.
+
+Porque la pregunta real no es "¿cuántos usuarios tengo?"
+
+Es "¿cuántos de ellos entienden por qué deberían quedarse?"
+
+Los primeros 90 días no son para demostrar crecimiento. Son para ganar el derecho a crecer.
+
+CTA: Para vos, ¿cuáles son las métricas más relevantes al empezar un producto nuevo?
+
+---
+
+PATRONES CLAVE DEL CONTENIDO:
+- Tensión central: métricas de vanidad vs métricas de diagnóstico
+- Las 3 métricas diagnóstico: Activation Rate, Retención D7/D30, Time to Value
+- Insight de reencuadre: los 90 días no son para crecer, sino para "ganar el derecho a crecer"
+- Audiencia: founders de productos digitales en etapa early-stage
+- Tono: directo, sin condescendencia, interpela al lector

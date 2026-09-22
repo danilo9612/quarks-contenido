@@ -1,0 +1,63 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote",
+      "why": "Destaca una reflexión clave del guion sobre el profundo impacto organizacional de la IA, estableciendo una perspectiva de autoridad.",
+      "data": {
+        "quote": "¿Cuánto cuesta el proceso que estás pensando en automatizar?",
+        "kicker": "LA PREGUNTA INCÓMODA",
+        "glow_primary": "center",
+        "gradient_ring": "bottom-right",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Enfoca la frase central del MIT Technology Review sobre la verdadera ventaja competitiva en IA, consolidando a Quarks Alchemist como fuente de conocimiento estratégico.",
+      "data": {
+        "quote": "¿Cuánto cuesta el proceso que estás pensando en automatizar?",
+        "eyebrow": "EL PUNTO CIEGO",
+        "photo_query": "process flow chart whiteboard",
+        "gradient_ring": "top-left",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "C",
+      "type": "insight",
+      "why": "Transforma la pregunta central del guion en un conjunto de pasos claros y accionables, guiando al lector con autoridad y conocimiento práctico.",
+      "data": {
+        "headline": "Rediseño con IA: la pregunta clave",
+        "kicker": "ANTES DE AUTOMATIZAR",
+        "numbered": true,
+        "bullets": [
+          {
+            "title": "¿Qué hacemos?",
+            "body": "Define el proceso real, no el ideal."
+          },
+          {
+            "title": "¿Cuánto cuesta?",
+            "body": "Calcula el costo por servicio o transacción."
+          },
+          {
+            "title": "¿Quién debe hacerlo?",
+            "body": "Identifica el rol de humanos y agentes."
+          }
+        ],
+        "glow_primary": "bottom-right"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": true,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight",
+      "data_stat"
+    ]
+  }
+}

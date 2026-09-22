@@ -1,0 +1,62 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote",
+      "why": "Esta frase es una afirmación contundente que desafía la percepción común, estableciendo la autoridad de Quarks Alchemist al revelar una verdad estratégica sobre el desarrollo.",
+      "data": {
+        "quote": "Tercerizar desarrollo es la decisión más fácil de justificar. Y la más cara de revertir.",
+        "attribution": "Quarks Alchemist",
+        "kicker": "DECISIONES CLAVE",
+        "glow_primary": "center",
+        "gradient_ring": "bottom-right",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "La quote define el eje estratégico de toda la decisión: tercerizar y armar equipo propio no son lo mismo en grado, son decisiones de naturaleza diferente.",
+      "data": {
+        "quote": "TERCERIZAR ES VELOCIDAD. ARMAR EQUIPO PROPIO ES IDENTIDAD.",
+        "eyebrow": "VISIÓN ESTRATÉGICA",
+        "photo_query": "startup office team meeting"
+      }
+    },
+    {
+      "label": "C",
+      "type": "insight",
+      "why": "Este formato ofrece una guía clara y accionable sobre un punto crítico (cuándo armar equipo propio), demostrando el conocimiento profundo y la capacidad de Quarks Alchemist para asesorar en estrategia de producto.",
+      "data": {
+        "headline": "¿CUÁNDO ARMAR EQUIPO PROPIO?",
+        "bullets": [
+          {
+            "title": "NEGOCIO ES DESARROLLO",
+            "body": "Cuando el core es tu producto digital."
+          },
+          {
+            "title": "PRIORIDAD: ITERAR RÁPIDO",
+            "body": "La velocidad supera el costo de cada cambio."
+          },
+          {
+            "title": "EQUIPO SIENTE EL PRODUCTO",
+            "body": "Para que lo construyan con pasión y contexto."
+          }
+        ],
+        "kicker": "CLAVES DEL CRECIMIENTO",
+        "numbered": true,
+        "dotted_ring": "bottom-left",
+        "dotted_ring_size": "md"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": false,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight"
+    ]
+  }
+}

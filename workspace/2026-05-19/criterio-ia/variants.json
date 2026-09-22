@@ -1,0 +1,65 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote",
+      "why": "Extrae la idea central del guion sobre cómo el criterio es el nuevo valor inautomatizable, posicionándolo como la máxima autoridad en la era de la IA.",
+      "data": {
+        "quote": "El criterio no se automatiza. Se construye con años de trabajo, decisiones y patrones.",
+        "kicker": "EL NUEVO VALOR",
+        "glow_primary": "center",
+        "gradient_ring": "bottom-left",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Usa la pregunta central del guion como imagen — el gancho más incómodo y memorable del post.",
+      "data": {
+        "quote": "¿Qué vendés cuando lo que vendés lo puede hacer cualquiera?",
+        "eyebrow": "LA PREGUNTA INCÓMODA",
+        "photo_query": "manager reviewing documents"
+      }
+    },
+    {
+      "label": "C",
+      "type": "insight",
+      "why": "Desglosa los elementos que conforman el 'criterio' según el guion, ofreciendo una perspectiva educativa y práctica sobre cómo se construye esta autoridad interna.",
+      "data": {
+        "headline": "ASÍ SE CONSTRUYE EL CRITERIO",
+        "kicker": "FUNDAMENTO DEL VALOR",
+        "numbered": false,
+        "bullets": [
+          {
+            "icon_fa": "fa-solid fa-clock",
+            "title": "Años de trabajo",
+            "body": "Inmersión profunda en tu industria."
+          },
+          {
+            "icon_fa": "fa-solid fa-lightbulb",
+            "title": "Decisiones acumuladas",
+            "body": "Experiencia crítica en cada proyecto."
+          },
+          {
+            "icon_fa": "fa-solid fa-chart-line",
+            "title": "Errores y patrones",
+            "body": "Identificar tendencias y lecciones aprendidas."
+          }
+        ],
+        "glow_secondary": "top-left",
+        "dotted_ring": "bottom-right",
+        "dotted_ring_size": "md"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": false,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight"
+    ]
+  }
+}

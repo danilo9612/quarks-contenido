@@ -1,0 +1,64 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "Enfoque: \u00bfBurocracia o Blindaje?",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder T\u00e9cnico, Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Declarar el enfoque: \u00bfburocracia o blindaje?",
+      "body_summary": "Desaf\u00eda la idea que definir el enfoque es un freno y muestra c\u00f3mo la falta de claridad genera costos ocultos y fricci\u00f3n en el equipo. La conciencia estrat\u00e9gica ahorra tiempo.",
+      "cta_copy": "\u00bfEn qu\u00e9 momento sentiste que la 'burocracia' te fren\u00f3?",
+      "why_stands_out": "Desaf\u00eda la resistencia inherente a la planificaci\u00f3n, mostrando su valor como una inversi\u00f3n estrat\u00e9gica, no una carga burocr\u00e1tica."
+    },
+    {
+      "label": "B",
+      "framework": "Doble Diamante",
+      "title": "Design vs. L\u00f3gica: \u00bfPelea?",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager, Founder T\u00e9cnico",
+      "hook_type": "friccion",
+      "hook_copy": "Design vs. L\u00f3gica: \u00bfpor qu\u00e9 la pelea?",
+      "body_summary": "Explora la falsa dicotom\u00eda entre dise\u00f1o y l\u00f3gica, guiando al lector a descubrir el enfoque \u00f3ptimo para cada fase del producto. La integraci\u00f3n es clave.",
+      "cta_copy": "\u00bfQu\u00e9 enfoque predomina hoy en tu equipo? Contanos.",
+      "why_stands_out": "Va m\u00e1s all\u00e1 de elegir un bando, ofreciendo un marco para integrar ambas perspectivas de forma din\u00e1mica y consciente."
+    },
+    {
+      "label": "C",
+      "framework": "Data-Driven",
+      "title": "El Usuario S\u00cd Nota",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "Empresa que busca desarrollo, Product Manager",
+      "hook_type": "empirico",
+      "hook_copy": "Usuario y enfoque: el v\u00ednculo oculto.",
+      "body_summary": "Analiza c\u00f3mo la priorizaci\u00f3n (dise\u00f1o o l\u00f3gica) impacta directamente la experiencia final del usuario y las m\u00e9tricas de negocio. El enfoque no es invisible.",
+      "cta_copy": "\u00bfCu\u00e1l fue tu mayor revelaci\u00f3n sobre el impacto del enfoque?",
+      "why_stands_out": "Conecta las decisiones internas de equipo con m\u00e9tricas de usuario y negocio, demostrando que el 'c\u00f3mo' s\u00ed importa a los usuarios finales."
+    },
+    {
+      "label": "D",
+      "framework": "Tutorial",
+      "title": "Eleg\u00ed el Enfoque, No la Herramienta",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager, Desarrollador",
+      "hook_type": "epifania",
+      "hook_copy": "Dej\u00e9 las herramientas. Eleg\u00ed el enfoque.",
+      "body_summary": "Gu\u00eda paso a paso para definir un enfoque de producto consciente, priorizando la estrategia sobre la elecci\u00f3n inicial de herramientas o stacks tecnol\u00f3gicos.",
+      "cta_copy": "\u00bfQu\u00e9 herramienta dejaste de lado por un enfoque claro?",
+      "why_stands_out": "Reorienta la discusi\u00f3n de las soluciones tecnol\u00f3gicas a la estrategia subyacente que gu\u00eda su selecci\u00f3n, promoviendo decisiones conscientes."
+    },
+    {
+      "label": "E",
+      "framework": "Jornada del Founder",
+      "title": "El Enfoque: No Es Solo Del PM",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder No T\u00e9cnico, Founder T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Enfoque de producto: \u00bfsolo el PM decide?",
+      "body_summary": "Relata experiencias donde la falta de consenso en el enfoque del producto gener\u00f3 fricci\u00f3n, y c\u00f3mo una decisi\u00f3n colectiva cambi\u00f3 el rumbo. Es responsabilidad compartida.",
+      "cta_copy": "\u00bfQui\u00e9n crees que debe definir el enfoque final? Coment\u00e1.",
+      "why_stands_out": "Subraya que la estrategia de producto es una responsabilidad compartida, no una delegaci\u00f3n unilateral, para evitar la 'deuda de equipo'."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "label": "A",
+  "framework": "Myth-Busting",
+  "title": "Diseño o código: la decisión sin dueño",
+  "content_bucket": "Arquitectura de Producto",
+  "target_audience": "Founders, Product Managers, devs y diseñadores que arrancan productos",
+  "hook_type": "paradoja",
+  "hook_copy": "Diseño o código: ¿por dónde empezás?",
+  "body_summary": "Arranca con la dicotomía diseño-primero vs lógica-primero como si fuera una decisión técnica. Muestra cuándo conviene cada enfoque (diseño-primero cuando la experiencia es el producto; lógica-primero cuando hay procesos que no pueden romperse) y aclara que en la mayoría de los proyectos reales ambos corren en paralelo. Después gira: el problema no es elegir mal, es no elegir conscientemente. Cuando el diseñador asume diseño-primero y el dev asume lógica-primero, el equipo no tiene una metodología compartida: tiene dos, en silencio, compitiendo. Eso genera la fricción que nadie sabe nombrar en el sprint. El enfoque no declarado se convierte en deuda de equipo.",
+  "cta_copy": "¿Vos cómo arrancás: desde el diseño o desde la lógica?",
+  "why_stands_out": "El hook plantea una dicotomía binaria que el lector cree técnica, y el carrusel la desarma: revela que la verdadera decisión no es cuál enfoque elegir sino declararlo en voz alta. Calza exacto con la tesis del post original."
+}

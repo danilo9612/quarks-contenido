@@ -1,0 +1,115 @@
+{
+  "niche": "rendicion-cognitiva-ia",
+  "total_slides": 8,
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Delegar trabajo ≠ delegar pensamiento",
+      "kicker": "La segunda casi no se nota. Y eso cambia todo.",
+      "accent": "#FF2978",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\orb_medium.png",
+      "deco_position": "bottom-right",
+      "glow_primary": "top-right",
+      "glow_secondary": "bottom-left",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "stat_value": "73%",
+      "stat_context": "aceptó respuestas incorrectas de la IA con más confianza — incluso sabiendo que podían estar mal",
+      "headline": "Heredamos su confianza",
+      "body": "Estudio de Wharton, 1.372 participantes. No heredamos el razonamiento del modelo. Heredamos su certeza.",
+      "icon_fa": "fa-solid fa-brain",
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "¿Cómo se ve en la práctica?",
+      "body": "Addy Osmani, líder de ingeniería en Google Cloud AI, lo llama rendición cognitiva:",
+      "bullets": [
+        {"title": "Aprobar código", "body": "600 líneas que compilan sin entender qué hacen"},
+        {"title": "Resolver un bug", "body": "sin entender qué lo causó"},
+        {"title": "Adoptar una arquitectura", "body": "porque \"el modelo lo sugirió\""}
+      ],
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_pas_agitate",
+      "headline": "No se ve el día que ocurre",
+      "body": "Cada aceptación sin comprensión es un préstamo pequeño. Como cualquier deuda, genera interés cuando algo falla.",
+      "icon_fa": "fa-solid fa-clock-rotate-left",
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_flow_diagram",
+      "headline": "Así se acumula",
+      "steps": [
+        {"label": "01", "title": "Aceptás sin revisar", "highlighted": false},
+        {"label": "02", "title": "El patrón se repite", "highlighted": false},
+        {"label": "03", "title": "El sistema falla", "highlighted": true},
+        {"label": "04", "title": "Nadie puede reconstruirlo", "highlighted": false}
+      ],
+      "body": "La rendición cognitiva no es un evento. Es un proceso.",
+      "icon_fa": "fa-solid fa-arrow-trend-down",
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_pas_solve",
+      "headline": "No es usar menos IA",
+      "body": "Es mantener el criterio activo mientras la usás. La diferencia está en una sola pregunta: ¿la confianza que sentís es tuya?",
+      "icon_fa": "fa-solid fa-circle-check",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_icon_grid",
+      "headline": "3 formas de mantener el criterio",
+      "layout": "list",
+      "items": [
+        {"icon_fa": "fa-solid fa-bullseye", "name": "Formá una expectativa", "body": "Antes de revisar el output, anticipá qué debería decir"},
+        {"icon_fa": "fa-solid fa-magnifying-glass", "name": "Revisá como externo", "body": "Leé el resultado como si lo hubiera producido alguien que no conocés"},
+        {"icon_fa": "fa-solid fa-rotate", "name": "Pedí el contra-argumento", "body": "Preguntale al modelo por qué podría estar equivocado"}
+      ],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "¿Cuándo fue la última vez que resolviste algo sin IA?",
+      "body": "Contanos abajo:",
+      "giant_word": "COMENTÁ",
+      "accent": "#FF2978",
+      "glow_primary": "top-right",
+      "glow_secondary": "bottom-left"
+    }
+  ]
+}

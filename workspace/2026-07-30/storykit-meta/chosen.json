@@ -1,0 +1,13 @@
+{
+  "label": "A",
+  "type": "quote_photo",
+  "why": "Titular de la noticia sobre foto de cuento antes de dormir: la imagen informa, el post opina.",
+  "data": {
+    "quote": "Meta prueba StoryKit: una IA que escribe cuentos para niños",
+    "headline_case": true,
+    "eyebrow": "NUEVA APP",
+    "photo_query": "teddy bear window light",
+    "gradient_ring": "top-right",
+    "gradient_ring_size": "sm"
+  }
+}

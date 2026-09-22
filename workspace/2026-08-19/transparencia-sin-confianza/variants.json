@@ -1,0 +1,61 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "Titular de noticia con el hallazgo medible adelante y la fuente rastreable en el pill. El giro conceptual queda para el cuerpo del post.",
+      "data": {
+        "quote": "Etiquetar un aviso como \"generado por IA\" bajó la intención de click",
+        "headline_case": true,
+        "eyebrow": "EL ESTUDIO",
+        "attribution": "Nuremberg Institute for Market Decisions, 2026",
+        "photo_query": "billboard advertising city night",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "A2",
+      "type": "quote_photo",
+      "why": "Igual que A pero con foto de cartelería en blanco, sin marcas reconocibles.",
+      "data": {
+        "quote": "Etiquetar un aviso como \"generado por IA\" bajó la intención de click",
+        "headline_case": true,
+        "eyebrow": "EL ESTUDIO",
+        "attribution": "Nuremberg Institute for Market Decisions, 2026",
+        "photo_query": "blank billboard sky",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "A3",
+      "type": "quote_photo",
+      "why": "Igual que A, con cartel publicitario vacío en primer plano y sin marcas.",
+      "data": {
+        "quote": "Etiquetar un aviso como \"generado por IA\" bajó la intención de click",
+        "headline_case": true,
+        "eyebrow": "EL ESTUDIO",
+        "attribution": "Nuremberg Institute for Market Decisions, 2026",
+        "photo_query": "empty billboard highway",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm",
+        "photo_shift_y": 60
+      }
+    },
+    {
+      "label": "A4",
+      "type": "quote_photo",
+      "why": "Igual que A, con textura tipografica de recortes de prensa: refuerza el tono titular y no tiene marcas.",
+      "data": {
+        "quote": "Etiquetar un aviso como \"generado por IA\" bajó la intención de click",
+        "headline_case": true,
+        "eyebrow": "EL ESTUDIO",
+        "attribution": "Nuremberg Institute for Market Decisions, 2026",
+        "photo_query": "torn paper posters wall texture",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "label": "A",
+  "type": "framework",
+  "why": "Vertical Educación con 3 métricas accionables nombradas en el guion — image_framework es el match exacto.",
+  "data": {
+    "headline": "QUÉ MEDIR LOS PRIMEROS 90 DÍAS DE PRODUCTO",
+    "body": "El objetivo no es crecer. Es descubrir si el producto merece crecer. La diferencia entre esas dos preguntas define todo lo que medís.",
+    "divider": "TRES MÉTRICAS",
+    "deco_mode": "icon_rings",
+    "deco_icon": "fa-solid fa-chart-line",
+    "bg": "#130021",
+    "muted": "#C0C0C0",
+    "bullets": [
+      {
+        "title": "Activation Rate",
+        "body": "El % que completa la acción clave por primera vez"
+      },
+      {
+        "title": "Retención D7 y D30",
+        "body": "Si no vuelven en la primera semana, el problema es el producto"
+      },
+      {
+        "title": "Time to Value",
+        "body": "Cuánto tarda un usuario en ver su primer resultado concreto"
+      }
+    ]
+  }
+}

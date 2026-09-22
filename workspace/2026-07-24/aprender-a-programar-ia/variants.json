@@ -1,0 +1,63 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote",
+      "why": "Esta frase destila la idea central del guion sobre el valor duradero de una mentalidad, clave para la inspiración y la reflexión profunda.",
+      "data": {
+        "quote": "La sintaxis se olvida; esa forma de pensar queda.",
+        "kicker": "APRENDER A PENSAR",
+        "glow_primary": "center",
+        "dotted_ring": "bottom-right",
+        "dotted_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Resalta una afirmación inspiradora del guion que eleva la programación más allá de lo meramente técnico, conectando con el storytelling de la capacidad humana.",
+      "data": {
+        "quote": "¿VALE LA PENA APRENDER A PROGRAMAR HOY EN DÍA?",
+        "eyebrow": "LA PREGUNTA INCÓMODA",
+        "photo_query": "person coding laptop night"
+      }
+    },
+    {
+      "label": "C",
+      "type": "insight",
+      "why": "Aborda el 'giro' clave del post, explicando de forma educativa y accionable cómo la IA redefine el valor de programar, inspirando una nueva perspectiva.",
+      "data": {
+        "headline": "El nuevo valor de programar",
+        "bullets": [
+          {
+            "icon_fa": "fa-solid fa-compass",
+            "title": "Dirigir",
+            "body": "Equipos y proyectos IA"
+          },
+          {
+            "icon_fa": "fa-solid fa-magnifying-glass",
+            "title": "Revisar",
+            "body": "Código generado por IA"
+          },
+          {
+            "icon_fa": "fa-solid fa-lightbulb",
+            "title": "Decidir",
+            "body": "Estrategias de software"
+          }
+        ],
+        "kicker": "CON IA EN MENTE",
+        "numbered": false,
+        "glow_primary": "top-right"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Inspiración & Storytelling",
+    "has_data": false,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight"
+    ]
+  }
+}

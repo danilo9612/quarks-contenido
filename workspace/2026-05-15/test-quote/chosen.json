@@ -1,0 +1,12 @@
+{
+  "label": "A",
+  "type": "quote",
+  "why": "Test del template quote con glow_primary.",
+  "data": {
+    "quote": "No heredamos el razonamiento del modelo. Heredamos su confianza.",
+    "kicker": "RENDICIÓN COGNITIVA",
+    "glow_primary": "top-right",
+    "dotted_ring": "bottom-left",
+    "dotted_ring_size": "lg"
+  }
+}

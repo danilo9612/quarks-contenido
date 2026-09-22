@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Tutorial",
+      "title": "Gu\u00eda Componentes Escalables",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager / Builder",
+      "hook_type": "friccion",
+      "hook_copy": "\u00bfComponentes ca\u00f3ticos? Escalabilidad en peligro.",
+      "body_summary": "Este tutorial paso a paso te gu\u00eda para construir componentes de Design System robustos y escalables, evitando errores comunes desde el inicio.",
+      "cta_copy": "Guard\u00e1 esta gu\u00eda para tu pr\u00f3ximo lanzamiento de producto.",
+      "why_stands_out": "Ofrece una gu\u00eda t\u00e1ctica muy espec\u00edfica y procesable para un dolor t\u00e9cnico com\u00fan, no solo teor\u00eda abstracta."
+    },
+    {
+      "label": "B",
+      "framework": "Myth-Busting",
+      "title": "Mitos Design System",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Tu Design System no es s\u00f3lo para dise\u00f1adores.",
+      "body_summary": "Desarticulamos el mito de que los Design Systems son un lujo est\u00e9tico, revelando su impacto estrat\u00e9gico en el negocio y desarrollo.",
+      "cta_copy": "Guard\u00e1 para entender el verdadero valor de tu inversi\u00f3n.",
+      "why_stands_out": "Ataca una percepci\u00f3n superficial com\u00fan, elevando la conversaci\u00f3n de los Design Systems a un nivel estrat\u00e9gico de negocio."
+    },
+    {
+      "label": "C",
+      "framework": "Doble Diamante",
+      "title": "Dise\u00f1o Componentes Doble Diamante",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager / Builder",
+      "hook_type": "empirico",
+      "hook_copy": "El proceso Double Diamond para tus componentes.",
+      "body_summary": "Desglosamos c\u00f3mo aplicar la metodolog\u00eda Double Diamond para conceptualizar, dise\u00f1ar y validar componentes de tu Design System, paso a paso.",
+      "cta_copy": "Guard\u00e1 este framework para tu pr\u00f3ximo componente cr\u00edtico.",
+      "why_stands_out": "Utiliza una metodolog\u00eda interna de Quarks para brindar una gu\u00eda estructurada y de autoridad en la creaci\u00f3n de componentes de Design System."
+    },
+    {
+      "label": "D",
+      "framework": "Data-Driven",
+      "title": "Costo Oculto Componentes",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Empresa que busca desarrollo",
+      "hook_type": "epifania",
+      "hook_copy": "El costo de no tener componentes est\u00e1ndar.",
+      "body_summary": "Analizamos datos de equipos de desarrollo y te mostramos el costo oculto de la inconsistencia en los componentes de tu producto.",
+      "cta_copy": "Guard\u00e1 para optimizar tu inversi\u00f3n en desarrollo.",
+      "why_stands_out": "Cuantifica un problema intangible (la falta de estandarizaci\u00f3n en componentes) con una perspectiva de costos, ofreciendo una 'epifan\u00eda' financiera."
+    }
+  ]
+}

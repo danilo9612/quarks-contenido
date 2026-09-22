@@ -1,0 +1,12 @@
+{
+  "label": "B",
+  "type": "quote",
+  "why": "Destaca una declaración central de Marty Cagan sobre el problema fundamental de la disciplina de producto, enseñando al lector sobre la causa raíz de las soluciones mediocres y reenfocando la prioridad en el pensamiento crítico.",
+  "data": {
+    "quote": "El proceso terminó ocupando el lugar del pensamiento.",
+    "kicker": "LA DISCIPLINA DE PRODUCTO",
+    "glow_primary": "center",
+    "dotted_ring": "top-left",
+    "dotted_ring_size": "md"
+  }
+}

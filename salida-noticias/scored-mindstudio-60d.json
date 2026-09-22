@@ -1,0 +1,638 @@
+[
+  {
+    "titulo": "How AI Root-Cause Analysis Cut One Company's Support Tickets by 63%",
+    "titulo_es": "No automatices el ticket: sacá la causa",
+    "url": "https://www.mindstudio.ai/blog/ai-agents-customer-support-root-cause/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-27T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Dos notas arman el mismo argumento contra la intuición dominante. La primera es un playbook para automatizar soporte con IA — agrupar por causa raíz, tapar datos personales, probar los borradores antes de dejar que el agente conteste. La segunda muestra el resultado en un equipo chico: los tickets semanales pasaron de 52 a 19. El giro es que la ganancia no vino de contestar más rápido, sino de dejar de necesitar la respuesta.",
+    "razon_score": "Es el mejor tema del lote: dos artículos, método concreto y una cifra verificable de la propia nota (52 a 19). Además le habla a la Persona 4, que es la que compra confianza antes que método.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-agents-customer-support-root-cause/",
+      "https://www.mindstudio.ai/blog/how-to-build-ai-support-automation-workflow/"
+    ]
+  },
+  {
+    "titulo": "The Discovery Questions That Set Your AI Automation Price",
+    "titulo_es": "Cotizar automatización con IA: el precio se define en el discovery",
+    "url": "https://www.mindstudio.ai/blog/ai-automation-client-discovery-questions/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-02T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "categoria": "Enseñanza",
+    "resumen": "Tres notas cubren el mismo problema desde la mesa de ventas: qué preguntar en la llamada de discovery para poder acotar el alcance, cómo estructurar hitos, cómo anclar el precio al valor probado en vez de a las horas, y por qué vender el resultado funciona mejor que vender la tecnología. Es la trinchera propia de cualquiera que venda servicio técnico, y toca la pregunta incómoda de qué pasa con la hora facturable cuando la IA comprime el trabajo.",
+    "razon_score": "Tema con tres artículos, método accionable y aplicación directa al negocio de una software factory; no llega a 9 porque el material es de agencia y hay que traducirlo a lenguaje de producto.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-automation-client-discovery-questions/",
+      "https://www.mindstudio.ai/blog/ai-agency-pricing-retainers-mistakes/",
+      "https://www.mindstudio.ai/blog/selling-ai-to-businesses-storytelling-beats-technology/"
+    ]
+  },
+  {
+    "titulo": "The Context Sandwich: The Prompting Method That Gets Better AI Results",
+    "titulo_es": "El contexto es el activo, no el prompt",
+    "url": "https://www.mindstudio.ai/blog/context-sandwich-prompting-method-better-ai-results/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-22T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Tres notas convergen en que lo que distingue a un equipo que le saca rendimiento a la IA no es cómo escribe los pedidos sino qué contexto tiene cargado antes de pedir nada: una estructura fija para el encuadre (quién sos, qué tarea, cómo se ve lo bien hecho), memoria compartida del equipo en vez de un historial por persona, y habilidades propias escritas y auditadas en vez de recolectadas de internet. El prompt se tira; el contexto se acumula.",
+    "razon_score": "Tres artículos, método claro y un ángulo que da post propio: el contexto compartido es infraestructura de equipo, no truco individual. Distinto del tema de supervisión que ya salió como guion.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/context-sandwich-prompting-method-better-ai-results/",
+      "https://www.mindstudio.ai/blog/shared-claude-memory-team-setup/",
+      "https://www.mindstudio.ai/blog/how-to-write-effective-ai-skills/"
+    ]
+  },
+  {
+    "titulo": "Are Chinese AI Models Really Catching the US Frontier?",
+    "titulo_es": "Modelos abiertos: la decisión dejó de ser de costo y pasó a ser de gobernanza",
+    "url": "https://www.mindstudio.ai/blog/chinese-ai-models-vs-us-frontier/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-28T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 7,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Dos notas comparan los modelos abiertos contra los del frontier en precio, licencia y capacidad, y después bajan a una guía de decisión: cuándo conviene alojarlo uno mismo y cuándo usar la API, con costos de hardware, términos de licencia y riesgo de gobernanza de datos. Para un equipo de LATAM que trabaja con datos de clientes, la pregunta interesante no es cuál rinde más sino dónde queda la información.",
+    "razon_score": "Buen tema con dos artículos y un marco de decisión real, pero el material es técnico y hay que reescribirlo entero para que le hable a un founder y no a un ingeniero de infraestructura.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/chinese-ai-models-vs-us-frontier/",
+      "https://www.mindstudio.ai/blog/self-hosting-chinese-open-weight-models/"
+    ]
+  },
+  {
+    "titulo": "What Is LoRA Fine-Tuning? How Enterprises Customize AI Models for Private Data",
+    "titulo_es": "Ajustar un modelo con datos propios sin reentrenarlo",
+    "url": "https://www.mindstudio.ai/blog/what-is-lora-fine-tuning-enterprise-ai-private-data/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-20T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Cómo empresas con datos sensibles adaptan un modelo a su dominio sin reentrenarlo entero, con los casos de Discovery Bank y Bayer. Le habla a la Persona 4, pero el tema exige bastante traducción para no sonar a paper.",
+    "razon_score": "Tema serio con casos reales nombrados, pero demasiado técnico para el feed sin una reescritura fuerte.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/what-is-lora-fine-tuning-enterprise-ai-private-data/"
+    ]
+  },
+  {
+    "titulo": "What Does It Mean to Be AI Native? A Framework for Builders and Leaders",
+    "titulo_es": "Qué significa ser AI native: un marco para builders y líderes",
+    "url": "https://www.mindstudio.ai/blog/what-does-it-mean-to-be-ai-native-framework/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-22T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "categoria": "Enseñanza",
+    "resumen": "Un marco que baja la idea de trabajar con IA primero a tres niveles distintos: el que ejecuta, el que dirige un equipo y el que dirige la empresa. La distinción por nivel es lo aprovechable; el resto es bastante genérico.",
+    "razon_score": "El eje de los tres niveles sirve, pero la nota no lo sostiene con casos: hoy el post saldría declarativo.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/what-does-it-mean-to-be-ai-native-framework/"
+    ]
+  },
+  {
+    "titulo": "How to Build a Free Calendly Clone Using AI Coding Agents",
+    "titulo_es": "Clonar un SaaS con agentes: qué queda del foso cuando construir es barato",
+    "url": "https://www.mindstudio.ai/blog/build-calendly-clone-ai-coding-agents/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-28T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "categoria": "Enseñanza",
+    "resumen": "El relato de cómo un builder replicó el núcleo de Calendly con agentes de código. Como tutorial vale poco; como disparador deja la pregunta de qué defiende a un producto cuando construirlo dejó de ser la parte cara.",
+    "razon_score": "El ángulo es bueno pero la nota no lo desarrolla: es una bitácora, y el post habría que construirlo casi entero.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/build-calendly-clone-ai-coding-agents/"
+    ]
+  },
+  {
+    "titulo": "How to Build a 24/7 AI Software Factory With GPT-6 Astra",
+    "titulo_es": "Una fábrica de software que no duerme: de issue a pull request validado",
+    "url": "https://www.mindstudio.ai/blog/ai-software-factory-gpt6-astra-setup/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-13T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Montar un harness autónomo que toma issues de GitHub y devuelve pull requests validados. El concepto roza la identidad de Quarks, pero la nota está atada a un modelo y un setup puntual.",
+    "razon_score": "Idea fuerte, ejecución atada a un proveedor; ya quedó cubierta en parte por el guion de supervisión de agentes.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-software-factory-gpt6-astra-setup/"
+    ]
+  },
+  {
+    "titulo": "How to Use AI for Month-End Financial Reporting: A No-Code Automation",
+    "titulo_es": "Automatizar el cierre mensual sin servidor ni canvas de workflows",
+    "url": "https://www.mindstudio.ai/blog/ai-month-end-financial-reporting-no-code-automation/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-22T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Cómo dejar programado el reporte mensual de resultados describiendo lo que se quiere, sin infraestructura. Útil para la Persona 4, pero es un caso de uso muy angosto.",
+    "razon_score": "Práctico y acotado; no posiciona en producto.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-month-end-financial-reporting-no-code-automation/"
+    ]
+  },
+  {
+    "titulo": "How to Use AI to Write Without Sounding Like Everyone Else",
+    "titulo_es": "Escribir con IA sin sonar como todo el mundo",
+    "url": "https://www.mindstudio.ai/blog/writing-with-ai-without-losing-voice/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-23T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Flujo para redactar con asistencia sin caer en los tics de máquina, apoyado en dictado por voz y revisión.",
+    "razon_score": "Tema con mucho público pero ya muy transitado; sin ángulo propio queda genérico.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/writing-with-ai-without-losing-voice/"
+    ]
+  },
+  {
+    "titulo": "How to Make Your Software Development Lifecycle AI-Native",
+    "titulo_es": "Meter agentes en el ciclo de desarrollo sin adoptar un framework nuevo",
+    "url": "https://www.mindstudio.ai/blog/ai-native-sdlc-coding-agents/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-18T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Guía para incrustar agentes de código en el ciclo existente atravesando producto, desarrollo y QA, sin imponer metodología.",
+    "razon_score": "Insumo principal del guion de supervisión de agentes que ya está en Borrador; suelto se pisa con ese post.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-native-sdlc-coding-agents/"
+    ]
+  },
+  {
+    "titulo": "Claude Code vs Codex vs Hermes: Choosing the Right AI Agent Harness",
+    "titulo_es": "El arnés importa más que el modelo",
+    "url": "https://www.mindstudio.ai/blog/choosing-right-ai-coding-agent-harness/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-12T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Por qué el andamiaje alrededor del modelo decide el resultado más que el modelo mismo. Es el racimo más grande del blog: 23 artículos hermanos en la ventana de 60 días.",
+    "razon_score": "Ya salió como guion (está en Borrador). Se deja puntuado para trazabilidad, no para volver a escribirlo.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/choosing-right-ai-coding-agent-harness/"
+    ]
+  },
+  {
+    "titulo": "The Manager Loop: How to Supervise AI Agents on Multi-Day Projects",
+    "titulo_es": "El manager loop: un agente que te entrevista y después delega",
+    "url": "https://www.mindstudio.ai/blog/manager-loop-technique-ai-agents/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-08T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Un agente coordinador levanta contexto con preguntas y recién ahí reparte trabajo a agentes de ejecución.",
+    "razon_score": "Insumo del guion de supervisión de agentes ya escrito; suelto es una técnica, no un post.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/manager-loop-technique-ai-agents/"
+    ]
+  },
+  {
+    "titulo": "Combine Multiple Coding Agents in One IDE Workflow",
+    "titulo_es": "Planificador, implementador y verificador: tres agentes en un mismo flujo",
+    "url": "https://www.mindstudio.ai/blog/combining-coding-agents-workflow/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-18T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Correr varios agentes de código con roles separados dentro del mismo editor, y verificar con un modelo de otra familia.",
+    "razon_score": "Insumo del guion ya escrito; suelto es demasiado técnico para el feed.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/combining-coding-agents-workflow/"
+    ]
+  },
+  {
+    "titulo": "How to Become the AI Person at Your Company: A Career Roadmap",
+    "titulo_es": "Hoja de ruta para ser la persona de IA de tu empresa",
+    "url": "https://www.mindstudio.ai/blog/how-to-become-the-ai-person/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-19T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Tres fases para convertirse en el referente interno de implementación, con datos de PwC y McKinsey sobre brecha de adopción y prima salarial.",
+    "razon_score": "Ya absorbido por el guion de experiencia sintética que está en Borrador; los datos de PwC y McKinsey quedan disponibles si se hace carrusel.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/how-to-become-the-ai-person/"
+    ]
+  },
+  {
+    "titulo": "How to Use Codex's Browser Agent and Computer Use Features",
+    "titulo_es": "Agentes de navegador para QA: convertir la prueba repetida en automatización",
+    "url": "https://www.mindstudio.ai/blog/codex-browser-agent-computer-use/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-14T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Usar un agente de navegador para QA, logins protegidos y tareas repetidas.",
+    "razon_score": "Útil pero de nicho y atado a una herramienta.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/codex-browser-agent-computer-use/"
+    ]
+  },
+  {
+    "titulo": "How to Use Ox Alpha with Open Design for Free AI UI Generation",
+    "titulo_es": "De diseño a interfaz exportable con un modelo gratuito",
+    "url": "https://www.mindstudio.ai/blog/how-to-use-ox-alpha-open-design/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-25T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Conectar un modelo gratuito a una herramienta de diseño para generar HTML/CSS exportable.",
+    "razon_score": "Práctico y dentro del rubro, sin ángulo propio: se vence rápido.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/how-to-use-ox-alpha-open-design/"
+    ]
+  },
+  {
+    "titulo": "How to Build a Grokbot AI Agent Team for Your Business",
+    "titulo_es": "Armar un equipo de agentes con contexto, conexiones, capacidades y cadencia",
+    "url": "https://www.mindstudio.ai/blog/how-to-build-grokbot-agent-team/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-31T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Framework de cuatro patas para estructurar un equipo de agentes, sobre una herramienta puntual.",
+    "razon_score": "El framework sirve pero el tema del contexto compartido ya lo cubre mejor.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/how-to-build-grokbot-agent-team/"
+    ]
+  },
+  {
+    "titulo": "What Is Dream RSI? Google's Recursive Self-Improvement, Explained",
+    "titulo_es": "Qué es Dream RSI y por qué una IA que mejora su propia investigación cambia los plazos",
+    "url": "https://www.mindstudio.ai/blog/google-dream-rsi-recursive-self-improvement/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-17T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "El paper de Google sobre auto-mejora recursiva: simular investigación pasada para encontrar caminos de descubrimiento más baratos.",
+    "razon_score": "El sujeto es el mundo, no el lector: cruza a Opinión. Sin cifra concreta ni consecuencia laboral clara, queda explicativo.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/google-dream-rsi-recursive-self-improvement/"
+    ]
+  },
+  {
+    "titulo": "How to Use ChatGPT Work Mode to Build a Live Website in Minutes",
+    "titulo_es": "Levantar un sitio publicado desde un solo pedido",
+    "url": "https://www.mindstudio.ai/blog/chatgpt-work-mode-build-live-website/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-07-20T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Generar y publicar un sitio completo desde un único pedido bien encuadrado.",
+    "razon_score": "Demo de herramienta: impresiona y no deja criterio.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/chatgpt-work-mode-build-live-website/"
+    ]
+  },
+  {
+    "titulo": "How to Think Clearly in the AI Era: A Cognition Framework",
+    "titulo_es": "Pensar claro en la era de la IA: un marco de cognición",
+    "url": "https://www.mindstudio.ai/blog/how-to-think-clearly-ai-era-cognition/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-03T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Un marco para no delegar el criterio propio en la herramienta.",
+    "razon_score": "Noble pero abstracto y sin dato: cae en post motivacional, que la marca evita.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/how-to-think-clearly-ai-era-cognition/"
+    ]
+  },
+  {
+    "titulo": "5 Free AI Skills That Make ChatGPT and Claude Actually Useful",
+    "titulo_es": "Cinco habilidades descargables para asistentes de IA",
+    "url": "https://www.mindstudio.ai/blog/best-free-ai-skills-list/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-02T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Listado de cinco skills descargables y para qué sirve cada una.",
+    "razon_score": "Listado de herramientas sin ángulo.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/best-free-ai-skills-list/"
+    ]
+  },
+  {
+    "titulo": "What Is Data Programming? Snorkel AI's Scaling Method Explained",
+    "titulo_es": "Qué es data programming: conocimiento experto convertido en código",
+    "url": "https://www.mindstudio.ai/blog/snorkel-ai-scaling-expert-supervision/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-21T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Escalar supervisión escribiendo el criterio del experto como funciones de etiquetado en vez de anotar a mano.",
+    "razon_score": "Interesante y lejísimos del día a día de la audiencia.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/snorkel-ai-scaling-expert-supervision/"
+    ]
+  },
+  {
+    "titulo": "How to Set Up Grok Bot Agents: Chief of Staff, Routines, and Skills",
+    "titulo_es": "Configurar agentes con delegación, memoria compartida y rutinas",
+    "url": "https://www.mindstudio.ai/blog/grok-bot-tips-and-hacks/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-19T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Setup de agentes múltiples con delegación y memoria compartida en una herramienta puntual.",
+    "razon_score": "Tutorial de producto de un tercero.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/grok-bot-tips-and-hacks/"
+    ]
+  },
+  {
+    "titulo": "Obscura: A Lightweight Rust Headless Browser for AI Web Scraping",
+    "titulo_es": "Obscura: un navegador headless liviano para scrapear con agentes",
+    "url": "https://www.mindstudio.ai/blog/obscura-headless-browser-scraping/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-05T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 3,
+    "bucket_sugerido": "Alquimia en Acción",
+    "categoria": "Enseñanza",
+    "resumen": "Herramienta en Rust para convertir sitios pesados en markdown con mucha menos memoria.",
+    "razon_score": "Nota de herramienta para ingeniería: no le habla a founders ni a PMs.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/obscura-headless-browser-scraping/"
+    ]
+  },
+  {
+    "titulo": "What Computer Should You Buy for Local AI in 2026?",
+    "titulo_es": "Qué computadora comprar para correr IA local en 2026",
+    "url": "https://www.mindstudio.ai/blog/best-computer-for-local-ai-2026/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-17T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 3,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Guía de hardware según VRAM, cuantización y benchmarks.",
+    "razon_score": "Guía de compra: fuera del territorio de la marca.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/best-computer-for-local-ai-2026/"
+    ]
+  },
+  {
+    "titulo": "Verdant Free Mode: Is It Really Free AI Coding?",
+    "titulo_es": "El modo gratuito de Verdant: qué incluye y hasta dónde llega",
+    "url": "https://www.mindstudio.ai/blog/verdant-free-mode-ai-coding/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-14T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 3,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Cómo funcionan el cupo semanal y las recargas del modo gratuito.",
+    "razon_score": "Nota de precios de un producto de terceros.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/verdant-free-mode-ai-coding/"
+    ]
+  },
+  {
+    "titulo": "How to Run TrueForge with Local Models on Your Own Hardware",
+    "titulo_es": "Correr TrueForge con modelos locales",
+    "url": "https://www.mindstudio.ai/blog/trueforge-local-model-setup/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-10T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 3,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Instalar un harness open source apuntado a modelos locales en vez de APIs.",
+    "razon_score": "Tutorial de instalación, sin lectura de negocio.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/trueforge-local-model-setup/"
+    ]
+  },
+  {
+    "titulo": "Let an AI Agent Customize Your Mac or Windows Desktop, Safely",
+    "titulo_es": "Dejar que un agente configure tu escritorio, con límites",
+    "url": "https://www.mindstudio.ai/blog/ai-agent-desktop-customization-mac-windows/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-12T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 3,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Darle a un agente control acotado sobre la configuración del sistema operativo.",
+    "razon_score": "Productividad personal, no producto.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-agent-desktop-customization-mac-windows/"
+    ]
+  },
+  {
+    "titulo": "Turn Real Video Into Animated Style With AI: A Practical Workflow",
+    "titulo_es": "Convertir video real en animación con un pipeline de agentes",
+    "url": "https://www.mindstudio.ai/blog/gpt-6-astra-animated-video-style-transfer/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-11T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "Alquimia en Acción",
+    "categoria": "Enseñanza",
+    "resumen": "Flujo para transferir estilo animado a material filmado.",
+    "razon_score": "Producción audiovisual: no cruza con ningún bucket.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/gpt-6-astra-animated-video-style-transfer/"
+    ]
+  },
+  {
+    "titulo": "How to Run OUI-1 with vLLM for Generative UI",
+    "titulo_es": "Servir OUI-1 con vLLM para generación de interfaces",
+    "url": "https://www.mindstudio.ai/blog/run-oui-1-vllm/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-14T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Cuantización, memoria de GPU y llamadas compatibles para servir un modelo de generación de interfaces.",
+    "razon_score": "Infraestructura pura: la audiencia no toma estas decisiones.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/run-oui-1-vllm/"
+    ]
+  },
+  {
+    "titulo": "Run MiniMax H3 Locally: VRAM Guide From 6GB Cards to the 5090",
+    "titulo_es": "Correr MiniMax H3 en local: guía de VRAM",
+    "url": "https://www.mindstudio.ai/blog/minimax-h3-run-locally-guide/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-07T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Niveles de VRAM para correr un modelo de video open source.",
+    "razon_score": "Guía de hardware para un modelo puntual.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/minimax-h3-run-locally-guide/"
+    ]
+  },
+  {
+    "titulo": "Nex-N2.5 Benchmarks vs Claude Opus 5, GPT-5.6, and Kimi K3",
+    "titulo_es": "Benchmarks de Nex-N2.5 contra los modelos del frontier",
+    "url": "https://www.mindstudio.ai/blog/nex-n2-5-benchmarks-vs-claude-gpt/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-13T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Puntajes de un modelo nuevo en tres benchmarks, comparados contra los del frontier.",
+    "razon_score": "Comparativa de benchmarks: la regla de admisión de Opinión lo excluye.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/nex-n2-5-benchmarks-vs-claude-gpt/"
+    ]
+  },
+  {
+    "titulo": "Agnes-3.0-Flash Preview: Specs and Benchmarks of the Open Model",
+    "titulo_es": "Agnes-3.0-Flash Preview: specs y benchmarks del modelo abierto",
+    "url": "https://www.mindstudio.ai/blog/agnes-3-flash-open-weight-model/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-09-17T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Specs de un modelo abierto de 33B con 262K de contexto y tool calling.",
+    "razon_score": "Anuncio de modelo: excluido explícitamente.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/agnes-3-flash-open-weight-model/"
+    ]
+  },
+  {
+    "titulo": "Grokbot Price Drop: What the Cheaper Tier Opens Up for Agent Teams",
+    "titulo_es": "Bajó el precio de Grokbot: qué habilita el plan más barato",
+    "url": "https://www.mindstudio.ai/blog/grokbot-pricing-access-course/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-31T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Cambio de precios de una suscripción y qué incluye el plan nuevo.",
+    "razon_score": "Anuncio comercial de un tercero.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement (buzz 0.0 en los 494 temas).",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/grokbot-pricing-access-course/"
+    ]
+  }
+]

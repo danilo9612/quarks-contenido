@@ -1,0 +1,22 @@
+TEMA: Métricas en los primeros 90 días de un producto digital
+
+TESIS CENTRAL:
+En los primeros 90 días, el objetivo no es crecer sino descubrir si el producto merece crecer. La diferencia entre esas dos preguntas define todo lo que medís.
+
+TENSIÓN PRINCIPAL:
+- Métricas de vanidad: usuarios registrados, descargas, primeros ingresos. Se ven bien en un slide. Hacen sentir que algo está pasando.
+- Métricas de diagnóstico: incomodan porque revelan si hay valor real. ¿Cuántos usuarios entendieron para qué sirve el producto? ¿Qué porcentaje volvió al día 7? ¿Cuánto tardaron en ver valor real?
+
+LAS 3 MÉTRICAS QUE IMPORTAN:
+1. Activation rate — el % que completa la acción clave por primera vez. Si esto falla, nada de lo que construís después funciona.
+2. Retención D7 y D30 — si los usuarios no vuelven en la primera semana, el problema no es marketing. Es el producto.
+3. Time to Value — cuánto tarda un usuario nuevo en obtener el primer resultado concreto. Cuanto más largo, más fricción, más abandono.
+
+CONCLUSIÓN ESTRATÉGICA:
+Mirar las métricas correctas no es un ejercicio técnico. Es una decisión estratégica.
+La pregunta real no es "¿cuántos usuarios tengo?" sino "¿cuántos de ellos entienden por qué deberían quedarse?"
+Los primeros 90 días no son para demostrar crecimiento. Son para ganar el derecho a crecer.
+
+CTA: Para vos, ¿cuáles son las métricas más relevantes al empezar un producto nuevo?
+CATEGORÍA: Educación
+AUDIENCIA OBJETIVO: Founders, PMs, builders de productos digitales en etapa temprana

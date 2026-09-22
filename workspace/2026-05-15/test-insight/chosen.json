@@ -1,0 +1,25 @@
+{
+  "label": "A",
+  "type": "insight",
+  "why": "Test del template insight con numbered=true y un glow sutil.",
+  "data": {
+    "headline": "Cómo mantener el criterio activo",
+    "kicker": "FRAMEWORK",
+    "numbered": true,
+    "glow_primary": "top-left",
+    "bullets": [
+      {
+        "title": "Formar expectativa",
+        "body": "Antes de mirar el output, escribí qué esperás que diga."
+      },
+      {
+        "title": "Revisar como ajeno",
+        "body": "Tratá el resultado como si lo hubiera hecho alguien que no entendió el problema."
+      },
+      {
+        "title": "Pedir contraargumento",
+        "body": "Hacé que el modelo argumente en contra de su propia respuesta."
+      }
+    ]
+  }
+}

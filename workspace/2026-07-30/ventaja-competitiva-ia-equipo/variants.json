@@ -1,0 +1,67 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "Presenta una cita directa y contundente de una inversora reconocida, validando el punto central del post sobre la ventaja humana, lo que refuerza la autoridad del mensaje.",
+      "data": {
+        "quote": "Un gran equipo, 100%.",
+        "attribution": "Damaris Mendoza, Partner de 500 Global",
+        "eyebrow": "VENTAJA COMPETITIVA",
+        "photo_query": "candid startup team working",
+        "gradient_ring": "bottom-left",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "insight",
+      "why": "Desglosa de manera estructurada y autoritativa los atributos humanos irremplazables que definen el verdadero 'foso' competitivo, posicionando al post como un análisis profundo y diferenciado.",
+      "data": {
+        "headline": "Tu foso no es la IA",
+        "kicker": "LO ESCASO ES HUMANO",
+        "bullets": [
+          {
+            "icon_fa": "fa-solid fa-lightbulb",
+            "title": "Criterio",
+            "body": "Elegir qué problema resolver"
+          },
+          {
+            "icon_fa": "fa-solid fa-handshake",
+            "title": "Honestidad",
+            "body": "Pivotar cuando los datos te contradicen"
+          },
+          {
+            "icon_fa": "fa-solid fa-comments",
+            "title": "Claridad",
+            "body": "Explicar por qué algo vale la pena"
+          }
+        ],
+        "numbered": false,
+        "glow_primary": "center"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote",
+      "why": "Ofrece una reflexión central y lapidaria del post que redefine la base de la competitividad tecnológica, demostrando una perspectiva analítica sólida y autorizada sobre el futuro de la IA.",
+      "data": {
+        "quote": "Si todos accedemos a los mismos modelos, la capacidad técnica deja de ser un foso y se vuelve piso.",
+        "kicker": "EL NUEVO TERRENO",
+        "glow_secondary": "bottom-left",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": true,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight",
+      "data_stat"
+    ]
+  }
+}

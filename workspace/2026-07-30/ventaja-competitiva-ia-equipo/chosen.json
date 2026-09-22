@@ -1,0 +1,13 @@
+{
+  "label": "A",
+  "type": "quote_photo",
+  "why": "Presenta una cita directa y contundente de una inversora reconocida, validando el punto central del post sobre la ventaja humana, lo que refuerza la autoridad del mensaje.",
+  "data": {
+    "quote": "Un gran equipo, 100%.",
+    "attribution": "Damaris Mendoza, Partner de 500 Global",
+    "eyebrow": "VENTAJA COMPETITIVA",
+    "photo_query": "candid startup team working",
+    "gradient_ring": "bottom-left",
+    "gradient_ring_size": "sm"
+  }
+}

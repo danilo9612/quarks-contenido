@@ -1,0 +1,65 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "insight",
+      "why": "Esta variante ofrece al lector una herramienta concreta y accionable (el test de 'decisión vs. entregable') para evaluar y mejorar los procesos de su equipo, abordando directamente el 'cómo se hace bien esto' para un PM o builder.",
+      "data": {
+        "headline": "¿Tu ritual de equipo: Decisión o Entregable?",
+        "bullets": [
+          {
+            "icon_fa": "fa-solid fa-question-circle",
+            "title": "¿Qué se pierde?",
+            "body": "Si alguien lo saltea, ¿qué falta?"
+          },
+          {
+            "icon_fa": "fa-solid fa-lightbulb",
+            "title": "Analiza el proceso",
+            "body": "Si es entregable, dejó de ayudar a pensar."
+          },
+          {
+            "icon_fa": "fa-solid fa-brain",
+            "title": "Prioriza la idea",
+            "body": "La buena solución vale más que el método."
+          }
+        ],
+        "kicker": "CRÍTICA AL MÉTODO",
+        "gradient_ring": "bottom-right",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote",
+      "why": "Destaca una declaración central de Marty Cagan sobre el problema fundamental de la disciplina de producto, enseñando al lector sobre la causa raíz de las soluciones mediocres y reenfocando la prioridad en el pensamiento crítico.",
+      "data": {
+        "quote": "El proceso terminó ocupando el lugar del pensamiento.",
+        "kicker": "LA DISCIPLINA DE PRODUCTO",
+        "glow_primary": "center",
+        "dotted_ring": "top-left",
+        "dotted_ring_size": "md"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote",
+      "why": "Enfoca la atención en la lección clave de que el éxito del producto depende de la calidad de la solución y no solo de la adherencia al método, proporcionando una perspectiva esencial para el aprendizaje y la toma de decisiones del lector.",
+      "data": {
+        "quote": "Cuando un producto fracasa, casi siempre es porque la solución que se le ocurrió al equipo no era lo bastante buena.",
+        "attribution": "Marty Cagan",
+        "kicker": "LA CALIDAD DE LA IDEA",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Enseñanza",
+    "has_data": true,
+    "compatible_types": [
+      "insight",
+      "data_stat",
+      "quote"
+    ]
+  }
+}

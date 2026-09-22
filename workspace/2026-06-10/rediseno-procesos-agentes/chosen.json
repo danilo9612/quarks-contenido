@@ -1,0 +1,12 @@
+{
+  "label": "B",
+  "type": "quote_photo",
+  "why": "Enfoca la frase central del MIT Technology Review sobre la verdadera ventaja competitiva en IA, consolidando a Quarks Alchemist como fuente de conocimiento estratégico.",
+  "data": {
+    "quote": "¿Cuánto cuesta el proceso que estás pensando en automatizar?",
+    "eyebrow": "EL PUNTO CIEGO",
+    "photo_query": "process flow chart whiteboard",
+    "gradient_ring": "top-left",
+    "gradient_ring_size": "sm"
+  }
+}

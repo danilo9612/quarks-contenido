@@ -1,0 +1,64 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "Dise\u00f1o vs. T\u00e9cnica Integrada",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager",
+      "hook_type": "paradoja",
+      "hook_copy": "Dise\u00f1o y c\u00f3digo: inseparables. \u00bfO no?",
+      "body_summary": "Desmontamos la idea de que dise\u00f1o y desarrollo son fases distintas. Explicamos c\u00f3mo la integraci\u00f3n temprana evita costos futuros y alinea el producto con el usuario.",
+      "cta_copy": "\u00bfQu\u00e9 error de esta visi\u00f3n viste m\u00e1s seguido? Contanos.",
+      "why_stands_out": "Este concepto desaf\u00eda la noci\u00f3n com\u00fan de la separaci\u00f3n entre dise\u00f1o y t\u00e9cnica, proponiendo una integraci\u00f3n temprana que muchos no consideran."
+    },
+    {
+      "label": "B",
+      "framework": "Jornada del Founder",
+      "title": "Fricci\u00f3n en el Sprint",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder No T\u00e9cnico",
+      "hook_type": "friccion",
+      "hook_copy": "Tu sprint no fluye: \u00bfpor qu\u00e9 siempre?",
+      "body_summary": "Compartimos nuestra experiencia identificando la verdadera ra\u00edz de la fricci\u00f3n en sprints. No es normal, es s\u00edntoma de enfoques no declarados.",
+      "cta_copy": "\u00bfCu\u00e1l es la fricci\u00f3n que m\u00e1s te frustra hoy?",
+      "why_stands_out": "Humaniza el problema de la fricci\u00f3n del sprint, yendo m\u00e1s all\u00e1 de la 'mala suerte' para revelar causas sist\u00e9micas y profundas."
+    },
+    {
+      "label": "C",
+      "framework": "Doble Diamante",
+      "title": "MVP con Enfoque",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Founder T\u00e9cnico",
+      "hook_type": "empirico",
+      "hook_copy": "Lanzamos 10 MVPs. Faltaba esto.",
+      "body_summary": "Gu\u00eda pr\u00e1ctica para definir la estrategia de tu MVP *antes* de programar. El Doble Diamante te ayuda a construir con prop\u00f3sito desde el inicio.",
+      "cta_copy": "\u00bfC\u00f3mo defin\u00eds el enfoque de tu pr\u00f3ximo producto?",
+      "why_stands_out": "Aplica la metodolog\u00eda Double Diamond de Quarks para abordar el mito del MVP sin estrategia, ofreciendo un proceso claro y accionable."
+    },
+    {
+      "label": "D",
+      "framework": "Antes/Despu\u00e9s",
+      "title": "Dise\u00f1o y L\u00f3gica Simult\u00e1neos",
+      "content_bucket": "Alquimia en Acci\u00f3n",
+      "target_audience": "Empresa que busca desarrollo",
+      "hook_type": "epifania",
+      "hook_copy": "Mi error m\u00e1s caro: separar dise\u00f1o y dev.",
+      "body_summary": "Un caso real de c\u00f3mo la integraci\u00f3n temprana de dise\u00f1o y desarrollo transform\u00f3 un producto estancado, demostrando resultados tangibles en el negocio.",
+      "cta_copy": "\u00bfExperimentaste la potencia de dise\u00f1ar y desarrollar juntos?",
+      "why_stands_out": "Va m\u00e1s all\u00e1 de la teor\u00eda con un ejemplo concreto de transformaci\u00f3n, contrastando un 'antes' problem\u00e1tico con un 'despu\u00e9s' exitoso gracias a la simultaneidad."
+    },
+    {
+      "label": "E",
+      "framework": "Data-Driven",
+      "title": "Alineaci\u00f3n M\u00e1s All\u00e1",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "C-Level",
+      "hook_type": "paradoja",
+      "hook_copy": "M\u00e1s comunicaci\u00f3n no es m\u00e1s alineaci\u00f3n.",
+      "body_summary": "Analizamos por qu\u00e9 la 'buena comunicaci\u00f3n' no siempre basta. Descubr\u00ed c\u00f3mo el enfoque de equipo no declarado genera desalineaci\u00f3n profunda.",
+      "cta_copy": "\u00bfCu\u00e1l crees que es el verdadero problema de alineaci\u00f3n?",
+      "why_stands_out": "Profundiza en la compleja din\u00e1mica de equipo, desafiando la creencia superficial de que la comunicaci\u00f3n por s\u00ed sola resuelve todos los problemas de alineaci\u00f3n."
+    }
+  ]
+}

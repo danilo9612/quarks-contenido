@@ -1,0 +1,64 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote",
+      "why": "Establece autoridad al desafiar una percepción común sobre la IA y proponer una visión más profunda y estratégica de la ventaja competitiva.",
+      "data": {
+        "quote": "El activo no es el modelo. Es lo que tu gente hace cuando el modelo se equivoca.",
+        "kicker": "IA ESTRATÉGICA",
+        "glow_primary": "center",
+        "gradient_ring": "bottom-right",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "B",
+      "type": "insight",
+      "why": "Ofrece un marco práctico y educativo sobre cómo las operaciones cotidianas se transforman en aprendizaje de IA, consolidando la autoridad de la marca como guía.",
+      "data": {
+        "headline": "Tu operación: Una fábrica de datos viva",
+        "bullets": [
+          {
+            "icon_fa": "fa-solid fa-lightbulb",
+            "title": "Cada excepción",
+            "body": "Es un ejemplo de entrenamiento"
+          },
+          {
+            "icon_fa": "fa-solid fa-arrow-turn-up",
+            "title": "Cada corrección",
+            "body": "Genera una señal valiosa"
+          },
+          {
+            "icon_fa": "fa-solid fa-circle-check",
+            "title": "Cada aprobación",
+            "body": "Crea un dato etiquetado"
+          }
+        ],
+        "kicker": "CÓMO APRENDE LA IA",
+        "numbered": false,
+        "glow_primary": "top-left"
+      }
+    },
+    {
+      "label": "C",
+      "type": "data_stat",
+      "why": "Cuantifica el enorme potencial de datos que las empresas pueden generar internamente, usando un dato específico del guion para reforzar la credibilidad y autoridad.",
+      "data": {
+        "stat_value": "150.000",
+        "stat_context": "ejemplos de calidad generados cada semana en 50.000 casos, sin fricción extra.",
+        "kicker": "VALOR OCULTO EN TUS DATOS",
+        "dotted_ring": "top-right",
+        "dotted_ring_size": "md"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": false,
+    "compatible_types": [
+      "quote",
+      "insight"
+    ]
+  }
+}

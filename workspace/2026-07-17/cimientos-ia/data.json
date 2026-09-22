@@ -1,0 +1,27 @@
+{
+  "headline": "6 de cada 10 proyectos de IA no llegan",
+  "body": "Gartner lo proyecta para antes de 2026. Y casi nunca falla el modelo: fallan los cimientos que nunca estuvieron debajo.",
+  "divider": "CUATRO CIMIENTOS",
+  "deco_mode": "icon_rings",
+  "deco_icon": "fa-solid fa-layer-group",
+  "bg": "#130021",
+  "muted": "#ADA8B8",
+  "bullets": [
+    {
+      "title": "Datos listos para IA",
+      "body": "Sin datos limpios, ninguna demo sobrevive en producción."
+    },
+    {
+      "title": "Ingeniería de contexto",
+      "body": "Diseñar qué recupera el modelo, de dónde y cómo."
+    },
+    {
+      "title": "Gobernanza y observabilidad",
+      "body": "Medir costo, seguridad y comportamiento desde el día uno."
+    },
+    {
+      "title": "Equipo humano",
+      "body": "Alguien orquesta y piensa de forma crítica."
+    }
+  ]
+}

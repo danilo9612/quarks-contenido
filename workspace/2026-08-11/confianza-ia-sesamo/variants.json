@@ -1,0 +1,52 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "Aborda la coyuntura de errores críticos en IA, enfatizando el problema de soluciones técnicamente correctas pero contextualmente erróneas, un modo de falla que el guion destaca como el más costoso.",
+      "data": {
+        "quote": "LA RESPUESTA ERA BUENA PARA OTRA PREGUNTA. ESE MODO DE FALLA ES EL MÁS CARO.",
+        "eyebrow": "REFLEXIÓN",
+        "photo_query": "square peg round hole",
+        "glow_primary": "top-right",
+        "gradient_ring": "bottom-left",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Resalta la coyuntura de la confianza en la IA, comparándola con la confianza humana y la necesidad inherente de verificación cuando el 'no saber' no es comunicado, un punto crítico en la interacción humano-tecnología.",
+      "data": {
+        "quote": "LA CONFIANZA ES UN MECANISMO DE AHORRO. LAS PERSONAS AVISAN CUANDO NO SABEN.",
+        "eyebrow": "PERSPECTIVA",
+        "photo_query": "two people discussing verification",
+        "glow_secondary": "center",
+        "dotted_ring": "top-right",
+        "dotted_ring_size": "md"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote_photo",
+      "why": "Titular estilo noticia: el hecho concreto adelante. Da el caso completo de un vistazo y deja el desarrollo conceptual para el cuerpo del post.",
+      "data": {
+        "quote": "Un productor perdió 10 hectáreas de cultivo por seguir una receta generada por IA",
+        "headline_case": true,
+        "eyebrow": "CHUZHOU, CHINA",
+        "photo_query": "harvest field aerial golden",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm",
+        "photo_shift_y": 95
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Coyuntura",
+    "has_data": false,
+    "compatible_types": [
+      "quote_photo",
+      "quote"
+    ]
+  }
+}

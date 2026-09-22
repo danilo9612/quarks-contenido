@@ -1,0 +1,23 @@
+Si le pedís a una IA una interfaz linda, te va a dar la misma interfaz linda que a todos.
+
+No es un límite del modelo. Le pedimos un resultado cuando lo que necesita es un proceso, y hay uno que ya usás.
+
+Anshu Chimala pasó doce años liderando diseño e ingeniería en Apple, prototipando productos de IA. Su método tiene tres etapas. Son las del Doble Diamante.
+
+Descubrir. Pedir direcciones radicales, no razonables: pixel art, ciudad isométrica, lo que abra el abanico. Y meterle ruido a propósito: un string de caracteres al azar como semilla alcanza para correr al modelo de su estética por defecto, que es el promedio de lo que vio.
+
+Definir. Acá está lo que casi nadie hace: abrir un segundo agente que solo haga de crítico. Le pasás la captura y le pedís una nota del 0 al 10 con el motivo. Iterás contra la nota, no contra tu gusto a las once de la noche.
+
+Entregar. Sacar lo que no aporta y cazar los tells de IA: esos gradientes, esas sombras, ese espaciado que delatan de dónde salió.
+
+Lo interesante no es la técnica.
+
+Es que el modelo no mejora con un prompt más largo. Mejora cuando le armás las etapas que un equipo de diseño ya tenía.
+
+Divergir. Converger. Pulir.
+
+El oficio no se movió de lugar. Cambió que ahora dirigís el proceso en vez de ejecutarlo.
+
+Guardalo para la próxima vez que abras un chat esperando que salga bien de una.
+
+https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world

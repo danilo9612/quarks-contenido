@@ -1,0 +1,273 @@
+[
+  {
+    "titulo": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
+    "titulo_es": "Cómo se arregla una sola queja de cliente: 4 evals y 16 variantes",
+    "url": "https://www.producttalk.org/4-new-evals-and-16-experiment-variants/",
+    "fuente": "Product Talk (Teresa Torres)",
+    "fechaPublicacion": "2026-09-16T13:00:36+00:00",
+    "negocio": "quarks",
+    "score": 9,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Torres publicó en dos semanas una serie completa sobre evals para equipos de producto: la guía conceptual, el test harness que usa para correrlos, y el caso end-to-end donde una queja de un cliente de Vistaly se convierte en 4 evals y 16 variantes de experimento. Es método con ejemplo trabajado y herramienta descargable: exactamente el material de Enseñanza que se puede traducir a un equipo chico de LATAM.",
+    "razon_score": "Es método puro, accionable y con caso concreto, del canon que la marca ya sigue, y en español casi nadie lo está contando.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: son blogs del canon de producto, que no viven en HN. El perfil de Enseñanza pondera buzz en 0.1 justamente por eso.",
+    "articulos_del_tema": [
+      "https://www.producttalk.org/4-new-evals-and-16-experiment-variants/",
+      "https://www.producttalk.org/ai-evals/",
+      "https://www.producttalk.org/ai-evals-test-harness/"
+    ]
+  },
+  {
+    "titulo": "Delivery Isn't Free - All Things Product Podcast with Teresa Torres & Petra Wille",
+    "titulo_es": "La entrega no es gratis: tres voces del canon desarman el claim del año",
+    "url": "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
+    "fuente": "Product Talk (Teresa Torres), Roman Pichler, SVPG (Marty Cagan)",
+    "fechaPublicacion": "2026-09-15T13:00:58+00:00",
+    "negocio": "quarks",
+    "score": 9,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Tres referentes distintos escribieron en el mismo mes sobre lo mismo desde ángulos separados: Torres y Wille desarman la frase repetida de que la IA vuelve gratis la entrega; Pichler sostiene que sin modelo operativo la IA rinde poco; Cagan reescribe la definición del rol de producto. El hilo común es que abaratar la construcción no abarata la decisión de qué construir, y eso es lo que define el trabajo del que hace producto.",
+    "razon_score": "Tema agrupado de tres fuentes independientes del canon, con tesis contraintuitiva y sujeto claramente en el lector: es el mejor candidato del lunes.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: blogs del canon, tres fuentes distintas convergiendo en el mismo mes (corroboración temática, no medida por el script).",
+    "articulos_del_tema": [
+      "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "https://www.romanpichler.com/blog/product-operating-model-the-crucial-enabler-for-ai-success/",
+      "https://www.svpg.com/a-fresh-definition-of-the-product-role/"
+    ]
+  },
+  {
+    "titulo": "Connecting Product Outcomes to Business Strategy",
+    "titulo_es": "Cómo conectar los outcomes de producto con la estrategia del negocio",
+    "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+    "fuente": "Roman Pichler",
+    "fechaPublicacion": "2026-09-15T09:41:42+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Pichler ataca el hueco entre lo que el equipo mide y lo que la empresa necesita: casi todo producto dice crear valor para la gente y para el negocio, pero pocos pueden mostrar en qué medida lo logran. Da el andamiaje para encadenar outcome de producto con impacto de negocio, que es la conversación que un founder no técnico necesita tener con su equipo.",
+    "razon_score": "Canon puro, outcome vs. feature, aplicable tal cual a un equipo chico; le falta el ángulo contraintuitivo que tienen los dos de arriba.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: blog del canon de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/"
+    ]
+  },
+  {
+    "titulo": "Ch. 10: Testing Assumptions",
+    "titulo_es": "Capítulo 10: probar supuestos",
+    "url": "https://www.producttalk.org/ch-10-testing-assumptions/",
+    "fuente": "Product Talk (Teresa Torres)",
+    "fechaPublicacion": "2026-09-21T13:00:42+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Guía de lectura del capítulo de Continuous Discovery Habits dedicado a probar supuestos, por los cinco años del libro. Es el corazón del discovery continuo: mapear qué estás asumiendo antes de construir y diseñar el test más barato que lo tumba. Traducido, es material directo para el lunes.",
+    "razon_score": "Canon central del discovery y altamente enseñable, aunque es una guía de lectura y no una pieza con tesis propia.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: blog del canon de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.producttalk.org/ch-10-testing-assumptions/"
+    ]
+  },
+  {
+    "titulo": "Build your own company brain: the enterprise AI playbook from Stripe's engineering team | Sharadh Krishnamurthy",
+    "titulo_es": "Construir el cerebro de la empresa: el playbook de IA interna de Stripe",
+    "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-07T12:04:19+00:00",
+    "negocio": "quarks",
+    "score": 7,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Stripe cuenta cómo llevó la IA a toda la empresa construyendo contexto, gobernanza y una plataforma de skills compartida dentro de su agente interno. Junto con el caso del PM de Melio que armó un asistente que se auto-mejora y la fábrica de PRs de Warp, el tema es que el rendimiento de la IA en una organización depende del contexto que le construís, no del modelo que elegís.",
+    "razon_score": "Tema agrupado con aplicación práctica clara para un equipo chico, pero los casos son de empresas grandes y hay que hacer el trabajo de bajarlo a escala LATAM.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp"
+    ]
+  },
+  {
+    "titulo": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+    "titulo_es": "El PM que delega el 70% de su día a la IA (y qué se queda para él)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-08-31T15:01:58+00:00",
+    "negocio": "quarks",
+    "score": 7,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Serie de casos de gente de producto y diseño mostrando el setup concreto con el que la IA se come la parte repetitiva de su semana: dos diseñadores manejando Figma desde el celular, un PM que automatiza seguimiento entre Slack, Notion y mail, y un proceso para sacarle trabajo creativo de diseño. Es práctica accionable, que es la única puerta por la que la IA entra a Enseñanza.",
+    "razon_score": "Material aplicable y concreto, pero son demos de herramientas y el ángulo hay que ponerlo nosotros: qué se delega y qué no.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world"
+    ]
+  },
+  {
+    "titulo": "Creating Aha! Builder: Concept to Code, No Engineers Required",
+    "titulo_es": "Construir una herramienta sin ingenieros: el caso Aha! Builder",
+    "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
+    "fuente": "Product Talk (Teresa Torres)",
+    "fechaPublicacion": "2026-09-17T13:00:52+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "resumen": "Torres entrevista al CEO de Aha! sobre cómo construyeron un app builder pensado para PMs y no para ingenieros, dentro de un mercado ya saturado. Interesa por la decisión de posicionamiento más que por el método.",
+    "razon_score": "Es un caso de empresa, no un método transferible; el sujeto termina siendo la empresa y no el lector.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: blog del canon de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/"
+    ]
+  },
+  {
+    "titulo": "90 minutes of unfiltered product advice from Snap and Discord's product chief | Peter Sellis",
+    "titulo_es": "90 minutos de consejo de producto sin filtro, de Snap y Discord",
+    "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-20T12:32:17+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "resumen": "Entrevista larga sobre cómo diseñar equipos de producto, exigirle a la gente buena y las contradicciones del rol de PM. Hay material suelto aprovechable, pero es una bolsa de consejos sin tesis única.",
+    "razon_score": "Sin un solo hilo conductor, un post que lo resuma queda en lista de tips y eso no es lo que hace Enseñanza.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product"
+    ]
+  },
+  {
+    "titulo": "60+ new creative growth ideas",
+    "titulo_es": "60+ ideas creativas de growth",
+    "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-15T12:45:28+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "resumen": "Compilado de tácticas de growth para diferenciarse cuando todos corren el mismo playbook. Útil como banco de ideas, lejos del núcleo de producto que trabaja la categoría.",
+    "razon_score": "Es growth táctico y formato listado: relevante de refilón pero forzado para el lunes.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/60-creative-growth-ideas"
+    ]
+  },
+  {
+    "titulo": "AI's third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
+    "titulo_es": "La tercera era de la IA: compañeros de trabajo que persisten",
+    "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-08-30T12:31:30+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Tesis sobre agentes que persisten en el tiempo y sobre construir para los modelos que van a existir en dos o tres meses. El sujeto acá es el mundo, no el lector: si se usa, es material del jueves y no del lunes.",
+    "razon_score": "Es lectura de industria sin cifra ni método, y cruza de categoría: por el test de clasificación va a Opinión, donde compite floja.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent"
+    ]
+  },
+  {
+    "titulo": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+    "titulo_es": "Por qué las empresas se están volviendo una serie de loops",
+    "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-06T12:32:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Argumento de que cada función de una empresa se convierte en un loop automatizable y que el miedo a una subclase permanente está mal planteado. Toca el territorio de consecuencias laborales de la tecnología, pero como opinión de un inversor y sin dato duro.",
+    "razon_score": "Tema afín pero sin cifra rastreable y con sujeto en el mundo: no es Enseñanza y como Opinión le falta el dato que la sostenga.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series"
+    ]
+  },
+  {
+    "titulo": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+    "titulo_es": "Community Wisdom: adopción de IA cuando el cuello de botella es el hábito",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-05T17:00:46+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "resumen": "Digest de preguntas y respuestas de la comunidad sobre temas sueltos. La idea de que el cuello de botella de la adopción es el hábito y no la herramienta es buena, pero viene sin desarrollo.",
+    "razon_score": "Formato digest sin tema propio: no hay pieza para pararse encima.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption"
+    ]
+  },
+  {
+    "titulo": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+    "titulo_es": "Community Wisdom: Jira contra Linear y el caso de negocio de los equipos de plataforma",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-12T17:45:34+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "resumen": "Otro digest de comunidad con temas dispersos, desde herramientas hasta equipos de plataforma. Sin desarrollo suficiente para sostener un post.",
+    "razon_score": "Mismo problema que el digest anterior: sin tema propio ni profundidad.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching"
+    ]
+  },
+  {
+    "titulo": "Muse review: The personal AI agent that gets consumer UX right",
+    "titulo_es": "Review de Muse: el agente personal que acierta con la UX de consumo",
+    "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-16T12:02:14+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "resumen": "Review práctica de un agente personal, con foco en decisiones de UX de consumo. Hay algo aprovechable sobre diseño de agentes, pero el marco es review de producto.",
+    "razon_score": "Review de herramienta: género anuncio, envejece rápido y no enseña un método.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent"
+    ]
+  },
+  {
+    "titulo": "GPT-6 Astra is a banger - here's everything I've built",
+    "titulo_es": "GPT-6 Astra: todo lo que construí con él",
+    "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+    "fuente": "Lenny's Newsletter",
+    "fechaPublicacion": "2026-09-03T19:34:20+00:00",
+    "negocio": "quarks",
+    "score": 3,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "resumen": "Recorrido hands-on por lo que el autor construyó con un modelo recién lanzado, comparando resultados contra otros modelos.",
+    "razon_score": "Lanzamiento de modelo: la regla de admisión lo descarta explícitamente y además caduca en semanas.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin señal de engagement: newsletter de producto, fuera del circuito de HN.",
+    "articulos_del_tema": [
+      "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything"
+    ]
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "niche": "proceso de producto / arquitectura de producto",
+  "cta_goal": "saves",
+  "framework": "Myth-Busting (el método no piensa por vos)",
+  "sistema": "light editorial (slide_statement)",
+  "document_title": "Cómo saber si tu proceso dejó de hacerte pensar",
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "hook",
+      "template": "slide_statement",
+      "headline": "«Cuando un producto fracasa, casi siempre es porque <b>la solución no era lo bastante buena</b>.»",
+      "secondary": "Marty Cagan, autor de INSPIRED.",
+      "headline_size": 58,
+      "secondary_gap": 70,
+      "chip": "La cita",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 2,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Escribió INSPIRED en 2008 y ordenó la disciplina para construir producto<br>en base a:",
+      "chip": "El canon",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28,
+      "headline_size": 54,
+      "secondary": "<b>Personas, Procesos, Producto.</b>",
+      "secondary_gap": 60,
+      "circle_image": "C:/Users/danil/.claude/skills/ig-carousels/assets/marty_cagan.jpg",
+      "circle_image_position": "center 15%",
+      "circle_top": 700,
+      "circle_size": 440
+    },
+    {
+      "slide_num": 3,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Sin embargo, acaba de publicar <b>diez cosas en las que se equivocó.</b>",
+      "secondary": "Una es esa misma estructura.",
+      "headline_size": 58,
+      "secondary_gap": 70,
+      "chip": "Producto",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 4,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Si ponés el foco en el proceso, <b>vas a sentir que trabajás bien sin preguntarte si la idea sirve.</b>",
+      "headline_size": 56,
+      "chip": "Su argumento",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 5,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Y cuando algo sale mal, el proceso te da <b>una coartada perfecta.</b>",
+      "headline_size": 60,
+      "circle_icon": "fa-solid fa-shield-halved",
+      "chip": "La trampa",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 6,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Todos pueden señalar un paso que se hizo bien. <b>Nadie se hace cargo de la idea.</b>",
+      "headline_size": 58
+    },
+    {
+      "slide_num": 7,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "En tu próxima reunión, preguntate: <b>¿acá tomamos una decisión, o vinimos a cumplir un proceso?</b>",
+      "headline_size": 56,
+      "chip": "El test",
+      "chip_placement": "flow",
+      "chip_align": "left",
+      "chip_gap": 28
+    },
+    {
+      "slide_num": 8,
+      "role": "cta",
+      "template": "slide_statement",
+      "headline": "Si la respuesta es cumplir el proceso, <b>esa reunión dejó de ayudarte a pensar.</b>",
+      "secondary": "<b>Guardate la pregunta</b> y hacela esta semana.",
+      "align": "center",
+      "headline_size": 58,
+      "secondary_gap": 90,
+      "corner_glow": false,
+      "show_arrow": false
+    }
+  ]
+}

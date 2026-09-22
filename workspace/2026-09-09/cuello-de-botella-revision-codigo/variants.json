@@ -1,0 +1,47 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "Es el titular de la noticia casi tal cual: la admisión. Dice 'un equipo de Microsoft' y no 'Microsoft' porque es lo que efectivamente pasó — fue el equipo de extensiones de Edge, no la empresa.",
+      "data": {
+        "quote": "Un equipo de Microsoft admite que no da abasto con el código de la IA.",
+        "headline_case": true,
+        "eyebrow": "Noticia",
+        "photo_query": "software developer reviewing code screens",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "El titular por el lado del dato, que es lo más noticioso que tiene el post y lo único con cifra verificable. Funciona como placa de noticia económica.",
+      "data": {
+        "quote": "98% MÁS CÓDIGO MERGEADO. 91% MÁS TIEMPO PARA REVISARLO.",
+        "eyebrow": "AI PRODUCTIVITY PARADOX REPORT 2025",
+        "photo_query": "abstract data flow speed lines",
+        "dotted_ring": "bottom-left",
+        "dotted_ring_size": "md"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote_photo",
+      "why": "El titular por el lado de la consecuencia: nombra el hecho nuevo (la cola de revisión) y usa a Microsoft como respaldo en el chip en vez de como sujeto.",
+      "data": {
+        "quote": "LLEGA MÁS CÓDIGO QUE NUNCA Y LA COLA DE REVISIÓN NO AVANZA.",
+        "eyebrow": "MICROSOFT LO ADMITIÓ",
+        "photo_query": "long line people waiting",
+        "glow_primary": "bottom-right"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Opinión",
+    "has_data": true,
+    "compatible_types": [
+      "quote_photo"
+    ]
+  }
+}

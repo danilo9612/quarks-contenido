@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "AI Agents: Why Small Businesses Struggle While Enterprises Win Big",
+    "titulo_es": "Quién puede bancarse el error: agentes en una empresa chica y en una grande",
+    "url": "https://www.mindstudio.ai/blog/ai-agents-small-business-vs-enterprise/",
+    "fuente": "MindStudio Blog",
+    "fechaPublicacion": "2026-08-27T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "categoria": "Enseñanza",
+    "resumen": "La brecha entre una empresa grande y una chica usando agentes no es el modelo al que acceden sino la estructura alrededor: la grande tiene gente, plata y control del proceso para ponerle barandas. La chica choca con tres restricciones que se potencian — plata, tiempo y verificabilidad. El caso de Pocket OS lo muestra crudo: una acción borró una base de datos de producción en nueve segundos y la recuperación llevó más de treinta horas de trabajo humano. El cierre lo da Anthropic sobre 400.000 sesiones: los expertos promedian doce acciones de agente por instrucción y los novatos cinco.",
+    "razon_score": "Link que pasó Danilo a mano. Tema fuerte para las Personas 1, 2 y 4, con una asimetría memorable (nueve segundos contra treinta horas) y un cierre contraintuitivo: el experto delega más porque tiene con qué revisar. No llega a 9 porque dos de sus cifras centrales (14% de integración real y ~40 USD/mes) aparecen sin atribución en la nota.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: MindStudio es RSS puro, sin API de engagement.",
+    "articulos_del_tema": [
+      "https://www.mindstudio.ai/blog/ai-agents-small-business-vs-enterprise/"
+    ]
+  }
+]

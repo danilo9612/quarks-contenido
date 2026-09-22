@@ -1,0 +1,60 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote",
+      "why": "Extrae una frase central que reinterpreta el éxito en negocios, conectando directamente con la vertical de inspiración y storytelling sobre aprendizaje.",
+      "data": {
+        "quote": "El modelo de negocio más poderoso no es el que más escala. Es el que más aprende.",
+        "kicker": "NEGOCIOS",
+        "glow_primary": "center"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Enfatiza la 'trampa silenciosa' del guion, generando una reflexión que invita al lector a cuestionar su perspectiva sobre crecimiento y aprendizaje.",
+      "data": {
+        "quote": "LA TRAMPA SILENCIOSA EN NEGOCIOS: CONFUNDIR CRECIMIENTO CON APRENDIZAJE.",
+        "eyebrow": "REFLEXIÓN",
+        "photo_query": "foggy mountain road",
+        "gradient_ring": "bottom-right"
+      }
+    },
+    {
+      "label": "C",
+      "type": "insight",
+      "why": "Ofrece un resumen accionable de las estrategias para un aprendizaje efectivo, brindando orientación práctica e inspirando un cambio cultural en las empresas.",
+      "data": {
+        "headline": "CLAVES PARA UN APRENDIZAJE ÁGIL",
+        "bullets": [
+          {
+            "icon_fa": "fa-solid fa-flask",
+            "title": "Experimentá sin miedo",
+            "body": "Hacé experimentos chicos, obtené feedback rápido y aprendé."
+          },
+          {
+            "icon_fa": "fa-solid fa-chart-line",
+            "title": "Medí lo importante",
+            "body": "Reviews honestos y métricas clave para decisiones rápidas."
+          },
+          {
+            "icon_fa": "fa-solid fa-users",
+            "title": "Cultura de humildad",
+            "body": "Creá un espacio seguro para decir 'no sé' y 'me equivoqué'."
+          }
+        ],
+        "numbered": false
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Inspiración & Storytelling",
+    "has_data": false,
+    "compatible_types": [
+      "quote",
+      "quote_photo",
+      "insight"
+    ]
+  }
+}

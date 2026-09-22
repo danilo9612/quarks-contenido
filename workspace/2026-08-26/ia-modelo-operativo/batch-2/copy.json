@@ -1,0 +1,57 @@
+[
+  {
+    "slide_num": 1,
+    "role": "hook",
+    "headline": "La IA no arregla un modelo operativo roto.<br><b>Lo empeora.</b>",
+    "chip": "Modelo operativo",
+    "chip_placement": "flow",
+    "chip_align": "center"
+  },
+  {
+    "slide_num": 2,
+    "role": "body",
+    "headline": "Más output.<br><b>No más valor.</b><br>Garbage in, garbage out.",
+    "circle_icon": "fa-solid fa-triangle-exclamation",
+    "circle_top": 770,
+    "circle_size": 450,
+    "circle_icon_size": 170
+  },
+  {
+    "slide_num": 3,
+    "role": "body",
+    "headline": "→ Estrategia fija a 12 meses + IA = <b>rígido, pero más rápido.</b><br><br>→ User stories automáticas + IA = <b>automatizás lo que ya estaba roto.</b>",
+    "headline_size": 56,
+    "block_top": 380
+  },
+  {
+    "slide_num": 4,
+    "role": "body",
+    "headline": "Solo el <b>20%</b> es plenamente product-led. El resto hace <b>product management theater</b>.",
+    "headline_size": 70,
+    "chip": "El dato",
+    "chip_placement": "bottom",
+    "chip_align": "left"
+  },
+  {
+    "slide_num": 5,
+    "role": "body",
+    "headline": "Organización.<br>Personas.<br>Procesos.<br>Herramientas.<br><b>En ese orden.</b>",
+    "block_top": 340,
+    "chip": "Sin eso, es maquillaje",
+    "chip_placement": "bottom",
+    "chip_align": "left",
+    "circle_icon": "fa-solid fa-layer-group",
+    "circle_top": 755,
+    "circle_size": 400,
+    "circle_icon_size": 160
+  },
+  {
+    "slide_num": 6,
+    "role": "cta",
+    "headline": "La IA amplifica lo que ya tenés.<br><b>¿Sano o roto?</b>",
+    "secondary": "Hablemos.",
+    "align": "center",
+    "headline_size": 62,
+    "corner_glow": false
+  }
+]

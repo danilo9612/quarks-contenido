@@ -1,0 +1,51 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "data_stat",
+      "why": "Destaca un dato concreto y alarmante sobre el costo actual de la deuda técnica generada por la IA, un tema central de la coyuntura.",
+      "data": {
+        "stat_value": "US$10.000",
+        "stat_context": "por semana, es lo que cobra un equipo para borrar código de IA que nadie puede mantener.",
+        "source": "Slopfix",
+        "kicker": "EL COSTO OCULTO",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Ofrece la postura clave de Quarks Alchemist sobre la relación entre IA y juicio humano, esencial para navegar la coyuntura actual.",
+      "data": {
+        "quote": "Cobran US$10.000 por semana para borrar código que escribió una IA",
+        "eyebrow": "LA NOTICIA",
+        "photo_query": "developer coding laptop dark",
+        "gradient_ring": "bottom-left",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote",
+      "why": "Subraya la dualidad de la IA en la coyuntura tecnológica, resaltando cómo potencia tanto lo bueno como los errores si falta criterio.",
+      "data": {
+        "quote": "La IA multiplica a un buen equipo, y multiplica también los errores de uno sin criterio.",
+        "attribution": "Quarks Alchemist",
+        "kicker": "IA Y EQUIPOS",
+        "glow_primary": "bottom-right",
+        "dotted_ring": "top-left",
+        "dotted_ring_size": "sm"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Coyuntura",
+    "has_data": true,
+    "compatible_types": [
+      "data_stat",
+      "quote_photo",
+      "quote"
+    ]
+  }
+}

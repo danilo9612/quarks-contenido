@@ -1,0 +1,131 @@
+{
+  "concept_label": "E",
+  "framework": "Data-Driven",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "700.000 tiendas. 90% cerradas. La IA va por el mismo camino.",
+      "swipe_hint": "El ciclo que nadie te cuenta",
+      "accent": "#FF2978",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_medium.png",
+      "deco_position": "bottom-right",
+      "glow_primary": "top-right",
+      "glow_secondary": "bottom-left"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "La trampa que se sostiene sola",
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "body": "El modelo era elegante: ensenar a otros a ganar sin trabajar era, exactamente, ganar sin trabajar. El ecosistema vive del ciclo, no del resultado.",
+      "bullets": [
+        { "title": "COMPRABA", "body": "Compraba un curso, fallaba." },
+        { "title": "VOLVÍA", "body": "Compraba otro para entender por que habia fallado." },
+        { "title": "FALLABA DE NUEVO", "body": "El sistema vive de eso. No de tu exito." }
+      ],
+      "tags": ["EXTRACCION", "CICLO"],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "headline": "No fallaron por falta de talento",
+      "icon_fa": "fa-solid fa-store",
+      "stat_value": "700K",
+      "stat_context": "founders con tiempo y energia real, atrapados en un sistema que optimizo para extraerlos, no para hacerlos crecer.",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Lo que se perdio no fue dinero",
+      "icon_fa": "fa-solid fa-clock",
+      "body": "Fue tiempo de personas con talento real que podrian haber construido algo que importara.",
+      "bullets": [
+        { "title": "BLOGS", "body": "Resenas de productos que nadie probo." },
+        { "title": "CURSOS", "body": "Sobre como hacer cursos." },
+        { "title": "CONTENIDO", "body": "Disenado para rankear, no para ayudar." }
+      ],
+      "tags": ["TALENTO", "COSTO REAL"],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "Quien perduro, quien desaparecio",
+      "icon_fa": "fa-solid fa-scale-balanced",
+      "col_a": {
+        "title": "PROMESA",
+        "items": ["Desaparecer del trabajo", "Ganar sin estar presente", "El sistema trabaja solo"]
+      },
+      "col_b": {
+        "title": "REALIDAD",
+        "items": ["El trabajo que perduro fue el de los que nunca desaparecieron", "Los vendedores del sueno siguieron trabajando", "Los compradores del sueno, no tanto"]
+      },
+      "col_a_accent": "#FF2978",
+      "col_b_accent": "#8A02FF",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_hub_spoke",
+      "headline": "Mismo sueno. Nueva envoltura.",
+      "center": "IA\n2024",
+      "center_sub": "el nuevo ciclo",
+      "nodes": [
+        { "label": "Agentes que generan contenido", "icon_fa": "fa-solid fa-robot" },
+        { "label": "Tiendas automatizadas", "icon_fa": "fa-solid fa-store" },
+        { "label": "Sistemas que trabajan solos", "icon_fa": "fa-solid fa-gears" },
+        { "label": "Cursos de automatizacion IA", "icon_fa": "fa-solid fa-graduation-cap" },
+        { "label": "Agencias de IA sin clientes", "icon_fa": "fa-solid fa-briefcase" },
+        { "label": "Templates que nadie usa", "icon_fa": "fa-solid fa-file-code" }
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "La pregunta que vale hacerse",
+      "icon_fa": "fa-solid fa-magnifying-glass",
+      "body": "No es si el sistema funciona.",
+      "bullets": [
+        { "title": "PARA QUIEN FUNCIONA", "body": "Los creadores de herramientas IA o los usuarios." },
+        { "title": "A COSTO DE QUE", "body": "Tiempo, dinero, oportunidad de construir algo real." },
+        { "title": "QUE QUEDA", "body": "El trabajo que importa siempre fue el de los que nunca desaparecieron." }
+      ],
+      "tags": ["CRITICA", "PERSPECTIVA"],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "Guarda esto antes de comprar el proximo sistema de IA pasivo.",
+      "body": "Comentá abajo:",
+      "giant_word": "PATRON",
+      "accent": "#8A02FF"
+    }
+  ]
+}

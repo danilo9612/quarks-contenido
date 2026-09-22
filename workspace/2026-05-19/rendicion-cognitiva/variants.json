@@ -1,0 +1,36 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "framework",
+      "why": "El guion tiene un modelo claro: diagnóstico del problema + 3 prácticas accionables. Framework lo estructura visualmente con autoridad.",
+      "data": {
+        "kicker": "RENDICIÓN COGNITIVA",
+        "headline": "Mantené el criterio activo",
+        "body": "No heredamos el razonamiento del modelo. Heredamos su confianza. La clave no es usar menos IA — es mantener el criterio mientras la usás.",
+        "divider": "TRES PRÁCTICAS",
+        "deco_mode": "icon_rings",
+        "deco_icon": "fa-solid fa-brain",
+        "bullets": [
+          {
+            "title": "Anticipá el output",
+            "body": "Formá tu expectativa antes de ver la respuesta del modelo"
+          },
+          {
+            "title": "Revisá con escepticismo",
+            "body": "Tratalo como output de alguien que puede no haber entendido el problema"
+          },
+          {
+            "title": "Pedí el contra",
+            "body": "Hacé que el modelo argumente en contra de su propia respuesta"
+          }
+        ]
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Autoridad",
+    "has_data": true,
+    "compatible_types": ["framework"]
+  }
+}

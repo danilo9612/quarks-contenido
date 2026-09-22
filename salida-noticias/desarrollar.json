@@ -1,0 +1,62 @@
+[
+  {
+    "id": "397b550f-b951-8124-8b11-f6f55540bf7a",
+    "titulo": "Scouter, el Airbnb de locaciones que aplica inteligencia artificial",
+    "resumen": "La startup mexicana Scouter combina IA y un marketplace para que la industria audiovisual encuentre locaciones de filmacion. Un ejemplo de IA aplicada a un nicho especifico con modelo de marketplace.",
+    "url": "https://contxto.com/es/artificial-intelligence/scouter-el-airbnb-de-locaciones-que-aplica-la-inteligencia-artificial/",
+    "bucket": "Alquimia en Accion",
+    "angulo": "Tomar un proceso manual y lento (buscar locaciones) y volverlo un marketplace con IA. Como se elige donde la IA suma de verdad.",
+    "score": 7,
+    "fecha": "2026-07-06T15:42:00.000+00:00"
+  },
+  {
+    "id": "397b550f-b951-81d7-bf0f-f6e5fe3c4bcb",
+    "titulo": "Los fundamentos de arquitectura de IA que los lideres de tecnologia necesitan para escalar",
+    "resumen": "Con el salto a sistemas agenticos, las organizaciones expanden casos de uso y crece el riesgo. El articulo vuelve a los fundamentos de arquitectura de IA que sostienen la escala mas alla de la moda del momento.",
+    "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "bucket": "El Futuro Aplicado",
+    "angulo": "Antes de sumar el proximo caso de uso con IA, conviene mirar los cimientos. Que decisiones de arquitectura envejecen bien.",
+    "score": 8,
+    "fecha": "2026-07-07T11:10:00.000+00:00"
+  },
+  {
+    "id": "397b550f-b951-81a5-9fd9-d322de0089df",
+    "titulo": "GLM 5.2 y el inminente colapso de margenes de la IA",
+    "resumen": "El articulo analiza como modelos como GLM 5.2 empujan los precios de la IA hacia abajo y anticipa un colapso de margenes en el sector. Consecuencias directas para quien construye o vende productos con IA.",
+    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+    "bucket": "El Futuro Aplicado",
+    "angulo": "Si el costo de la IA se desploma, la ventaja deja de estar en el modelo y pasa a estar en el producto. Que significa para tu estrategia.",
+    "score": 8,
+    "fecha": "2026-07-06T20:14:00.000+00:00"
+  },
+  {
+    "id": "397b550f-b951-81b7-a70b-c2e45448110d",
+    "titulo": "Aprender a programar sigue valiendo la pena",
+    "resumen": "Un argumento a contramano del discurso de que la IA vuelve innecesario aprender a programar. Sostiene que entender como funciona el software sigue siendo una ventaja durable, sobre todo en la era de la IA.",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "bucket": "La Trinchera del Founder",
+    "angulo": "En plena euforia del la IA programa por vos, preguntarse si todavia vale aprender a codear es la pregunta correcta. Spoiler: si, pero por razones distintas.",
+    "score": 8,
+    "fecha": "2026-07-06T20:59:00.000+00:00"
+  },
+  {
+    "id": "397b550f-b951-81ee-9902-d3a890823093",
+    "titulo": "Cobramos US$10.000 por semana para borrar codigo generado por IA",
+    "resumen": "Un equipo cobra miles por semana para limpiar codigo generado por IA de baja calidad (slop). Muestra el costo oculto de acelerar con IA sin criterio: la deuda tecnica llega igual, con intereses.",
+    "url": "https://odra.dev/slopfix/",
+    "bucket": "La Trinchera del Founder",
+    "angulo": "Escribir codigo con IA es barato; mantenerlo puede ser carisimo. El criterio tecnico vale mas que nunca, no menos.",
+    "score": 8,
+    "fecha": "2026-07-07T20:35:00.000+00:00"
+  },
+  {
+    "id": "397b550f-b951-81d5-a85e-e66791f43345",
+    "titulo": "Microsoft se suma al recorte de costos en IA apoyandose mas en sus propios modelos",
+    "resumen": "Microsoft reduce su gasto en IA priorizando modelos propios frente a los de terceros. Marca una tendencia: hasta los gigantes optimizan el costo de la IA, no solo su capacidad.",
+    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "bucket": "El Futuro Aplicado",
+    "angulo": "La fase de gastar lo que sea con tal de tener IA termino; ahora la pregunta es el costo por resultado. Que implica para quien construye sobre APIs de terceros.",
+    "score": 7,
+    "fecha": "2026-07-07T19:58:00.000+00:00"
+  }
+]

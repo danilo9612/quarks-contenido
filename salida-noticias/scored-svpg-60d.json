@@ -1,0 +1,56 @@
+[
+  {
+    "titulo": "The AI Productivity Paradox",
+    "titulo_es": "La paradoja de productividad de la IA",
+    "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+    "fuente": "SVPG (Marty Cagan)",
+    "fechaPublicacion": "2026-07-23",
+    "negocio": "quarks",
+    "score": 9,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Los equipos entregan más rápido con IA pero los resultados de negocio no mejoran. Cagan apoya el diagnóstico en el State of Teams 2026 de Atlassian: 89% de los ejecutivos dice que la IA aceleró el trabajo, pero solo 6% puede señalar un ROI concreto a nivel organización. Su explicación es que casi todos usan la IA para acelerar el flujo de proyectos de siempre en vez de cambiar cómo deciden qué construir.",
+    "razon_score": "Cifra institucional rastreable, ángulo discutible y pega justo en el dolor de Persona 1 y 3; es el material más publicable de la ventana.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin buzz medible: SVPG no vive en HN ni Reddit. El peso lo da la fuente y el dato de Atlassian, no el engagement.",
+    "articulos_del_tema": [
+      "https://www.svpg.com/the-ai-productivity-paradox/"
+    ]
+  },
+  {
+    "titulo": "Strong Opinions, Loosely Held",
+    "titulo_es": "Opiniones firmes, sostenidas con la mano floja",
+    "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+    "fuente": "SVPG (Marty Cagan)",
+    "fechaPublicacion": "2026-09-11",
+    "negocio": "quarks",
+    "score": 9,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Keynote del Lenny Friends Summit donde Cagan enumera diez cosas que defendió durante años y ya no sostiene: subestimó la viabilidad de negocio, sobrevendió el 'CEO del producto', ignoró la política organizacional y aceptó que los equipos validan demasiado el problema y trabajan poco la solución. Es el canon corrigiéndose a sí mismo en voz alta.",
+    "razon_score": "Diez reversiones numeradas de la autoridad máxima del campo: estructura de carrusel servida, y casi nadie lo tradujo al español. Encaje perfecto con Persona 3.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin buzz medible. El radar lo puntuó 0 de género y 0 de afinidad porque el extracto del RSS es una nota de keynote sin vocabulario de producto — artefacto de medición, no falta de encaje.",
+    "articulos_del_tema": [
+      "https://www.svpg.com/strong-opinions-loosely-held/"
+    ]
+  },
+  {
+    "titulo": "A Fresh Definition of The Product Role",
+    "titulo_es": "Una definición nueva del rol de producto",
+    "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+    "fuente": "SVPG (Marty Cagan)",
+    "fechaPublicacion": "2026-08-10",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Cagan reduce el rol de producto a tres habilidades tomadas de Benedict Evans: descubrir el problema real, descubrir la solución y entender el negocio. Admite que se equivocó al creer que la IA y el low-code iban a democratizar la creación de producto, y se queda con la línea de Evans: escribir el código no es la parte difícil, la parte difícil es saber que la cosa debería existir.",
+    "razon_score": "Definición corta y accionable de un rol que en LATAM se define de cien maneras distintas; pierde un punto contra los otros dos porque es más derivativo (se apoya en Evans).",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin buzz medible; género +1 por 'decisión de producto', afinidad 1.",
+    "articulos_del_tema": [
+      "https://www.svpg.com/a-fresh-definition-of-the-product-role/"
+    ]
+  }
+]

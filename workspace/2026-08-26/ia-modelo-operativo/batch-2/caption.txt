@@ -1,0 +1,26 @@
+La IA no arregla un modelo operativo roto. Lo empeora.
+
+Muchas organizaciones están metiendo IA en sus procesos de producto esperando magia. El resultado real: más output, no más valor. Y en el peor caso, garbage in, garbage out.
+
+Dos ejemplos concretos:
+→ Estrategia de producto fija a 12 meses + IA = seguís siendo rígido, solo que más rápido.
+→ Generación automática de user stories + IA = automatizás un proceso que ya estaba roto. Las historias de usuario nacen de una conversación, no de una plantilla.
+
+El dato de fondo: solo el 20% de las organizaciones son plenamente product-led (research de Product-Led Alliance + ProductPlan). El resto vive entre el "product management theater" — PMs que en realidad son project managers disfrazados, roadmaps de features en vez de accountability por resultados, decisiones que bajan por mandato ejecutivo y no por criterio del PM.
+
+Antes de sumar IA, la pregunta no es "qué herramienta uso" sino "qué estoy automatizando": ¿un proceso sano o uno roto?
+
+El framework que más me sirve para diagnosticar esto tiene 4 capas, y el orden importa:
+
+1. Organización — ¿hay un Head of Product real, con lugar en el equipo ejecutivo?
+2. Personas — ¿el PM tiene la última palabra en decisiones estratégicas, o solo ejecuta?
+3. Procesos — ¿el workflow tiene desperdicio (handoffs, task switching, pérdida de conocimiento)?
+4. Herramientas — ¿la IA está integrada a un estándar, o es cada equipo probando por su cuenta?
+
+Organización y Personas van primero. Sin eso, cualquier inversión en Procesos y Herramientas es maquillaje.
+
+La IA no es el atajo para evitar el trabajo de fondo. Es el amplificador de lo que ya tenés — bueno o malo.
+
+¿En qué etapa está tu organización: project-based, transicionando, o realmente product-led?
+
+#ProductManagement #IA #ProductOperatingModel #Liderazgo

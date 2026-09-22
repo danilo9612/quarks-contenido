@@ -1,0 +1,46 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "data_stat",
+      "why": "Resalta un dato clave de la re-estrategia de Microsoft, mostrando el giro hacia la autonomía en IA, que es el eje de la coyuntura del post.",
+      "data": {
+        "stat_value": "7",
+        "stat_context": "modelos propios de IA presentó Microsoft, reduciendo su dependencia de proveedores caros.",
+        "kicker": "GIRO ESTRATÉGICO",
+        "gradient_ring": "bottom-right",
+        "gradient_ring_size": "md"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote_photo",
+      "why": "Extrae la principal conclusión de negocio del post, que es el riesgo de depender de un único proveedor externo, un tema central en la coyuntura actual.",
+      "data": {
+        "quote": "Microsoft, Amazon, Uber y Meta recortan su gasto en IA: cambió el nombre del juego.",
+        "eyebrow": "COYUNTURA IA",
+        "photo": "C:\\Users\\danil\\workspace\\2026-07-08\\microsoft-recorte-ia\\_ms_photo_canvas.jpg",
+        "headline_case": true
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote",
+      "why": "Sintetiza el cambio fundamental en la mentalidad sobre la IA, pasando de la potencia a la eficiencia de costos, que marca la nueva coyuntura del sector.",
+      "data": {
+        "quote": "El nombre del juego cambió. Ya no es '¿quién tiene el modelo más potente?', sino '¿cuánto me cuesta cada resultado?'.",
+        "kicker": "CAMBIO DE REGLAS",
+        "glow_primary": "center"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Coyuntura",
+    "has_data": true,
+    "compatible_types": [
+      "data_stat",
+      "quote_photo",
+      "quote"
+    ]
+  }
+}

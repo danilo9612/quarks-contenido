@@ -1,0 +1,113 @@
+{
+  "concept_label": "A",
+  "framework": "Myth-Busting",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 7,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Diseño o código: ¿por dónde empezás?",
+      "swipe_hint": "Spoiler: esa no es la decisión",
+      "accent": "#FF2978",
+      "glow_primary": "bottom-right",
+      "swipe_cue": false
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 7,
+      "role": "body",
+      "template": "slide_body",
+      "headline": "Parece técnica. No lo es.",
+      "body": "Esa pregunta revela quién tiene más peso en las decisiones de producto — y dónde se va a romper el sprint.",
+      "icon_fa": "fa-solid fa-circle-question",
+      "accent": "#00B9E8",
+      "tags": ["EL MITO"],
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 7,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "Cada enfoque tiene su momento",
+      "kicker": "CUÁNDO USAR CADA UNO",
+      "icon_fa": "fa-solid fa-scale-balanced",
+      "col_a": {
+        "title": "Diseño primero",
+        "items": [
+          "Cuando la experiencia ES el producto",
+          "Apps de consumo, e-commerce, social",
+          "Si el usuario abandona, la lógica no alcanza"
+        ]
+      },
+      "col_b": {
+        "title": "Lógica primero",
+        "items": [
+          "Cuando hay procesos que no pueden romperse",
+          "Tools enterprise, fintech, APIs críticas",
+          "Acá la interfaz sirve a la operación"
+        ]
+      },
+      "col_a_accent": true,
+      "col_b_accent": true,
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 7,
+      "role": "body",
+      "template": "slide_flow_diagram",
+      "headline": "En la realidad, corren en paralelo",
+      "body": "En la mayoría de los proyectos, diseño y lógica avanzan juntos. Y eso está bien — siempre que el equipo lo haya dicho en voz alta.",
+      "icon_fa": "fa-solid fa-code-branch",
+      "steps": [
+        {"label": "01", "title": "Diseño"},
+        {"label": "02", "title": "Iteración", "highlighted": true},
+        {"label": "03", "title": "Lógica"}
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 7,
+      "role": "body",
+      "template": "slide_quote",
+      "headline": "El problema no es elegir mal. Es no elegir conscientemente.",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 7,
+      "role": "body",
+      "template": "slide_context_bullets",
+      "context_text": "El diseñador asume diseño-primero. El developer asume lógica-primero. Nadie lo declaró.",
+      "headline": "El enfoque no declarado",
+      "headline_accent": "es deuda de equipo",
+      "bullets": [
+        "El equipo no tiene una metodología: tiene dos.",
+        "Compiten en silencio durante todo el sprint.",
+        "Genera la fricción que nadie sabe nombrar."
+      ],
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 7,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "¿Vos cómo arrancás un producto?",
+      "body": "Contanos abajo: ¿desde el diseño o desde la lógica?",
+      "giant_word": "COMENTÁ",
+      "accent": "#FF2978",
+      "glow_secondary": "top-left",
+      "glow_primary": "bottom-right",
+      "swipe_cue": false
+    }
+  ]
+}

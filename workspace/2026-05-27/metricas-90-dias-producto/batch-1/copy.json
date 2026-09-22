@@ -1,0 +1,104 @@
+{
+  "concept_label": "B",
+  "framework": "Tutorial",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 6,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Si tu producto no despega: quizás mirás mal.",
+      "swipe_hint": "3 métricas que sí importan adentro",
+      "kicker": "Los primeros 90 días",
+      "glow_primary": "top-right",
+      "glow_secondary": "bottom-left",
+      "accent": "#FF2978",
+      "swipe_cue": false
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 6,
+      "role": "body",
+      "template": "slide_context_bullets",
+      "context_text": "La mayoría de los founders optimiza para crecer en etapa early. Eso es un error costoso.",
+      "headline": "El objetivo no es crecer.",
+      "headline_accent": "Es descubrir si merece crecer.",
+      "bullets": [
+        "Las métricas de vanidad se ven bien en un slide — pero no te dicen nada útil",
+        "Las de diagnóstico incomodan porque revelan si hay valor real",
+        "La diferencia entre esas dos preguntas define todo lo que medís"
+      ],
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "tags": ["ETAPA EARLY", "VALIDACIÓN"],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 6,
+      "role": "body",
+      "template": "slide_tiered_stats",
+      "headline": "Tres métricas para el centro de tu dashboard.",
+      "primary_pill": {
+        "label": "Activation Rate",
+        "sub": "El % que completa la acción clave por primera vez."
+      },
+      "secondary_stats": [
+        {"label": "Retención D7 / D30", "description": "Si no vuelven en la primera semana, el problema no es marketing. Es el producto."},
+        {"label": "Time to Value", "description": "Cuánto tarda un usuario en obtener el primer resultado concreto."}
+      ],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 6,
+      "role": "body",
+      "template": "slide_two_column",
+      "headline": "No toda métrica vale igual",
+      "col_a": {
+        "title": "Vanidad",
+        "items": ["Usuarios registrados", "Descargas totales", "Primeros ingresos"]
+      },
+      "col_b": {
+        "title": "Diagnóstico",
+        "items": ["Activation rate", "Retención D7 / D30", "Time to Value"]
+      },
+      "col_a_accent": false,
+      "col_b_accent": true,
+      "icon_fa": "fa-solid fa-scale-balanced",
+      "tags": ["MÉTRICAS", "ETAPA EARLY"],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 6,
+      "role": "body",
+      "template": "slide_icon_grid",
+      "headline": "Las tres preguntas que importan",
+      "icon_fa": "fa-solid fa-bullseye",
+      "items": [
+        {"icon_fa": "fa-solid fa-bolt", "name": "Activation Rate", "body": "¿Qué % completa la acción clave por primera vez?"},
+        {"icon_fa": "fa-solid fa-chart-line", "name": "Retención D7 / D30", "body": "¿Cuántos vuelven siete días después del registro?"},
+        {"icon_fa": "fa-solid fa-stopwatch", "name": "Time to Value", "body": "¿En cuánto tiempo ven el primer resultado concreto?"}
+      ],
+      "tags": ["ESTRATEGIA", "DIAGNÓSTICO"],
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 6,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "Los primeros 90 días definen si tu producto merece crecer.",
+      "body": "Comentá: ¿qué métrica priorizás primero?",
+      "giant_word": "MÉTRICAS",
+      "glow_primary": "top-left",
+      "glow_secondary": "bottom-right",
+      "accent": "#FF2978",
+      "swipe_cue": false
+    }
+  ]
+}

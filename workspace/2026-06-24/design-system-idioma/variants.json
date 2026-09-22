@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "vertical": "Educación",
+    "has_data": true,
+    "compatible_types": ["framework"],
+    "note": "Variante framework para replicar la composición de la imagen de referencia: headline + body izquierda, icono con anillos a la derecha, divisor con kicker, y cards numeradas en fila al pie."
+  },
+  "variants": [
+    {
+      "label": "A",
+      "type": "framework",
+      "why": "Educación + estructura de 'cuatro capas' del guion → el template framework (headline + divisor + cards numeradas) mapea 1:1 con la idea del post.",
+      "data": {
+        "headline": "Un design system es un idioma",
+        "body": "No es una librería de botones y colores. Es un acuerdo sobre cómo nombrar, espaciar y responder a cada estado.",
+        "divider": "CUATRO CAPAS",
+        "deco_mode": "icon_rings",
+        "deco_icon": "fa-solid fa-layer-group",
+        "bg": "#130021",
+        "muted": "#ADA8B8",
+        "bullets": [
+          { "title": "Tokens", "body": "Color, tipografía y espaciado. El vocabulario base." },
+          { "title": "Componentes", "body": "Botones, inputs, tarjetas. Contratos visuales reutilizables." },
+          { "title": "Patrones", "body": "Cómo se combinan esos componentes en flujos reales." },
+          { "title": "Gobernanza", "body": "Quién cambia qué, y cuándo se propaga el cambio." }
+        ]
+      }
+    }
+  ]
+}

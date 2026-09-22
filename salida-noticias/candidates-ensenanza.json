@@ -1,0 +1,1900 @@
+{
+  "generadoEn": "2026-09-22T12:30:17.281992+00:00",
+  "negocio": "quarks",
+  "maxDiasAntiguedad": 45,
+  "fuentesConsultadas": 4,
+  "fuentesFallidas": [],
+  "totalArticulos": 31,
+  "totalClusters": 27,
+  "clusteresAPuntuar": 25,
+  "descartadosPorton": {},
+  "rescatados": 4,
+  "candidatos": [
+    {
+      "titulo": "Connecting Product Outcomes to Business Strategy",
+      "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+      "descripcion": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case. Worse, it can be tricky to understand if and to what extent a product does achieve the desired business impact and help the company move forward. With AI driving more digital products, it’s more important than ever to successfully connect products and business strategy and make smart investment decisions. This article shows you how to do it.",
+      "fechaPublicacion": "2026-09-15T09:41:42+00:00",
+      "fuente": "Roman Pichler",
+      "prioridad": 3.3,
+      "genero": 2.0,
+      "generoDetalle": [
+        "+práctica y aprendizaje",
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 1,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
+      "url": "https://www.producttalk.org/4-new-evals-and-16-experiment-variants/",
+      "descripcion": "That is a lot of first layer opportunities there. I wish I could click on this card and be like, Clean this up. This was a Vistaly customer reviewing her first AI-generated opportunity solution tree . Up until this point, the feedback was extremely positive. But",
+      "fechaPublicacion": "2026-09-16T13:00:36+00:00",
+      "fuente": "Product Talk (Teresa Torres)",
+      "prioridad": 3.3,
+      "genero": 2.0,
+      "generoDetalle": [
+        "+método o framework",
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 2,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "descripcion": "Watch now | Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+      "fechaPublicacion": "2026-09-07T12:04:19+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 3.0,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+método o framework"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "La Trinchera del Founder",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 3,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Ch. 10: Testing Assumptions",
+      "url": "https://www.producttalk.org/ch-10-testing-assumptions/",
+      "descripcion": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we ll be learning about Short videos you",
+      "fechaPublicacion": "2026-09-21T13:00:42+00:00",
+      "fuente": "Product Talk (Teresa Torres)",
+      "prioridad": 3.0,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 4,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "A Fresh Definition of The Product Role",
+      "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+      "descripcion": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group .",
+      "fechaPublicacion": "2026-08-10T12:49:18+00:00",
+      "fuente": "SVPG (Marty Cagan)",
+      "prioridad": 2.1,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 5,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "fechaPublicacion": "2026-09-14T15:03:48+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 2.1,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+práctica y aprendizaje"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 6,
+      "puntuar": true,
+      "articulosEnCluster": 2,
+      "otrosTitulos": [
+        "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)"
+      ]
+    },
+    {
+      "titulo": "Delivery Isn’t Free - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "descripcion": "Listen to this episode on: Spotify | Apple Podcasts Everyone s saying it: Now that AI makes delivery free&#x2026; But is it? In this episode of All Things Product, Petra Wille and Teresa Torres pull apart one of the most repeated claims in product right now. They",
+      "fechaPublicacion": "2026-09-15T13:00:58+00:00",
+      "fuente": "Product Talk (Teresa Torres)",
+      "prioridad": 2.1,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 7,
+      "puntuar": true,
+      "articulosEnCluster": 2,
+      "otrosTitulos": [
+        "Facilitation Skills - All Things Product Podcast with Teresa Torres & Petra Wille"
+      ]
+    },
+    {
+      "titulo": "60+ new creative growth ideas",
+      "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "descripcion": "How to stand out when everyone is running the same playbook",
+      "fechaPublicacion": "2026-09-15T12:45:28+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 1.2,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+método o framework"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 8,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "fechaPublicacion": "2026-08-31T15:01:58+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 9,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "descripcion": "Watch now (42 mins) | Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+      "fechaPublicacion": "2026-09-14T12:04:39+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 10,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Muse review: The personal AI agent that gets consumer UX right",
+      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "descripcion": "Watch now (38 mins) | I gave Meta's Muse my calendar, my email, and my kids' chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I've ever made with Claude or Codex",
+      "fechaPublicacion": "2026-09-16T12:02:14+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 11,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Creating Aha! Builder: Concept to Code, No Engineers Required",
+      "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
+      "descripcion": "Listen to this episode on: Spotify | Apple Podcasts What does it take to build an AI app builder specifically for product managers&#x2014;not engineers&#x2014;inside an already crowded market? In this episode of Just Now Possible, Teresa Torres talks with Brian De Haaff (CEO and Co-Founder), Chris",
+      "fechaPublicacion": "2026-09-17T13:00:52+00:00",
+      "fuente": "Product Talk (Teresa Torres)",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "La Trinchera del Founder",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 12,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Product Operating Model: The Crucial Enabler for AI Success",
+      "url": "https://www.romanpichler.com/blog/product-operating-model-the-crucial-enabler-for-ai-success/",
+      "descripcion": "Over the past few years, many product teams have built AI fluency and started to apply AI to their work and products. That's great, but it's not enough to fully leverage AI in product management. Without the right product operating model in place, AI delivers only limited benefits. In this article, I explain why this is and how you can create an effective product management approach that is optimised for AI.",
+      "fechaPublicacion": "2026-08-17T14:49:43+00:00",
+      "fuente": "Roman Pichler",
+      "prioridad": 1.8,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 13,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
+      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "descripcion": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
+      "fechaPublicacion": "2026-08-30T12:31:30+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 1.8,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 14,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "descripcion": "Listen now | PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
+      "fechaPublicacion": "2026-08-31T12:04:18+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 1.8,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 15,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Get My Eval Test Harness and Run Your First Experiment",
+      "url": "https://www.producttalk.org/ai-evals-test-harness/",
+      "descripcion": "My in-depth AI evals guide explains what evals are and how to build them. This post gives you the tool I use to run them. Here s the practical problem. To get a baseline, you have to run every input through your prompt, save each output, run every",
+      "fechaPublicacion": "2026-09-02T13:05:45+00:00",
+      "fuente": "Product Talk (Teresa Torres)",
+      "prioridad": 1.8,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 16,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+      "descripcion": "Community Wisdom 297",
+      "fechaPublicacion": "2026-09-05T17:00:46+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 1.8,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 17,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "fechaPublicacion": "2026-09-07T15:02:41+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 1.8,
+      "genero": 0.0,
+      "generoDetalle": [
+        "+método o framework",
+        "−lanzamiento de modelo"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 18,
+      "puntuar": true,
+      "articulosEnCluster": 2,
+      "otrosTitulos": [
+        "Grok Bot vs. OpenClaw: How I replaced my entire agent stack"
+      ]
+    },
+    {
+      "titulo": "GPT-6 Astra is a banger - here’s everything I’ve built",
+      "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+      "descripcion": "Watch now | My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn't match, and a hardware hack I've chased for months",
+      "fechaPublicacion": "2026-09-03T19:34:20+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 1.5,
+      "genero": -1.0,
+      "generoDetalle": [
+        "−lanzamiento de modelo"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 19,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "How to turn your AI into a world-class designer",
+      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "descripcion": "An end-to-end process for tapping into AI's hidden creativity",
+      "fechaPublicacion": "2026-09-01T12:45:59+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 20,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "AI Evals: A Hands-On Guide for Product Teams",
+      "url": "https://www.producttalk.org/ai-evals/",
+      "descripcion": "AI evals tell you whether your AI product or workflow is any good. A hands-on guide to error analysis, the four types of evals, and your first experiment.",
+      "fechaPublicacion": "2026-09-02T13:00:59+00:00",
+      "fuente": "Product Talk (Teresa Torres)",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 21,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+      "descripcion": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
+      "fechaPublicacion": "2026-09-06T12:32:00+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 22,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "descripcion": "Community Wisdom 298",
+      "fechaPublicacion": "2026-09-12T17:45:34+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 23,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "descripcion": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
+      "fechaPublicacion": "2026-09-20T12:32:17+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 24,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "fechaPublicacion": "2026-09-21T15:03:51+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 25,
+      "puntuar": true,
+      "articulosEnCluster": 2,
+      "otrosTitulos": [
+        "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)"
+      ]
+    },
+    {
+      "titulo": "Strong Opinions, Loosely Held",
+      "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+      "descripcion": "Note: This is the narrative version of a keynote talk for the Lenny Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group .",
+      "fechaPublicacion": "2026-09-11T14:56:15+00:00",
+      "fuente": "SVPG (Marty Cagan)",
+      "prioridad": 0.0,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 26,
+      "puntuar": false,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "descripcion": "Community Wisdom 299",
+      "fechaPublicacion": "2026-09-19T19:42:24+00:00",
+      "fuente": "Lenny's Newsletter",
+      "prioridad": 0.0,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 27,
+      "puntuar": false,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    }
+  ],
+  "clusters": [
+    {
+      "id": 1,
+      "tema": "Connecting Product Outcomes to Business Strategy",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 2.0,
+      "generoDetalle": [
+        "+práctica y aprendizaje",
+        "+decisión de producto"
+      ],
+      "prioridad": 3.3,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Roman Pichler"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-15T09:41:42+00:00",
+      "descripcion": "Every product has to create real value for a group of people and the business, at least in theory. But in practice, that’s not always the case. Worse, it can be tricky to understand if and to what extent a product does achieve the desired business impact and help the company move forward. With AI driving more digital products, it’s more important than ever to successfully connect products and business strategy and make smart investment decisions. This article shows you how to do it.",
+      "articulos": [
+        {
+          "titulo": "Connecting Product Outcomes to Business Strategy",
+          "url": "https://www.romanpichler.com/blog/connecting-product-outcomes-and-business-strategy/",
+          "fuente": "Roman Pichler",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-15T09:41:42+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 2,
+      "tema": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 2.0,
+      "generoDetalle": [
+        "+método o framework",
+        "+decisión de producto"
+      ],
+      "prioridad": 3.3,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Talk (Teresa Torres)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.producttalk.org/4-new-evals-and-16-experiment-variants/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-16T13:00:36+00:00",
+      "descripcion": "That is a lot of first layer opportunities there. I wish I could click on this card and be like, Clean this up. This was a Vistaly customer reviewing her first AI-generated opportunity solution tree . Up until this point, the feedback was extremely positive. But",
+      "articulos": [
+        {
+          "titulo": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
+          "url": "https://www.producttalk.org/4-new-evals-and-16-experiment-variants/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-16T13:00:36+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 3,
+      "tema": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "La Trinchera del Founder",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+método o framework"
+      ],
+      "prioridad": 3.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-07T12:04:19+00:00",
+      "descripcion": "Watch now | Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+      "articulos": [
+        {
+          "titulo": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+          "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-07T12:04:19+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 4,
+      "tema": "Ch. 10: Testing Assumptions",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "prioridad": 3.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Talk (Teresa Torres)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.producttalk.org/ch-10-testing-assumptions/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-21T13:00:42+00:00",
+      "descripcion": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we ll be learning about Short videos you",
+      "articulos": [
+        {
+          "titulo": "Ch. 10: Testing Assumptions",
+          "url": "https://www.producttalk.org/ch-10-testing-assumptions/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-21T13:00:42+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 5,
+      "tema": "A Fresh Definition of The Product Role",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "prioridad": 2.1,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "SVPG (Marty Cagan)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-10T12:49:18+00:00",
+      "descripcion": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group .",
+      "articulos": [
+        {
+          "titulo": "A Fresh Definition of The Product Role",
+          "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+          "fuente": "SVPG (Marty Cagan)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-10T12:49:18+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 6,
+      "tema": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+práctica y aprendizaje"
+      ],
+      "prioridad": 2.1,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-14T15:03:48+00:00",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "articulos": [
+        {
+          "titulo": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-14T15:03:48+00:00"
+        },
+        {
+          "titulo": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+          "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-08T12:31:49+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 7,
+      "tema": "Delivery Isn’t Free - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "prioridad": 2.1,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Talk (Teresa Torres)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-15T13:00:58+00:00",
+      "descripcion": "Listen to this episode on: Spotify | Apple Podcasts Everyone s saying it: Now that AI makes delivery free&#x2026; But is it? In this episode of All Things Product, Petra Wille and Teresa Torres pull apart one of the most repeated claims in product right now. They",
+      "articulos": [
+        {
+          "titulo": "Delivery Isn’t Free - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-15T13:00:58+00:00"
+        },
+        {
+          "titulo": "Facilitation Skills - All Things Product Podcast with Teresa Torres & Petra Wille",
+          "url": "https://www.producttalk.org/facilitation-skills-all-things-product-with-teresa-torres-petra-wille/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-08T13:00:35+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 8,
+      "tema": "60+ new creative growth ideas",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+método o framework"
+      ],
+      "prioridad": 1.2,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-15T12:45:28+00:00",
+      "descripcion": "How to stand out when everyone is running the same playbook",
+      "articulos": [
+        {
+          "titulo": "60+ new creative growth ideas",
+          "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-15T12:45:28+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 9,
+      "tema": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-31T15:01:58+00:00",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "articulos": [
+        {
+          "titulo": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-31T15:01:58+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 10,
+      "tema": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-14T12:04:39+00:00",
+      "descripcion": "Watch now (42 mins) | Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+      "articulos": [
+        {
+          "titulo": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+          "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-14T12:04:39+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 11,
+      "tema": "Muse review: The personal AI agent that gets consumer UX right",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-16T12:02:14+00:00",
+      "descripcion": "Watch now (38 mins) | I gave Meta's Muse my calendar, my email, and my kids' chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I've ever made with Claude or Codex",
+      "articulos": [
+        {
+          "titulo": "Muse review: The personal AI agent that gets consumer UX right",
+          "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-16T12:02:14+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 12,
+      "tema": "Creating Aha! Builder: Concept to Code, No Engineers Required",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "La Trinchera del Founder",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Talk (Teresa Torres)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-17T13:00:52+00:00",
+      "descripcion": "Listen to this episode on: Spotify | Apple Podcasts What does it take to build an AI app builder specifically for product managers&#x2014;not engineers&#x2014;inside an already crowded market? In this episode of Just Now Possible, Teresa Torres talks with Brian De Haaff (CEO and Co-Founder), Chris",
+      "articulos": [
+        {
+          "titulo": "Creating Aha! Builder: Concept to Code, No Engineers Required",
+          "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-17T13:00:52+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 13,
+      "tema": "Product Operating Model: The Crucial Enabler for AI Success",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 1.8,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Roman Pichler"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.romanpichler.com/blog/product-operating-model-the-crucial-enabler-for-ai-success/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-17T14:49:43+00:00",
+      "descripcion": "Over the past few years, many product teams have built AI fluency and started to apply AI to their work and products. That's great, but it's not enough to fully leverage AI in product management. Without the right product operating model in place, AI delivers only limited benefits. In this article, I explain why this is and how you can create an effective product management approach that is optimised for AI.",
+      "articulos": [
+        {
+          "titulo": "Product Operating Model: The Crucial Enabler for AI Success",
+          "url": "https://www.romanpichler.com/blog/product-operating-model-the-crucial-enabler-for-ai-success/",
+          "fuente": "Roman Pichler",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-17T14:49:43+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 14,
+      "tema": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 1.8,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-30T12:31:30+00:00",
+      "descripcion": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
+      "articulos": [
+        {
+          "titulo": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (Product Lead ChatGPT Work)",
+          "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-30T12:31:30+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 15,
+      "tema": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 1.8,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-31T12:04:18+00:00",
+      "descripcion": "Listen now | PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
+      "articulos": [
+        {
+          "titulo": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+          "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-31T12:04:18+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 16,
+      "tema": "Get My Eval Test Harness and Run Your First Experiment",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 1.8,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Talk (Teresa Torres)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.producttalk.org/ai-evals-test-harness/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-02T13:05:45+00:00",
+      "descripcion": "My in-depth AI evals guide explains what evals are and how to build them. This post gives you the tool I use to run them. Here s the practical problem. To get a baseline, you have to run every input through your prompt, save each output, run every",
+      "articulos": [
+        {
+          "titulo": "Get My Eval Test Harness and Run Your First Experiment",
+          "url": "https://www.producttalk.org/ai-evals-test-harness/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-02T13:05:45+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 17,
+      "tema": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 1.8,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-05T17:00:46+00:00",
+      "descripcion": "Community Wisdom 297",
+      "articulos": [
+        {
+          "titulo": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-05T17:00:46+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 18,
+      "tema": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [
+        "+método o framework",
+        "−lanzamiento de modelo"
+      ],
+      "prioridad": 1.8,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-07T15:02:41+00:00",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "articulos": [
+        {
+          "titulo": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-07T15:02:41+00:00"
+        },
+        {
+          "titulo": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+          "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-02T12:03:39+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 19,
+      "tema": "GPT-6 Astra is a banger - here’s everything I’ve built",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": -1.0,
+      "generoDetalle": [
+        "−lanzamiento de modelo"
+      ],
+      "prioridad": 1.5,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-03T19:34:20+00:00",
+      "descripcion": "Watch now | My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn't match, and a hardware hack I've chased for months",
+      "articulos": [
+        {
+          "titulo": "GPT-6 Astra is a banger - here’s everything I’ve built",
+          "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-03T19:34:20+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 20,
+      "tema": "How to turn your AI into a world-class designer",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-01T12:45:59+00:00",
+      "descripcion": "An end-to-end process for tapping into AI's hidden creativity",
+      "articulos": [
+        {
+          "titulo": "How to turn your AI into a world-class designer",
+          "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-01T12:45:59+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 21,
+      "tema": "AI Evals: A Hands-On Guide for Product Teams",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Talk (Teresa Torres)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.producttalk.org/ai-evals/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-02T13:00:59+00:00",
+      "descripcion": "AI evals tell you whether your AI product or workflow is any good. A hands-on guide to error analysis, the four types of evals, and your first experiment.",
+      "articulos": [
+        {
+          "titulo": "AI Evals: A Hands-On Guide for Product Teams",
+          "url": "https://www.producttalk.org/ai-evals/",
+          "fuente": "Product Talk (Teresa Torres)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-02T13:00:59+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 22,
+      "tema": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-06T12:32:00+00:00",
+      "descripcion": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
+      "articulos": [
+        {
+          "titulo": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+          "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-06T12:32:00+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 23,
+      "tema": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-12T17:45:34+00:00",
+      "descripcion": "Community Wisdom 298",
+      "articulos": [
+        {
+          "titulo": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-12T17:45:34+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 24,
+      "tema": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-20T12:32:17+00:00",
+      "descripcion": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
+      "articulos": [
+        {
+          "titulo": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+          "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-20T12:32:17+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 25,
+      "tema": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-21T15:03:51+00:00",
+      "descripcion": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "articulos": [
+        {
+          "titulo": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+          "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-21T15:03:51+00:00"
+        },
+        {
+          "titulo": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+          "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-21T12:04:11+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 26,
+      "tema": "Strong Opinions, Loosely Held",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "SVPG (Marty Cagan)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.svpg.com/strong-opinions-loosely-held/",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-11T14:56:15+00:00",
+      "descripcion": "Note: This is the narrative version of a keynote talk for the Lenny Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group .",
+      "articulos": [
+        {
+          "titulo": "Strong Opinions, Loosely Held",
+          "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+          "fuente": "SVPG (Marty Cagan)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-11T14:56:15+00:00"
+        }
+      ],
+      "puntuar": false
+    },
+    {
+      "id": 27,
+      "tema": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Lenny's Newsletter"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-19T19:42:24+00:00",
+      "descripcion": "Community Wisdom 299",
+      "articulos": [
+        {
+          "titulo": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+          "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+          "fuente": "Lenny's Newsletter",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-19T19:42:24+00:00"
+        }
+      ],
+      "puntuar": false
+    }
+  ]
+}

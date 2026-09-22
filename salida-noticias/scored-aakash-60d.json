@@ -1,0 +1,256 @@
+[
+  {
+    "titulo": "How to Build Frontier-Lab Quality Evals with Daniel McKinnon, ex-PM at Meta, Google",
+    "titulo_es": "El eval reemplazó al PRD",
+    "url": "https://www.news.aakashg.com/p/how-to-build-your-first-eval",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-07-28T21:49:23+00:00",
+    "negocio": "quarks",
+    "score": 9,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Daniel McKinnon escribió evals para Gemini, para Llama y para los Ray-Ban de Meta, y acá arma uno en vivo desde una planilla vacía. El método son seis pasos: el problema en una oración, buscar a alguien con dominio del tema, encontrar el piso (el caso más fácil que el modelo debería resolver), el techo (el que esperás que falle) y llenar el medio por búsqueda binaria hasta unos 100 casos. La regla dura es no ablandar nunca una respuesta incorrecta: si el caso admite dos respuestas defendibles, se descarta.",
+    "razon_score": "Es el mejor tema del lote y de los mejores del mes: método completo, reproducible, con una tesis fuerte detrás — cuando la funcionalidad es de IA, el artefacto que alinea equipos dejó de ser el documento de requisitos y pasó a ser el eval.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/how-to-build-your-first-eval"
+    ]
+  },
+  {
+    "titulo": "The PM's Guide to Governance with Eric Ries, author of The Lean Startup",
+    "titulo_es": "Las startups no se caen por el producto, se caen por cómo están armadas",
+    "url": "https://www.news.aakashg.com/p/eric-ries-incorruptible",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-07-20T22:11:52+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "categoria": "Enseñanza",
+    "resumen": "Eric Ries sostiene que los derrumbes más ruidosos del mundo startup fueron fallas de gobernanza, no de producto, y propone cuatro dimensiones para blindar la misión: candado legal, jerarquía de a quién le respondés, estructura de gobierno y estructura cultural. Lo aterriza por etapa — figura legal con propósito en semilla, fideicomiso de largo plazo en serie A y B, vehículo de candado de misión de serie C en adelante — y aclara que no hay plantilla universal.",
+    "razon_score": "Tema que nadie está contando en español, con un ángulo que le habla directo a las Personas 1 y 2 y toca la parte del negocio que un founder técnico suele postergar. Es 8 y no 9 porque el disparador promete una comparación entre dos laboratorios de IA que después no desarrolla: el post tiene que pararse en la tesis de gobernanza, no en esa comparación.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/eric-ries-incorruptible"
+    ]
+  },
+  {
+    "titulo": "Vibe Coding Interviews for PMs: Complete Guide",
+    "titulo_es": "La entrevista de PM cambió: ahora te sientan a construir",
+    "url": "https://www.news.aakashg.com/p/vibe-coding-interviews-for-pms-complete",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-07-29T23:19:16+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Apareció un formato nuevo de entrevista que mezcla la ronda de criterio de producto con construir algo en vivo asistido por IA. En Meta se reporta como treinta minutos de producto más treinta de construcción; lo usan Google, Microsoft, Adobe y Figma, y también empresas nativas de IA. El error que más marcan los que entrevistan es arrancar ejecutando: lo que evalúan no es velocidad para producir sino capacidad de conducir la herramienta, mirar los bordes y descartar lo que devuelve sin pensar.",
+    "razon_score": "Dos artículos de la misma guía, consecuencia laboral concreta y un ángulo que se traduce solo a método: el criterio se volvió el entregable. Le habla al PM/builder de LATAM que está buscando trabajo ahora.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/vibe-coding-interviews-for-pms-complete",
+      "https://www.news.aakashg.com/p/ai-pm-technical-interview"
+    ]
+  },
+  {
+    "titulo": "Ultimate Guide: ChatGPT Work For PMs",
+    "titulo_es": "Guía de ChatGPT Work para PMs: seis usos y los límites que nadie cuenta",
+    "url": "https://www.news.aakashg.com/p/chatgpt-work-pm",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-07-27T20:04:39+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Seis casos de uso concretos para product managers, con los pedidos exactos, las reglas de qué fuentes conectar y los límites de la herramienta.",
+    "razon_score": "Bien hecho y con la parte de límites que normalmente falta, pero es guía de una herramienta puntual: envejece en un trimestre y no posiciona.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/chatgpt-work-pm"
+    ]
+  },
+  {
+    "titulo": "Graphs for PMs.",
+    "titulo_es": "Grafos para PMs: la capa que viene después de los loops",
+    "url": "https://www.news.aakashg.com/p/graphs",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-08-12T04:30:42+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "La tesis es que después de los loops vienen los grafos como forma de estructurar el trabajo de un PM con agentes. La idea puede tener recorrido, pero la nota se apoya en una cita de autoridad y todavía no muestra el método completo.",
+    "razon_score": "Concepto prometedor sin suficiente carne: hoy el post saldría forzado.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/graphs"
+    ]
+  },
+  {
+    "titulo": "Inside the AI Stack of an $8.3B AI Company’s Product Team | Together AI",
+    "titulo_es": "El stack real de un equipo de producto que ya trabaja con IA",
+    "url": "https://www.news.aakashg.com/p/together-ai-product-team",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-09-14T23:05:28+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "Alquimia en Acción",
+    "categoria": "Enseñanza",
+    "resumen": "Las cuatro herramientas que usa a diario el equipo de producto de Together AI. Es una deconstrucción honesta, pero es el stack de una empresa de 8.300 millones.",
+    "razon_score": "Buen material de deconstrucción pero poco trasladable a un equipo chico de LATAM.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/together-ai-product-team"
+    ]
+  },
+  {
+    "titulo": "Stakeholder Management: Advanced Study",
+    "titulo_es": "Gestión de stakeholders: la mitad del trabajo de PM que nadie enseña",
+    "url": "https://www.news.aakashg.com/p/stakeholder-management-for-product-managers",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-09-02T23:07:23+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "La mitad humana del rol de PM: el producto se define tanto en la conversación con stakeholders como en el backlog. Cuatro escalones de confianza y la brecha de exposición como mecanismo.",
+    "razon_score": "Ya tiene guion escrito y está en Borrador. Se deja puntuado para trazabilidad; la dedup por URL evita que se duplique la página.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/stakeholder-management-for-product-managers"
+    ]
+  },
+  {
+    "titulo": "How to Become an AI PM (without AI PM experience)",
+    "titulo_es": "Cómo se construye experiencia en IA cuando nadie te la da",
+    "url": "https://www.news.aakashg.com/p/synthetic-ai-pm-experience",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-08-27T21:36:43+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Experiencia sintética: construir un producto real, conseguir que alguien lo use y documentar las decisiones, sobre un relevamiento de 113 avisos.",
+    "razon_score": "Ya tiene guion escrito y está en Borrador. Se deja puntuado para trazabilidad.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/synthetic-ai-pm-experience"
+    ]
+  },
+  {
+    "titulo": "How to Build Effective Product Loops in Claude Code, with Chief AI and Product Officer at JobNimbus, Tyler Folkman",
+    "titulo_es": "Loops de producto adentro del editor de código",
+    "url": "https://www.news.aakashg.com/p/how-to-build-product-loops-in-claude-code",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-09-04T23:01:00+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Qué significa en la práctica que los loops sean el reemplazo del prompt, para PMs y builders.",
+    "razon_score": "Insumo del guion de supervisión de agentes que ya está en Borrador; suelto se pisa con ese post.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/how-to-build-product-loops-in-claude-code"
+    ]
+  },
+  {
+    "titulo": "3x CPO Oji Udezue on the Essential Claude Skills for PMs",
+    "titulo_es": "Convertir criterio de producto en habilidades reutilizables",
+    "url": "https://www.news.aakashg.com/p/oji-udezue-claude-skills",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-08-06T20:17:48+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "El ex CPO de Typeform, Parsable y Calendly plantea empaquetar el criterio de producto como habilidades que se reusan.",
+    "razon_score": "Ya absorbido por el guion de experiencia sintética; suelto es una entrevista, no un post.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/oji-udezue-claude-skills"
+    ]
+  },
+  {
+    "titulo": "How Srini Raghavan helped $3.4B SaaS Giant Freshworks Embrace the AI PDLC",
+    "titulo_es": "Cómo Freshworks adoptó un ciclo de desarrollo con IA",
+    "url": "https://www.news.aakashg.com/p/srini-raghavan-podcast",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-08-24T23:16:09+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Enseñanza",
+    "resumen": "Cómo una SaaS de 3.400 millones incorporó IA a todo su ciclo de desarrollo de producto.",
+    "razon_score": "Relevante de tema pero la escala de la empresa lo vuelve poco aplicable para la audiencia.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/srini-raghavan-podcast"
+    ]
+  },
+  {
+    "titulo": "How to build a Company Operating System with Hermes and OpenClaw",
+    "titulo_es": "Un sistema operativo de empresa armado con agentes",
+    "url": "https://www.news.aakashg.com/p/company-os-hermes-openclaw",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-08-28T22:38:13+00:00",
+    "negocio": "quarks",
+    "score": 5,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Enseñanza",
+    "resumen": "Llevar la idea de agentes más allá del código: una capa que corre la operación de la empresa, incluida la producción de contenido.",
+    "razon_score": "Ya absorbido como insumo del tema de supervisión de agentes; suelto es más visión que práctica reproducible.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/company-os-hermes-openclaw",
+      "https://www.news.aakashg.com/p/content-os"
+    ]
+  },
+  {
+    "titulo": "5 Years of Product Growth.",
+    "titulo_es": "Cinco años de Product Growth",
+    "url": "https://www.news.aakashg.com/p/5-years-2m-1m-followers",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-09-09T23:33:47+00:00",
+    "negocio": "quarks",
+    "score": 2,
+    "bucket_sugerido": "Alquimia en Acción",
+    "categoria": "Misceláneo",
+    "resumen": "Repaso de cómo llegó a un millón de seguidores y qué sigue.",
+    "razon_score": "Es el Misceláneo de otra marca: no hay nada que Quarks pueda decir acá.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/5-years-2m-1m-followers"
+    ]
+  },
+  {
+    "titulo": "I'm adding Airtable to my Bundle",
+    "titulo_es": "Sumó Airtable al combo de la suscripción",
+    "url": "https://www.news.aakashg.com/p/airtable-bundle",
+    "fuente": "Product Growth (Aakash Gupta)",
+    "fechaPublicacion": "2026-07-24T22:09:03+00:00",
+    "negocio": "quarks",
+    "score": 1,
+    "bucket_sugerido": "Alquimia en Acción",
+    "categoria": "Misceláneo",
+    "resumen": "Anuncio de que agregó una herramienta más al paquete de beneficios de su suscripción.",
+    "razon_score": "Promoción de su propio producto: cero valor para la marca.",
+    "buzz": 0.0,
+    "senal_conversacion": "Sin senal de conversacion medible: Product Growth es RSS de Substack, sin API de engagement (buzz 0.0). Ademas el feed solo sirve 20 items, que es el techo real.",
+    "articulos_del_tema": [
+      "https://www.news.aakashg.com/p/airtable-bundle"
+    ]
+  }
+]

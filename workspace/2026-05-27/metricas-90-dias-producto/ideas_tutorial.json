@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Tutorial",
+      "title": "Medir lo que importa",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "El Founder T\u00e9cnico, El Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Tu m\u00e9trica de crecimiento: el enga\u00f1o de los 90 d\u00edas.",
+      "body_summary": "Este tutorial te gu\u00eda para distinguir entre m\u00e9tricas de vanidad y las que realmente indican si tu producto tiene un futuro, enfocando tus primeros 90 d\u00edas en la direcci\u00f3n correcta.",
+      "cta_copy": "Coment\u00e1: \u00bfcu\u00e1l m\u00e9trica crees que subestimamos en el inicio?",
+      "why_stands_out": "Desaf\u00eda la obsesi\u00f3n por el crecimiento temprano, redireccionando el foco a la validaci\u00f3n estrat\u00e9gica con una gu\u00eda paso a paso."
+    },
+    {
+      "label": "B",
+      "framework": "Tutorial",
+      "title": "Tu setup de m\u00e9tricas",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "El Product Manager / Builder",
+      "hook_type": "friccion",
+      "hook_copy": "Si tu producto no despega: quiz\u00e1s mir\u00e1s mal.",
+      "body_summary": "Un paso a paso pr\u00e1ctico para que PMs definan, implementen y analicen las m\u00e9tricas esenciales que revelan el verdadero potencial de un producto en sus primeros 90 d\u00edas.",
+      "cta_copy": "Contanos: \u00bfqu\u00e9 herramienta us\u00e1s para medir activaci\u00f3n?",
+      "why_stands_out": "Ofrece una soluci\u00f3n concreta y pr\u00e1ctica a la frustraci\u00f3n de PMs con la medici\u00f3n temprana, enfoc\u00e1ndose en la implementaci\u00f3n efectiva."
+    },
+    {
+      "label": "C",
+      "framework": "Tutorial",
+      "title": "Lecciones de m\u00e9tricas early",
+      "content_bucket": "Alquimia en Acci\u00f3n",
+      "target_audience": "El Founder T\u00e9cnico, El Product Manager / Builder",
+      "hook_type": "empirico",
+      "hook_copy": "Analizamos 10 lanzamientos. Esto es lo que medimos.",
+      "body_summary": "Recorr\u00e9 el camino de varios productos: qu\u00e9 m\u00e9tricas nos guiaron en sus primeros 90 d\u00edas y c\u00f3mo las usamos para tomar decisiones cr\u00edticas que definieron su \u00e9xito.",
+      "cta_copy": "\u00bfQu\u00e9 m\u00e9trica te revel\u00f3 un problema inesperado?",
+      "why_stands_out": "Utiliza una perspectiva de 'case study colectivo' para ense\u00f1ar sobre m\u00e9tricas, ofreciendo lecciones destiladas de experiencias reales en lugar de solo teor\u00eda."
+    },
+    {
+      "label": "D",
+      "framework": "Tutorial",
+      "title": "El valor de tu producto",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "El Founder No T\u00e9cnico, El Founder T\u00e9cnico, El Product Manager / Builder",
+      "hook_type": "epifania",
+      "hook_copy": "Dej\u00e9 de mirar usuarios. Empec\u00e9 a ver valor.",
+      "body_summary": "Descubr\u00ed c\u00f3mo el 'Time to Value' transforma la forma de entender el \u00e9xito de tu producto en los 90 d\u00edas iniciales, gui\u00e1ndote a crear experiencias significativas.",
+      "cta_copy": "\u00bfCu\u00e1nto tarda un usuario en ver el valor de tu producto?",
+      "why_stands_out": "Prioriza una m\u00e9trica espec\u00edfica (Time to Value) que a menudo se subestima, ofreciendo un tutorial para entenderla y optimizarla desde una perspectiva centrada en el valor real."
+    }
+  ]
+}

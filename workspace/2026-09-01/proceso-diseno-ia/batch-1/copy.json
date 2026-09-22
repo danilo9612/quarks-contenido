@@ -1,0 +1,100 @@
+[
+  {
+    "slide_num": 1,
+    "role": "hook",
+    "headline": "Le pedís a la IA una interfaz linda.<br><b>Te da la misma que a todos.</b>",
+    "headline_size": 74,
+    "chip": "Diseño con IA",
+    "chip_placement": "flow",
+    "chip_align": "center"
+  },
+  {
+    "slide_num": 2,
+    "role": "body",
+    "headline": "No es un límite del modelo.<br><b>Le pedimos un resultado cuando lo que necesita es un proceso.</b>",
+    "headline_size": 70,
+    "block_top": 360,
+    "circle_icon": "fa-solid fa-triangle-exclamation",
+    "circle_top": 790,
+    "circle_size": 420,
+    "circle_icon_size": 160
+  },
+  {
+    "slide_num": 3,
+    "role": "body",
+    "headline": "El proceso no hay que inventarlo.<br><b>Ya existe, y tiene tres etapas.</b>",
+    "headline_size": 70,
+    "block_top": 360,
+    "chip": "Doble Diamante",
+    "chip_placement": "flow",
+    "chip_align": "left",
+    "chip_gap": 38
+  },
+  {
+    "slide_num": 4,
+    "role": "body",
+    "headline": "<b>Descubrir.</b><br>Direcciones radicales, no razonables. Y ruido a propósito: una semilla al azar lo corre de su estética por defecto.",
+    "headline_size": 62,
+    "block_top": 350
+  },
+  {
+    "slide_num": 5,
+    "role": "body",
+    "headline": "<b>Definir.</b><br>Un segundo agente que solo haga de crítico. Nota del 0 al 10 con el motivo.",
+    "headline_size": 64,
+    "block_top": 350,
+    "chip": "Lo que casi nadie hace",
+    "chip_placement": "flow",
+    "chip_align": "left",
+    "circle_icon": "fa-solid fa-user-check",
+    "circle_top": 800,
+    "circle_size": 400,
+    "circle_icon_size": 150,
+    "chip_gap": 38
+  },
+  {
+    "slide_num": 6,
+    "role": "body",
+    "headline": "<b>Entregar.</b><br>Sacar lo que no aporta y cazar los tells de IA: esos gradientes, esas sombras, ese espaciado.",
+    "headline_size": 62,
+    "block_top": 350
+  },
+  {
+    "slide_num": 7,
+    "role": "body",
+    "headline": "Iterás contra la nota.<br><b>No contra tu gusto a las once de la noche.</b>",
+    "headline_size": 74,
+    "block_top": 380
+  },
+  {
+    "slide_num": 8,
+    "role": "body",
+    "headline": "El modelo no mejora con un prompt más largo.<br><b>Mejora cuando le armás las etapas que un equipo de diseño ya tenía.</b>",
+    "headline_size": 62,
+    "block_top": 350
+  },
+  {
+    "slide_num": 9,
+    "role": "body",
+    "headline": "Divergir.<br>Converger.<br><b>Pulir.</b>",
+    "headline_size": 80,
+    "block_top": 380,
+    "chip": "El oficio no se movió de lugar",
+    "chip_placement": "flow",
+    "chip_align": "left",
+    "circle_icon": "fa-solid fa-gem",
+    "circle_top": 780,
+    "circle_size": 430,
+    "circle_icon_size": 165,
+    "chip_gap": 38
+  },
+  {
+    "slide_num": 10,
+    "role": "cta",
+    "headline": "¿Abrís el chat esperando que salga bien <b>de una</b>?",
+    "secondary": "Guardalo para la próxima.",
+    "align": "center",
+    "headline_size": 66,
+    "corner_glow": false
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "titulo": "Jev introduces a new shape of LLM",
+    "titulo_es": "El modelo que decide sin explicar: el riesgo de delegarle a Jev decisiones sobre personas",
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "fuente": "Simon Willison + Hacker News",
+    "fechaPublicacion": "2026-09-21T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 8,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "Jev no genera texto: devuelve una probabilidad y un nivel de confianza, sin ningún razonamiento que se pueda leer. Willison advierte que no hay que usarlo para contratar personal. En su propia prueba, al ordenar ciudades del Bay Area, puso primero a Cupertino y último a East Palo Alto, lo que deja ver un sesgo oculto. Para el que construye producto, la pregunta es qué pasa cuando una decisión automatizada sale barata, rápida y sin explicación.",
+    "razon_score": "Es la cara discutible del lanzamiento: habla de consecuencias sobre personas y trabajo, trae un ejemplo concreto y verificable, y no depende del anuncio.",
+    "buzz": 1.5,
+    "senal_conversacion": "47 pts / 15 comentarios en HN; lo arrastra la conversación del lanzamiento (1963 pts / 511 comentarios)",
+    "articulos_del_tema": [
+      "https://simonwillison.net/2026/Sep/21/jev/",
+      "https://news.ycombinator.com/item?id=49796843",
+      "https://gpu.studio/trolley"
+    ]
+  },
+  {
+    "titulo": "OpenAI is well positioned to fast-follow Jev",
+    "titulo_es": "¿OpenAI se come a Jev? El foso de una startup que salió a competir con los grandes",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "fuente": "Arcturus Labs + Hacker News",
+    "fechaPublicacion": "2026-09-21T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 7,
+    "bucket_sugerido": "La Trinchera del Founder",
+    "categoria": "Opinión",
+    "resumen": "El argumento es que Jev parece un LLM convencional entrenado de otra manera, así que la arquitectura no le da foso. OpenAI podría copiarlo o meter la clasificación adentro de sus propios modelos. Lo único que defendería a TypeSafe son los datos y el método de entrenamiento. En HN la discusión se divide entre los que dicen que OpenAI no lo haría porque va en contra de su apuesta por el razonamiento y los que dicen que la ventaja es justamente no ser OpenAI.",
+    "razon_score": "Es un debate clásico de founder (qué te defiende cuando un gigante te puede copiar) con dos posturas bien armadas en los comentarios. No trae una cifra propia.",
+    "buzz": 3.0,
+    "senal_conversacion": "182 pts / 135 comentarios en HN",
+    "articulos_del_tema": [
+      "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "https://news.ycombinator.com/item?id=49802161"
+    ]
+  },
+  {
+    "titulo": "Introducing System One Models and Jev",
+    "titulo_es": "No todo tiene que ser un chat: Jev y los modelos que deciden en vez de conversar",
+    "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+    "fuente": "TypeSafe AI + TechCrunch + The Register + Hacker News",
+    "fechaPublicacion": "2026-09-15T19:25:03+00:00",
+    "negocio": "quarks",
+    "score": 7,
+    "bucket_sugerido": "Arquitectura de Producto",
+    "categoria": "Opinión",
+    "resumen": "TypeSafe, la startup que fundó un ex OpenAI que trabajó en RLHF, lanzó Jev: un modelo que en vez de texto devuelve decisiones tipadas con probabilidad calibrada, en 70–500 ms. Cobra US$0,042 por millón de tokens de entrada y la salida es gratis. Vercel dice que lo usa para revisar comandos de forma 5 a 18 veces más rápida que con un LLM. El ángulo para el que construye es que buena parte de lo que hoy se resuelve pidiéndole a un chat que conteste 'sí' o 'no' es una decisión, no una conversación.",
+    "razon_score": "Es un lanzamiento, y eso lo penaliza, pero fue la conversación más grande de la semana y deja un ángulo de arquitectura de producto que se puede discutir. Las cifras son del propio vendor, así que hay que citarlas como tales.",
+    "buzz": 5.0,
+    "senal_conversacion": "1963 pts / 511 comentarios en HN; también en TechCrunch, The Register, Latent Space y Forkast",
+    "articulos_del_tema": [
+      "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "https://news.ycombinator.com/item?id=49717558",
+      "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+      "https://forkast.news/typesafe-ais-jev-is-not-an-llm-and-that-may-be-the-point/",
+      "https://www.latent.space/p/jev"
+    ]
+  },
+  {
+    "titulo": "We Tested Jev on 100 Agent Tool Calls",
+    "titulo_es": "Qué pasa cuando probás Jev en producción: 100 llamadas de agentes, evals y experiencia de producto",
+    "url": "https://archestra.ai/blog/we-tested-jev-on-100-real-agent-calls",
+    "fuente": "Archestra + Openlayer + Elvex + Hacker News",
+    "fechaPublicacion": "2026-09-21T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 7,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "categoria": "Opinión",
+    "resumen": "En la primera semana aparecieron pruebas en casos reales: validar 100 llamadas de agentes a herramientas, reemplazar a los LLM que califican las respuestas de otro LLM con decisiones tipadas (jevals) y rediseñar la experiencia de un producto alrededor de la confianza del modelo (Elvex). Es donde el anuncio se prueba contra el trabajo real.",
+    "razon_score": "Es aplicado y sin humo, bien para Persona 3, pero tiene poca conversación y habría que leer cada nota antes de citar resultados.",
+    "buzz": 1.0,
+    "senal_conversacion": "11 pts (Archestra), 43 pts (jevals), 7 pts (Elvex) en HN",
+    "articulos_del_tema": [
+      "https://archestra.ai/blog/we-tested-jev-on-100-real-agent-calls",
+      "https://github.com/openlayer-ai/jevals",
+      "https://www.elvex.com/blog/early-experimentation-using-jev-to-rethink-harness-ux"
+    ]
+  },
+  {
+    "titulo": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+    "titulo_es": "La fiebre de los clones de Jev, y el que dice que con un clasificador de 5 minutos alcanza",
+    "url": "https://github.com/jaredpalmer/kev/tree/main",
+    "fuente": "Hacker News (Kev, jevlike, Jev-Leftpad, benchmark)",
+    "fechaPublicacion": "2026-09-21T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 6,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "resumen": "En una semana salieron varios clones abiertos (Kev sobre Qwen3.5, jevlike, alternativas con decodificación restringida) y hasta un benchmark para 'modelos tipo Jev'. En los comentarios aparece el contrapunto: con 50 a 100 ejemplos, un clasificador de embeddings más regresión logística le da 95% en emails a un usuario, pesa menos de 1 MB y se entrena en 5 minutos.",
+    "razon_score": "El contrapunto del clasificador casero es buen material para un re-hook, pero como tema propio es ruido de hype. El 95% es de un comentario anónimo, no es una cifra que se pueda citar.",
+    "buzz": 4.0,
+    "senal_conversacion": "447 pts / 198 comentarios (Kev), 230 pts (Jev-Leftpad), 168 pts (jevlike) en HN",
+    "articulos_del_tema": [
+      "https://github.com/jaredpalmer/kev/tree/main",
+      "https://news.ycombinator.com/item?id=49783999",
+      "https://github.com/vinnylarouge/jevlike",
+      "https://github.com/f/jev-leftpad",
+      "https://benchmarkheaven.com/jev-models"
+    ]
+  },
+  {
+    "titulo": "I turned Jev into a (lousy) chatbot",
+    "titulo_es": "Jev juega al Doom, al Pong y al dilema del tranvía: las demos de la semana",
+    "url": "https://github.com/kyle-pena-nlp/jevchat/",
+    "fuente": "Hacker News (demos)",
+    "fechaPublicacion": "2026-09-20T00:00:00+00:00",
+    "negocio": "quarks",
+    "score": 4,
+    "bucket_sugerido": "El Futuro Aplicado",
+    "resumen": "Una tanda de demos: Jev jugando al Doom, al Pong contra GPT-5.6, al 2048, convertido en un chatbot malo y respondiendo preguntas de sí o no. Muestran lo que el modelo puede hacer, pero no qué significa para un negocio.",
+    "razon_score": "Es entretenimiento de HN, sin ángulo para founders ni PMs.",
+    "buzz": 2.0,
+    "senal_conversacion": "173 pts / 49 comentarios (jevchat), 10 pts (Pong), 9 pts (trolley) en HN",
+    "articulos_del_tema": [
+      "https://github.com/kyle-pena-nlp/jevchat/",
+      "https://jev-pong.ably.dev/",
+      "https://gpu.studio/trolley"
+    ]
+  }
+]

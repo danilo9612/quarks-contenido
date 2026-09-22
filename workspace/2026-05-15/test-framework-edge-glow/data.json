@@ -1,0 +1,11 @@
+{
+  "headline": "El rol de la tecnología en el crecimiento moderno",
+  "body": "La tecnología transformó cómo vivimos y trabajamos. Ya no es solo soporte — es motor de innovación y eficiencia en cada industria.",
+  "divider": "KEY HIGHLIGHTS",
+  "deco_mode": "edge_glow",
+  "bullets": [
+    {"title": "Automatización", "body": "Mejora la productividad y reduce el trabajo manual."},
+    {"title": "Datos accionables", "body": "Permiten decisiones más rápidas e inteligentes."},
+    {"title": "Colaboración digital", "body": "Conecta equipos sin importar dónde estén."}
+  ]
+}

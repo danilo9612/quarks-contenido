@@ -1,0 +1,48 @@
+{
+  "variants": [
+    {
+      "label": "A",
+      "type": "quote_photo",
+      "why": "Titular de la noticia sobre foto de cuento antes de dormir: la imagen informa, el post opina.",
+      "data": {
+        "quote": "Meta prueba StoryKit: una IA que escribe cuentos para niños",
+        "headline_case": true,
+        "eyebrow": "NUEVA APP",
+        "photo_query": "teddy bear window light",
+        "gradient_ring": "top-right",
+        "gradient_ring_size": "sm"
+      }
+    },
+    {
+      "label": "B",
+      "type": "quote",
+      "why": "Captura la esencia de la imperfección humana valorada por el autor como parte integral de la experiencia, relevante para un análisis de Coyuntura & Opinión.",
+      "data": {
+        "quote": "El olvido, la corrección, el 'pará, ¿cómo era?', no son ruido en la experiencia. Son la experiencia.",
+        "kicker": "OPINIÓN",
+        "glow_primary": "bottom-left",
+        "gradient_ring": "top-right"
+      }
+    },
+    {
+      "label": "C",
+      "type": "quote_photo",
+      "why": "Ofrece una perspectiva estratégica y proactiva sobre la agencia humana en la era tecnológica, en línea con la filosofía de Quarks Alchemist y la vertical de Coyuntura & Opinión.",
+      "data": {
+        "quote": "EL FUTURO SE DECIDE MENOS POR LO QUE DELEGAMOS QUE POR LO QUE DECIDIMOS RESERVARNOS.",
+        "eyebrow": "VISIÓN ESTRATÉGICA",
+        "photo_query": "human hands crafting wood",
+        "dotted_ring": "bottom-left",
+        "dotted_ring_size": "sm"
+      }
+    }
+  ],
+  "_meta": {
+    "vertical": "Coyuntura & Opinión",
+    "has_data": false,
+    "compatible_types": [
+      "quote_photo",
+      "quote"
+    ]
+  }
+}

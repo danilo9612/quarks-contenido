@@ -1,0 +1,14 @@
+{
+  "label": "A4",
+  "type": "quote_photo",
+  "why": "Igual que A, con textura tipografica de recortes de prensa: refuerza el tono titular y no tiene marcas.",
+  "data": {
+    "quote": "Etiquetar un aviso como \"generado por IA\" bajó la intención de click",
+    "headline_case": true,
+    "eyebrow": "EL ESTUDIO",
+    "attribution": "Nuremberg Institute for Market Decisions, 2026",
+    "photo_query": "torn paper posters wall texture",
+    "gradient_ring": "top-right",
+    "gradient_ring_size": "sm"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "concept_label": "B",
+  "framework": "Myth-Busting",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 1,
+      "role": "body",
+      "template": "slide_data_stat",
+      "kicker": "EL COSTO",
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "headline": "",
+      "stat_value": "62%",
+      "stat_context": "de equipos pierde tiempo rehaciendo diseños por falta de un sistema compartido.",
+      "body": "Diseñadores y desarrolladores trabajan sobre versiones distintas del mismo producto. El retrabajo es inevitable.",
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    }
+  ]
+}

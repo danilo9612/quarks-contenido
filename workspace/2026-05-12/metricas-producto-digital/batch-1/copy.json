@@ -1,0 +1,194 @@
+{
+  "concept_label": "B",
+  "framework": "Tutorial Paso a Paso",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Métricas clave: los primeros 90 días de tu producto.",
+      "swipe_hint": "El framework exacto de 6 pasos",
+      "background_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_small.png",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_medium.png",
+      "deco_position": "mid-right",
+      "glow_primary": "bottom-left",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tutorial_step",
+      "kicker": "Paso 1",
+      "headline": "El dilema de los datos iniciales",
+      "icon_fa": "fa-solid fa-chart-line",
+      "body": "Al lanzar un producto, la avalancha de datos puede abrumar. ¿Cómo saber qué señales importan para la iteración temprana?",
+      "bullets": [
+        {
+          "title": "SIN RUMBO CLARO",
+          "body": "Muchos founders recolectan todo, pero no saben qué métricas priorizar en esta etapa."
+        },
+        {
+          "title": "TIEMPO CRÍTICO",
+          "body": "Los primeros meses definen la tracción y la dirección futura de tu producto digital."
+        },
+        {
+          "title": "FALTAN RESPUESTAS",
+          "body": "Sin métricas correctas, las decisiones clave se basan más en la intuición que en datos reales."
+        }
+      ],
+      "tags": [
+        "INCERTIDUMBRE",
+        "FOCO"
+      ],
+      "step_number": 1,
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tutorial_step",
+      "kicker": "Paso 2",
+      "headline": "Define tus métricas esenciales",
+      "icon_fa": "fa-solid fa-bullseye",
+      "graphic_prompt": "funnel diagram: 3 stages (Adquisición, Activación, Retención). Label each stage with an example metric. Brand colors: accent #FF2978, muted #737373.",
+      "body": "No todas las métricas son iguales. Enfócate en aquellas que directamente impactan el valor que tu producto entrega a los usuarios.",
+      "tags": [
+        "CLARIDAD",
+        "IMPACTO"
+      ],
+      "step_number": 2,
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tutorial_step",
+      "kicker": "Paso 3",
+      "headline": "Recolección y visualización",
+      "icon_fa": "fa-solid fa-gears",
+      "body": "Establecé herramientas para capturar datos de forma consistente. La visualización ayuda a identificar tendencias rápidamente.",
+      "bullets": [
+        {
+          "title": "HERRAMIENTAS CLAVE",
+          "body": "Usá plataformas como Mixpanel, Amplitude o Google Analytics para recolectar datos crudos."
+        },
+        {
+          "title": "DASHBOARDS SIMPLES",
+          "body": "Creá vistas claras y concisas que muestren el progreso de tus métricas esenciales en tiempo real."
+        },
+        {
+          "title": "AUTOMATIZÁ ALERTAS",
+          "body": "Configurá notificaciones para cambios significativos o anomalías que requieran atención inmediata."
+        }
+      ],
+      "tags": [
+        "HERRAMIENTAS",
+        "AUTOMATIZACIÓN"
+      ],
+      "step_number": 3,
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tutorial_step",
+      "kicker": "Paso 4",
+      "headline": "Análisis: ¿qué nos dicen?",
+      "icon_fa": "fa-solid fa-microscope",
+      "body": "Interpretá los datos para encontrar patrones. ¿Dónde hay fricción? ¿Qué acciones de usuario generan valor real?",
+      "bullets": [
+        {
+          "title": "DETECTÁ FRICCIÓN",
+          "body": "¿En qué puntos clave los usuarios abandonan o experimentan dificultades en tu producto?"
+        },
+        {
+          "title": "ENCONTRÁ VALOR",
+          "body": "¿Qué funciones retienen más a los usuarios? ¿Qué genera el mayor uso y satisfacción?"
+        },
+        {
+          "title": "MEDÍ EL EQUILIBRIO",
+          "body": "Analizá la relación costo/beneficio de cada nueva feature o mejora antes de implementarla."
+        }
+      ],
+      "tags": [
+        "PATRONES",
+        "INSIGHTS"
+      ],
+      "step_number": 4,
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tutorial_step",
+      "kicker": "Paso 5",
+      "headline": "Iteración: actuá rápido",
+      "icon_fa": "fa-solid fa-bolt",
+      "graphic_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\shape_diamond.png",
+      "body": "Usá los aprendizajes para priorizar y hacer cambios. Cada ajuste es una hipótesis a validar con nuevas métricas y feedback.",
+      "tags": [
+        "EXPERIMENTA",
+        "OPTIMIZA"
+      ],
+      "step_number": 5,
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_tutorial_step",
+      "kicker": "Paso 6",
+      "headline": "El impacto real: un caso",
+      "icon_fa": "fa-solid fa-circle-check",
+      "body": "En un cliente, ajustar el flujo de bienvenida basado en métricas aumentó la activación un 25% en menos de 30 días.",
+      "bullets": [
+        {
+          "title": "ONBOARDING OPTIMIZADO",
+          "body": "Redujimos el abandono en el primer paso crítico del proceso de registro."
+        },
+        {
+          "title": "ACTIVACIÓN +25%",
+          "body": "Más usuarios entendieron para qué servía el producto de forma más rápida y eficiente."
+        },
+        {
+          "title": "APRENDIZAJE CLAVE",
+          "body": "Priorizar una única métrica puede desbloquear un crecimiento inesperado."
+        }
+      ],
+      "tags": [
+        "RESULTADOS",
+        "VALIDACIÓN"
+      ],
+      "step_number": 6,
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "Tu producto digital puede crecer más rápido.",
+      "body": "¿Qué paso de este ciclo métrico aplicarías primero para un cambio real en tu producto? Comentá abajo.",
+      "giant_word": "ITERAR",
+      "deco_image": "C:\\Users\\danil\\.claude\\skills\\ig-carousels\\assets\\decorative\\orb_large.png",
+      "deco_position": "bottom-right",
+      "glow_primary": "top-left",
+      "glow_secondary": "bottom-right",
+      "accent": "#8A02FF"
+    }
+  ]
+}

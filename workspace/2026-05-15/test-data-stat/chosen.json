@@ -1,0 +1,13 @@
+{
+  "label": "A",
+  "type": "data_stat",
+  "why": "Test del template data_stat sin glow (regla nueva), solo gradient_ring sutil.",
+  "data": {
+    "stat_value": "73%",
+    "stat_context": "de los participantes aceptó respuestas incorrectas de la IA, aumentando su confianza.",
+    "source": "Estudio con 1.372 participantes",
+    "kicker": "COYUNTURA IA",
+    "gradient_ring": "bottom-right",
+    "gradient_ring_size": "lg"
+  }
+}

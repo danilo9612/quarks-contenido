@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Tutorial Paso a Paso",
+      "title": "Dise\u00f1ando tu IA pasiva",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "Product Manager / Builder",
+      "hook_type": "friccion",
+      "hook_copy": "Tu IA no genera ingresos *pasivos*. Ac\u00e1 por qu\u00e9.",
+      "body_summary": "Este carrusel de 8 slides desglosa 5 pasos clave para dise\u00f1ar y desplegar un producto IA que realmente genere valor y opere con m\u00ednima intervenci\u00f3n humana.",
+      "cta_copy": "\u00bfQu\u00e9 desaf\u00edo de escalabilidad te frena al crear tu IA? \u00a1Contanos!",
+      "why_stands_out": "Evita la promesa vac\u00eda de 'dinero f\u00e1cil con IA' y se enfoca en la ingenier\u00eda y estrategia real detr\u00e1s de la automatizaci\u00f3n rentable."
+    },
+    {
+      "label": "B",
+      "framework": "Myth-Busting",
+      "title": "Mitos de IA desarmados",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Automatizar con IA te cuesta *m\u00e1s* tiempo al inicio.",
+      "body_summary": "Desarmamos 5 mitos sobre la IA que te impiden construir negocios rentables y escalables, revelando la realidad estrat\u00e9gica detr\u00e1s de su implementaci\u00f3n.",
+      "cta_copy": "\u00bfQu\u00e9 'verdad' de IA te hizo perder tiempo? \u00a1Compart\u00ed tu experiencia!",
+      "why_stands_out": "Enfrenta la narrativa simplista de la IA como soluci\u00f3n m\u00e1gica, promoviendo una visi\u00f3n m\u00e1s realista y estrat\u00e9gica necesaria para Quarks."
+    },
+    {
+      "label": "C",
+      "framework": "Jornada del Founder",
+      "title": "Nuestra traves\u00eda IA",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder T\u00e9cnico",
+      "hook_type": "epifania",
+      "hook_copy": "Nuestra primera IA casi nos cost\u00f3 la startup. Aprendimos esto.",
+      "body_summary": "Compartimos nuestra experiencia construyendo una soluci\u00f3n de IA para ingresos pasivos, incluyendo errores caros, pivotes y las lecciones clave aprendidas.",
+      "cta_copy": "\u00bfCu\u00e1l fue tu mayor 'fail' con IA y qu\u00e9 aprendiste? \u00a1Leemos!",
+      "why_stands_out": "Humaniza el desaf\u00edo de la IA y ofrece lecciones valiosas desde la experiencia, alej\u00e1ndose de los 'casos de \u00e9xito' perfectos."
+    },
+    {
+      "label": "D",
+      "framework": "Data-Driven",
+      "title": "El valor real de la IA",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "Ecosistema tech general",
+      "hook_type": "empirico",
+      "hook_copy": "Estudiamos 100 proyectos IA. Solo 15 generan valor real.",
+      "body_summary": "Analizamos datos de 100 proyectos de IA en LATAM para identificar los patrones que distinguen las iniciativas que generan valor y rentabilidad de las que fracasan.",
+      "cta_copy": "\u00bfQu\u00e9 m\u00e9trica usas para medir el ROI de tu IA? \u00a1Dejanos tu dato!",
+      "why_stands_out": "Utiliza datos concretos para sustentar un an\u00e1lisis profundo, alej\u00e1ndose de la opini\u00f3n y ofreciendo insights accionables sobre lo que realmente funciona en IA."
+    }
+  ]
+}

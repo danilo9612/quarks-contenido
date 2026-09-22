@@ -1,0 +1,12 @@
+{
+  "label": "B",
+  "type": "quote_photo",
+  "why": "Ofrece la postura clave de Quarks Alchemist sobre la relación entre IA y juicio humano, esencial para navegar la coyuntura actual.",
+  "data": {
+    "quote": "Cobran US$10.000 por semana para borrar código que escribió una IA",
+    "eyebrow": "LA NOTICIA",
+    "photo_query": "developer coding laptop dark",
+    "gradient_ring": "bottom-left",
+    "gradient_ring_size": "md"
+  }
+}

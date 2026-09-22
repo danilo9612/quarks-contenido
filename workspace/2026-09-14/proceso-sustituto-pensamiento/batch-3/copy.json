@@ -1,0 +1,109 @@
+{
+  "niche": "proceso de producto / arquitectura de producto",
+  "cta_goal": "saves",
+  "framework": "Data-Driven (lista numerada del canon)",
+  "sistema": "light editorial (slide_statement)",
+  "document_title": "¿Qué hace fracasar a un producto digital?",
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "hook",
+      "template": "slide_statement",
+      "headline": "¿Qué hace <b>fracasar</b> a un producto digital?",
+      "headline_size": 76
+    },
+    {
+      "slide_num": 2,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Marty Cagan revisó las ideas que sostuvo durante años y reconoció <b>diez aspectos que había subestimado.</b>",
+      "headline_size": 52,
+      "circle_image": "C:/Users/danil/.claude/skills/ig-carousels/assets/marty_cagan.jpg",
+      "circle_image_position": "center 15%",
+      "circle_top": 820,
+      "circle_size": 390
+    },
+    {
+      "slide_num": 3,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>1. Viabilidad:</b> había enseñado a preguntarse si el producto sirve y si se puede construir. No si el negocio lo puede sostener.",
+      "headline_size": 52
+    },
+    {
+      "slide_num": 4,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>2. El problema:</b> no previó que los equipos se iban a quedar meses validando cuál es el problema, en vez de resolverlo.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 5,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>3. El porqué:</b> insistió con el propósito de la empresa. Lo que importa es por qué la gente usa tu producto, y sobre todo por qué lo deja.",
+      "headline_size": 50
+    },
+    {
+      "slide_num": 6,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>4. Humildad:</b> antes decía que el PM es el CEO del producto. Hoy dice que el trabajo empieza por admitir lo que no sabés.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 7,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>5. Previsibilidad:</b> la obsesión con roadmaps y documentos compra previsibilidad y la paga con innovación.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 8,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>6. Política interna:</b> creyó que hacer buen producto alcanzaba para ganar las discusiones de poder puertas adentro. Fue ingenuo.",
+      "headline_size": 52
+    },
+    {
+      "slide_num": 9,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>7. Liderazgo:</b> antes hablaba solo de los equipos, no de quién los conduce.",
+      "headline_size": 60
+    },
+    {
+      "slide_num": 10,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>8. Gobernanza:</b> un gran producto no garantiza una gran empresa. Creía que quién decide, y con qué intereses, no era problema de producto.",
+      "headline_size": 50
+    },
+    {
+      "slide_num": 11,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>9. Competencia:</b> afuera hay alguien resolviendo tu mismo problema, y hay que resolverlo mucho mejor.",
+      "headline_size": 56
+    },
+    {
+      "slide_num": 12,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>10. Pensar:</b> ordenó todo en procesos y rituales. Hoy dice que muchos equipos los usan para no tener que pensar.",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 13,
+      "role": "cta",
+      "template": "slide_statement",
+      "headline": "Diez correcciones del tipo que escribió <b>el método que usás.</b>",
+      "secondary": "<b>Guardate la lista</b> y leela antes de tu próxima reunión.",
+      "align": "center",
+      "headline_size": 58,
+      "secondary_gap": 90,
+      "corner_glow": false,
+      "show_arrow": false
+    }
+  ]
+}

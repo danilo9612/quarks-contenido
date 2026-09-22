@@ -1,0 +1,20 @@
+{
+  "label": "A",
+  "type": "framework",
+  "why": "Coyuntura/Autoridad — cuatro cimientos como columnas + icono top-right, replica el template pedido",
+  "data": {
+    "headline": "Lo aburrido es lo que escala",
+    "body": "Gartner estima que 6 de cada 10 proyectos de IA se abandonan antes de 2026. Casi nunca falla el modelo: fallan los cimientos que no estaban.",
+    "divider": "CUATRO CIMIENTOS",
+    "deco_mode": "icon_rings",
+    "deco_icon": "fa-solid fa-layer-group",
+    "bg": "#130021",
+    "muted": "#ADA8B8",
+    "bullets": [
+      { "title": "Datos listos para IA", "body": "Sin datos limpios, ninguna demo sobrevive en producción." },
+      { "title": "Ingeniería de contexto", "body": "Diseñar qué recupera el modelo, de dónde y cómo." },
+      { "title": "Gobernanza y observabilidad", "body": "Medir costo, seguridad y comportamiento desde el día uno." },
+      { "title": "Equipo humano", "body": "Alguien orquesta y piensa de forma crítica." }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "concept_label": "B",
+  "framework": "Myth-Busting",
+  "slides": [
+    {
+      "slide_num": 1,
+      "total_slides": 8,
+      "role": "hook",
+      "template": "slide_hook",
+      "headline": "Tu Design System es una decisión de negocio.",
+      "swipe_hint": "Rompé el mito más caro del producto",
+      "glow_primary": "bottom-left",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    },
+    {
+      "slide_num": 2,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "kicker": "EL COSTO",
+      "icon_fa": "fa-solid fa-triangle-exclamation",
+      "stat_value": "62%",
+      "stat_context": "de equipos pierde tiempo rehaciendo diseños por falta de un sistema compartido.",
+      "body": "Diseñadores y desarrolladores trabajan sobre versiones distintas del mismo producto. El retrabajo es inevitable.",
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 3,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_two_column",
+      "kicker": "MITO 1 / 3",
+      "icon_fa": "fa-solid fa-users",
+      "headline": "¿Es solo para diseñadores?",
+      "col_a": {
+        "title": "EL MITO",
+        "items": [
+          "Es una librería de botones bonita",
+          "Lo gestiona solo el equipo de diseño",
+          "El desarrollo no lo necesita"
+        ]
+      },
+      "col_b": {
+        "title": "LA REALIDAD",
+        "items": [
+          "Es la fuente única de verdad del producto",
+          "Conecta diseño y código en un solo sistema",
+          "Cada sprint lo usa — consciente o no"
+        ]
+      },
+      "col_b_accent": true,
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 4,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "kicker": "MITO 2 / 3",
+      "icon_fa": "fa-solid fa-rocket",
+      "headline": "¿Solo lo necesitan las empresas grandes?",
+      "body": "Los ciclos de desarrollo son hasta un 70% más veloces con componentes desde el inicio, sin importar el tamaño del equipo.",
+      "bullets": [
+        {
+          "title": "STARTUPS",
+          "body": "Menos decisiones de diseño ad-hoc → más velocidad hacia product-market fit."
+        },
+        {
+          "title": "SCALE-UPS",
+          "body": "Nuevos desarrolladores productivos en días, no semanas."
+        },
+        {
+          "title": "EMPRESAS",
+          "body": "Coherencia visual en múltiples equipos y plataformas simultáneas."
+        }
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 5,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_data_stat",
+      "kicker": "MITO 3 / 3",
+      "icon_fa": "fa-solid fa-money-bill-trend-up",
+      "stat_value": "50%",
+      "stat_context": "menos tiempo de desarrollo con un Design System bien implementado.",
+      "body": "Y los diseñadores completan tareas un 34% más rápido. Eso no es estética — es ROI medible desde el primer sprint.",
+      "accent": "#FF2978",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 6,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_hub_spoke",
+      "kicker": "LA REALIDAD",
+      "headline": "Un sistema, cinco capas",
+      "center": "Design\nSystem",
+      "center_sub": "fuente única de verdad",
+      "nodes": [
+        { "label": "Design Tokens", "icon_fa": "fa-solid fa-palette" },
+        { "label": "Componentes UI", "icon_fa": "fa-solid fa-puzzle-piece" },
+        { "label": "Patrones", "icon_fa": "fa-solid fa-layer-group" },
+        { "label": "Documentación", "icon_fa": "fa-solid fa-book-open" },
+        { "label": "Gobernanza", "icon_fa": "fa-solid fa-shield-halved" }
+      ],
+      "accent": "#8A02FF",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 7,
+      "total_slides": 8,
+      "role": "body",
+      "template": "slide_body",
+      "kicker": "LOS NÚMEROS",
+      "icon_fa": "fa-solid fa-chart-line",
+      "headline": "Cuando el sistema funciona",
+      "body": "Datos documentados de equipos que implementaron un Design System correctamente:",
+      "bullets": [
+        {
+          "title": "3–6 DÍAS",
+          "body": "Ahorrados por sprint MVP con componentes reutilizables."
+        },
+        {
+          "title": "+34%",
+          "body": "Velocidad de los diseñadores en sus tareas cotidianas."
+        },
+        {
+          "title": "+70%",
+          "body": "Ciclos de desarrollo más veloces con enfoque basado en componentes."
+        }
+      ],
+      "accent": "#00B9E8",
+      "swipe_cue": true
+    },
+    {
+      "slide_num": 8,
+      "total_slides": 8,
+      "role": "cta",
+      "template": "slide_cta",
+      "headline": "Guardá para la próxima vez que alguien diga 'es solo diseño'.",
+      "body": "¿Tu equipo ya tiene un Design System?",
+      "giant_word": "GUARDÁ",
+      "glow_primary": "bottom-left",
+      "glow_secondary": "top-right",
+      "accent": "#FF2978"
+    }
+  ]
+}

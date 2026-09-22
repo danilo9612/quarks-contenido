@@ -1,0 +1,52 @@
+{
+  "concepts": [
+    {
+      "label": "A",
+      "framework": "Myth-Busting",
+      "title": "El mito del c\u00f3digo r\u00e1pido",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder T\u00e9cnico, Founder No T\u00e9cnico",
+      "hook_type": "paradoja",
+      "hook_copy": "Empezar a programar NO es empezar tu producto.",
+      "body_summary": "Revelamos c\u00f3mo la elecci\u00f3n no declarada entre dise\u00f1o y l\u00f3gica al inicio de un producto genera deuda y frustraci\u00f3n, impactando a todo el equipo.",
+      "cta_copy": "\u00bfCu\u00e1l de estos enfoques cre\u00e9s que es el m\u00e1s riesgoso al arrancar?",
+      "why_stands_out": "Desaf\u00eda una creencia com\u00fan en el ecosistema startup, aportando una perspectiva reflexiva sobre los verdaderos costos de la prisa."
+    },
+    {
+      "label": "B",
+      "framework": "Doble Diamante",
+      "title": "Define tu foco, evita desv\u00edos",
+      "content_bucket": "Arquitectura de Producto",
+      "target_audience": "Product Manager / Builder, Founder T\u00e9cnico",
+      "hook_type": "friccion",
+      "hook_copy": "\u00bfPor qu\u00e9 tu roadmap siempre se desv\u00eda?",
+      "body_summary": "Aplicamos la metodolog\u00eda Double Diamond para ilustrar c\u00f3mo una decisi\u00f3n temprana sobre tu enfoque de producto puede prevenir desv\u00edos y optimizar el desarrollo.",
+      "cta_copy": "Contanos: \u00bfc\u00f3mo gestionan la definici\u00f3n inicial de un producto?",
+      "why_stands_out": "Ofrece un framework estructurado y pr\u00e1ctico para abordar la elecci\u00f3n fundamental entre 'dise\u00f1o-primero' o 'l\u00f3gica-primero', algo a menudo ignorado."
+    },
+    {
+      "label": "C",
+      "framework": "Jornada del Founder",
+      "title": "Mi error: falta de foco",
+      "content_bucket": "La Trinchera del Founder",
+      "target_audience": "Founder T\u00e9cnico, Founder No T\u00e9cnico",
+      "hook_type": "epifania",
+      "hook_copy": "Mi error m\u00e1s caro: no definir el foco inicial.",
+      "body_summary": "Una historia real sobre c\u00f3mo no declarar la prioridad (dise\u00f1o o l\u00f3gica) al inicio de un producto nos cost\u00f3 tiempo y recursos, y qu\u00e9 aprendimos.",
+      "cta_copy": "\u00bfTe pas\u00f3 algo similar? Compart\u00ed tu experiencia abajo.",
+      "why_stands_out": "Humaniza el desaf\u00edo de elegir el enfoque inicial, creando una conexi\u00f3n emocional a trav\u00e9s de la vulnerabilidad y la experiencia compartida."
+    },
+    {
+      "label": "D",
+      "framework": "Data-Driven",
+      "title": "Datos que transforman productos",
+      "content_bucket": "El Futuro Aplicado",
+      "target_audience": "Product Manager / Builder, Empresa que busca desarrollo",
+      "hook_type": "empirico",
+      "hook_copy": "100 lanzamientos analizados: la clave del \u00e9xito.",
+      "body_summary": "Exploramos datos de lanzamientos de productos para mostrar c\u00f3mo la decisi\u00f3n entre un enfoque de dise\u00f1o o l\u00f3gica impacta m\u00e9tricas clave y la deuda t\u00e9cnica.",
+      "cta_copy": "M\u00e1s all\u00e1 del c\u00f3digo, \u00bfqu\u00e9 m\u00e9trica consider\u00e1s clave al iniciar un producto?",
+      "why_stands_out": "Aporta una perspectiva basada en evidencia sobre las consecuencias concretas de las decisiones iniciales de producto, superando la an\u00e9cdota personal."
+    }
+  ]
+}

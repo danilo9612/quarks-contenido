@@ -1,0 +1,14 @@
+{
+  "label": "C",
+  "type": "quote_photo",
+  "why": "Titular estilo noticia: el hecho concreto adelante. Da el caso completo de un vistazo y deja el desarrollo conceptual para el cuerpo del post.",
+  "data": {
+    "quote": "Un productor perdió 10 hectáreas de cultivo por seguir una receta generada por IA",
+    "headline_case": true,
+    "eyebrow": "CHUZHOU, CHINA",
+    "photo_query": "harvest field aerial golden",
+    "gradient_ring": "top-right",
+    "gradient_ring_size": "sm",
+    "photo_shift_y": 95
+  }
+}

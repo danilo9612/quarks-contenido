@@ -1,0 +1,94 @@
+{
+  "niche": "arquitectura de producto / metodo",
+  "cta_goal": "saves",
+  "framework": "Antes/Despues",
+  "sistema": "light editorial (slide_statement)",
+  "guion": "guiones/2026-09-18-cagan-revisa-inspired.md",
+  "document_title": "Lo que Marty Cagan corrigió de su propio método",
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "hook",
+      "template": "slide_statement",
+      "headline": "¿Qué piensa el autor de INSPIRED sobre <b>lo que está generando la IA?</b>",
+      "headline_size": 62
+    },
+    {
+      "slide_num": 2,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "La IA está obligando a los equipos de producto a revisar lo que creían.",
+      "secondary": "<b>Marty Cagan publicó diez correcciones a INSPIRED, su libro de 2008. Hacemos foco en dos.</b>",
+      "headline_size": 50,
+      "secondary_gap": 50,
+      "circle_image": "C:/Users/danil/.claude/skills/ig-carousels/assets/marty_cagan.jpg",
+      "circle_image_position": "center 15%",
+      "circle_top": 830,
+      "circle_size": 300
+    },
+    {
+      "slide_num": 3,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>1. El porqué</b><br>Antes enseñaba a preguntar por qué estamos trabajando en este problema y no en otro.",
+      "secondary": "<b>Ahora dice otra cosa. Si ya tenés visión y estrategia de producto, ese porqué ya está definido.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 4,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "El porqué que importa es otro. <b>Por qué la gente usa tu producto y, sobre todo, por qué lo deja.</b>",
+      "secondary": "La mayoría de los equipos ni la hace.",
+      "headline_size": 52,
+      "secondary_gap": 70
+    },
+    {
+      "slide_num": 5,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>2. El discovery</b><br>Antes se dividía en dos: descubrir el problema y descubrir la solución. Cada una con sus técnicas.",
+      "secondary": "<b>El error estuvo en no calcular cuánto iban a tirar los equipos para el lado del problema.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 6,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Se discute si el problema vale la pena mientras se le saca tiempo a pensar buenas soluciones.",
+      "secondary": "<b>Cuando un producto fracasa, casi siempre es porque la solución no era lo bastante buena.</b>",
+      "headline_size": 50,
+      "secondary_gap": 60
+    },
+    {
+      "slide_num": 7,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Las dos correcciones terminan en la misma frase. <b>El proceso se usa demasiado seguido como sustituto de pensar.</b>",
+      "headline_size": 54
+    },
+    {
+      "slide_num": 8,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Le preocupa que ahora la IA ocupe ese lugar. <b>Una forma más de no pensar.</b>",
+      "secondary": "<b>Su recomendación es corta. Que la IA sea un socio de pensamiento.</b>",
+      "headline_size": 52,
+      "secondary_gap": 60
+    },
+    {
+      "slide_num": 9,
+      "role": "cta",
+      "template": "slide_statement",
+      "headline": "Llevate la pregunta a tu próxima reunión: <b>¿acá decidimos algo, o cumplimos un proceso?</b>",
+      "secondary": "<b>Guardate el post</b> y hacela.",
+      "align": "center",
+      "headline_size": 56,
+      "secondary_gap": 90,
+      "corner_glow": false,
+      "show_arrow": false
+    }
+  ]
+}

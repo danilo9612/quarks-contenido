@@ -1,0 +1,988 @@
+{
+  "generadoEn": "2026-09-17T19:30:23.999089+00:00",
+  "negocio": "quarks",
+  "maxDiasAntiguedad": 60,
+  "fuentesConsultadas": 1,
+  "fuentesFallidas": [],
+  "totalArticulos": 16,
+  "totalClusters": 14,
+  "clusteresAPuntuar": 14,
+  "descartadosPorton": {},
+  "rescatados": 0,
+  "candidatos": [
+    {
+      "titulo": "The PM's Guide to Governance with Eric Ries, author of The Lean Startup",
+      "url": "https://www.news.aakashg.com/p/eric-ries-incorruptible",
+      "descripcion": "The Lean Startup creator on why Anthropic holds and OpenAI cracked, and how to structure yours",
+      "fechaPublicacion": "2026-07-20T22:11:52+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 3.0,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+método o framework"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "La Trinchera del Founder",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 1,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Stakeholder Management: Advanced Study",
+      "url": "https://www.news.aakashg.com/p/stakeholder-management-for-product-managers",
+      "descripcion": "PM is a people AND a product job. Let's talk about the people half.",
+      "fechaPublicacion": "2026-09-02T23:07:23+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 2.1,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 2,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Inside the AI Stack of an $8.3B AI Company’s Product Team | Together AI",
+      "url": "https://www.news.aakashg.com/p/together-ai-product-team",
+      "descripcion": "I got a truly AI-pilled product team to demo the 4 key tools in their stack",
+      "fechaPublicacion": "2026-09-14T23:05:28+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 2.1,
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 3,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Ultimate Guide: ChatGPT Work For PMs",
+      "url": "https://www.news.aakashg.com/p/chatgpt-work-pm",
+      "descripcion": "The complete guide to ChatGPT Work for product managers: 6 real PM use cases, exact prompts, source rules, and the limits nobody tells you about.",
+      "fechaPublicacion": "2026-07-27T20:04:39+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 4,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Vibe Coding Interviews for PMs: Complete Guide",
+      "url": "https://www.news.aakashg.com/p/vibe-coding-interviews-for-pms-complete",
+      "descripcion": "There's a new interview type in town. Here's how to master it",
+      "fechaPublicacion": "2026-07-29T23:19:16+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 5,
+      "puntuar": true,
+      "articulosEnCluster": 2,
+      "otrosTitulos": [
+        "AI PM Technical Interviews: Complete Guide"
+      ]
+    },
+    {
+      "titulo": "How to Build Effective Product Loops in Claude Code, with Chief AI and Product Officer at JobNimbus, Tyler Folkman",
+      "url": "https://www.news.aakashg.com/p/how-to-build-product-loops-in-claude-code",
+      "descripcion": "People keep saying loops are the new prompts. Here's a practical walkthrough of what that actually means for PMs and product builders",
+      "fechaPublicacion": "2026-09-04T23:01:00+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 2.7,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 6,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "3x CPO Oji Udezue on the Essential Claude Skills for PMs",
+      "url": "https://www.news.aakashg.com/p/oji-udezue-claude-skills",
+      "descripcion": "Former CPO of Typeform, Parsable, and Calendly teaches how to build immaculate product judgment as skills.",
+      "fechaPublicacion": "2026-08-06T20:17:48+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 7,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "Graphs for PMs.",
+      "url": "https://www.news.aakashg.com/p/graphs",
+      "descripcion": "Peter Steinberg said Graphs are the new loops. And he's right. Here's how to use them as a PM.",
+      "fechaPublicacion": "2026-08-12T04:30:42+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 8,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "How Srini Raghavan helped $3.4B SaaS Giant Freshworks Embrace the AI PDLC",
+      "url": "https://www.news.aakashg.com/p/srini-raghavan-podcast",
+      "descripcion": "+ Why he uses Grok models, and the future of the \"Product Builder\" role",
+      "fechaPublicacion": "2026-08-24T23:16:09+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 9,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "How to build a Company Operating System with Hermes and OpenClaw",
+      "url": "https://www.news.aakashg.com/p/company-os-hermes-openclaw",
+      "descripcion": "Claude Code is just the start of what a Company OS can do. Here's how to take it to the next level.",
+      "fechaPublicacion": "2026-08-28T22:38:13+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.9,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 10,
+      "puntuar": true,
+      "articulosEnCluster": 2,
+      "otrosTitulos": [
+        "The Content Operating System."
+      ]
+    },
+    {
+      "titulo": "How to Build Frontier-Lab Quality Evals with Daniel McKinnon, ex-PM at Meta, Google",
+      "url": "https://www.news.aakashg.com/p/how-to-build-your-first-eval",
+      "descripcion": "He wrote evals for Gemini, for Llama, and for Ray-Ban Meta. Today he builds one from a blank spreadsheet, live!",
+      "fechaPublicacion": "2026-07-28T21:49:23+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.6,
+      "genero": -1.0,
+      "generoDetalle": [
+        "−noticia o coyuntura"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 11,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "How to Become an AI PM (without AI PM experience)",
+      "url": "https://www.news.aakashg.com/p/synthetic-ai-pm-experience",
+      "descripcion": "The path to becoming an AI PM in today's market is \"synthetic experience.\" Here's how to build it.",
+      "fechaPublicacion": "2026-08-27T21:36:43+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.6,
+      "genero": -1.0,
+      "generoDetalle": [
+        "−noticia o coyuntura"
+      ],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 12,
+      "puntuar": true,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "I'm adding Airtable to my Bundle",
+      "url": "https://www.news.aakashg.com/p/airtable-bundle",
+      "descripcion": "Continuing to make your subscription more worth it",
+      "fechaPublicacion": "2026-07-24T22:09:03+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.0,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 13,
+      "puntuar": false,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    },
+    {
+      "titulo": "5 Years of Product Growth.",
+      "url": "https://www.news.aakashg.com/p/5-years-2m-1m-followers",
+      "descripcion": "How did we get here? And what's next.",
+      "fechaPublicacion": "2026-09-09T23:33:47+00:00",
+      "fuente": "Product Growth (Aakash Gupta)",
+      "prioridad": 0.0,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "plataformas": [
+        "rss"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlDiscusion": null,
+      "clusterId": 14,
+      "puntuar": false,
+      "articulosEnCluster": 1,
+      "otrosTitulos": []
+    }
+  ],
+  "clusters": [
+    {
+      "id": 1,
+      "tema": "The PM's Guide to Governance with Eric Ries, author of The Lean Startup",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "La Trinchera del Founder",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+método o framework"
+      ],
+      "prioridad": 3.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/eric-ries-incorruptible",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-07-20T22:11:52+00:00",
+      "descripcion": "The Lean Startup creator on why Anthropic holds and OpenAI cracked, and how to structure yours",
+      "articulos": [
+        {
+          "titulo": "The PM's Guide to Governance with Eric Ries, author of The Lean Startup",
+          "url": "https://www.news.aakashg.com/p/eric-ries-incorruptible",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-20T22:11:52+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 2,
+      "tema": "Stakeholder Management: Advanced Study",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "prioridad": 2.1,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/stakeholder-management-for-product-managers",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-02T23:07:23+00:00",
+      "descripcion": "PM is a people AND a product job. Let's talk about the people half.",
+      "articulos": [
+        {
+          "titulo": "Stakeholder Management: Advanced Study",
+          "url": "https://www.news.aakashg.com/p/stakeholder-management-for-product-managers",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-02T23:07:23+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 3,
+      "tema": "Inside the AI Stack of an $8.3B AI Company’s Product Team | Together AI",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 1.0,
+      "generoDetalle": [
+        "+decisión de producto"
+      ],
+      "prioridad": 2.1,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/together-ai-product-team",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-14T23:05:28+00:00",
+      "descripcion": "I got a truly AI-pilled product team to demo the 4 key tools in their stack",
+      "articulos": [
+        {
+          "titulo": "Inside the AI Stack of an $8.3B AI Company’s Product Team | Together AI",
+          "url": "https://www.news.aakashg.com/p/together-ai-product-team",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-14T23:05:28+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 4,
+      "tema": "Ultimate Guide: ChatGPT Work For PMs",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/chatgpt-work-pm",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-07-27T20:04:39+00:00",
+      "descripcion": "The complete guide to ChatGPT Work for product managers: 6 real PM use cases, exact prompts, source rules, and the limits nobody tells you about.",
+      "articulos": [
+        {
+          "titulo": "Ultimate Guide: ChatGPT Work For PMs",
+          "url": "https://www.news.aakashg.com/p/chatgpt-work-pm",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-27T20:04:39+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 5,
+      "tema": "Vibe Coding Interviews for PMs: Complete Guide",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/vibe-coding-interviews-for-pms-complete",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-07-29T23:19:16+00:00",
+      "descripcion": "There's a new interview type in town. Here's how to master it",
+      "articulos": [
+        {
+          "titulo": "Vibe Coding Interviews for PMs: Complete Guide",
+          "url": "https://www.news.aakashg.com/p/vibe-coding-interviews-for-pms-complete",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-29T23:19:16+00:00"
+        },
+        {
+          "titulo": "AI PM Technical Interviews: Complete Guide",
+          "url": "https://www.news.aakashg.com/p/ai-pm-technical-interview",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-22T23:28:45+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 6,
+      "tema": "How to Build Effective Product Loops in Claude Code, with Chief AI and Product Officer at JobNimbus, Tyler Folkman",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 3,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 2.7,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/how-to-build-product-loops-in-claude-code",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-04T23:01:00+00:00",
+      "descripcion": "People keep saying loops are the new prompts. Here's a practical walkthrough of what that actually means for PMs and product builders",
+      "articulos": [
+        {
+          "titulo": "How to Build Effective Product Loops in Claude Code, with Chief AI and Product Officer at JobNimbus, Tyler Folkman",
+          "url": "https://www.news.aakashg.com/p/how-to-build-product-loops-in-claude-code",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-04T23:01:00+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 7,
+      "tema": "3x CPO Oji Udezue on the Essential Claude Skills for PMs",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/oji-udezue-claude-skills",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-06T20:17:48+00:00",
+      "descripcion": "Former CPO of Typeform, Parsable, and Calendly teaches how to build immaculate product judgment as skills.",
+      "articulos": [
+        {
+          "titulo": "3x CPO Oji Udezue on the Essential Claude Skills for PMs",
+          "url": "https://www.news.aakashg.com/p/oji-udezue-claude-skills",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-06T20:17:48+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 8,
+      "tema": "Graphs for PMs.",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/graphs",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-12T04:30:42+00:00",
+      "descripcion": "Peter Steinberg said Graphs are the new loops. And he's right. Here's how to use them as a PM.",
+      "articulos": [
+        {
+          "titulo": "Graphs for PMs.",
+          "url": "https://www.news.aakashg.com/p/graphs",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-12T04:30:42+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 9,
+      "tema": "How Srini Raghavan helped $3.4B SaaS Giant Freshworks Embrace the AI PDLC",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/srini-raghavan-podcast",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-24T23:16:09+00:00",
+      "descripcion": "+ Why he uses Grok models, and the future of the \"Product Builder\" role",
+      "articulos": [
+        {
+          "titulo": "How Srini Raghavan helped $3.4B SaaS Giant Freshworks Embrace the AI PDLC",
+          "url": "https://www.news.aakashg.com/p/srini-raghavan-podcast",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-24T23:16:09+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 10,
+      "tema": "How to build a Company Operating System with Hermes and OpenClaw",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 1,
+      "bucketProbable": "El Futuro Aplicado",
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.9,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/company-os-hermes-openclaw",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-28T22:38:13+00:00",
+      "descripcion": "Claude Code is just the start of what a Company OS can do. Here's how to take it to the next level.",
+      "articulos": [
+        {
+          "titulo": "How to build a Company Operating System with Hermes and OpenClaw",
+          "url": "https://www.news.aakashg.com/p/company-os-hermes-openclaw",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-28T22:38:13+00:00"
+        },
+        {
+          "titulo": "The Content Operating System.",
+          "url": "https://www.news.aakashg.com/p/content-os",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-21T06:05:37+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 11,
+      "tema": "How to Build Frontier-Lab Quality Evals with Daniel McKinnon, ex-PM at Meta, Google",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": -1.0,
+      "generoDetalle": [
+        "−noticia o coyuntura"
+      ],
+      "prioridad": 0.6,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/how-to-build-your-first-eval",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-07-28T21:49:23+00:00",
+      "descripcion": "He wrote evals for Gemini, for Llama, and for Ray-Ban Meta. Today he builds one from a blank spreadsheet, live!",
+      "articulos": [
+        {
+          "titulo": "How to Build Frontier-Lab Quality Evals with Daniel McKinnon, ex-PM at Meta, Google",
+          "url": "https://www.news.aakashg.com/p/how-to-build-your-first-eval",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-28T21:49:23+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 12,
+      "tema": "How to Become an AI PM (without AI PM experience)",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 2,
+      "bucketProbable": "Arquitectura de Producto",
+      "genero": -1.0,
+      "generoDetalle": [
+        "−noticia o coyuntura"
+      ],
+      "prioridad": 0.6,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/synthetic-ai-pm-experience",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-08-27T21:36:43+00:00",
+      "descripcion": "The path to becoming an AI PM in today's market is \"synthetic experience.\" Here's how to build it.",
+      "articulos": [
+        {
+          "titulo": "How to Become an AI PM (without AI PM experience)",
+          "url": "https://www.news.aakashg.com/p/synthetic-ai-pm-experience",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-08-27T21:36:43+00:00"
+        }
+      ],
+      "puntuar": true
+    },
+    {
+      "id": 13,
+      "tema": "I'm adding Airtable to my Bundle",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/airtable-bundle",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-07-24T22:09:03+00:00",
+      "descripcion": "Continuing to make your subscription more worth it",
+      "articulos": [
+        {
+          "titulo": "I'm adding Airtable to my Bundle",
+          "url": "https://www.news.aakashg.com/p/airtable-bundle",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-07-24T22:09:03+00:00"
+        }
+      ],
+      "puntuar": false
+    },
+    {
+      "id": 14,
+      "tema": "5 Years of Product Growth.",
+      "buzz": 0.0,
+      "buzzDetalle": [],
+      "afinidad": 0,
+      "bucketProbable": null,
+      "genero": 0.0,
+      "generoDetalle": [],
+      "prioridad": 0.0,
+      "plataformas": [
+        "rss"
+      ],
+      "fuentes": [
+        "Product Growth (Aakash Gupta)"
+      ],
+      "engagementMax": {
+        "puntos": null,
+        "comentarios": null
+      },
+      "urlPrincipal": "https://www.news.aakashg.com/p/5-years-2m-1m-followers",
+      "urlDiscusion": null,
+      "fechaPublicacion": "2026-09-09T23:33:47+00:00",
+      "descripcion": "How did we get here? And what's next.",
+      "articulos": [
+        {
+          "titulo": "5 Years of Product Growth.",
+          "url": "https://www.news.aakashg.com/p/5-years-2m-1m-followers",
+          "fuente": "Product Growth (Aakash Gupta)",
+          "plataforma": "rss",
+          "engagement": {
+            "puntos": null,
+            "comentarios": null,
+            "rank": null
+          },
+          "fechaPublicacion": "2026-09-09T23:33:47+00:00"
+        }
+      ],
+      "puntuar": false
+    }
+  ]
+}

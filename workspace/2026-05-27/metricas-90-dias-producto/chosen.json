@@ -1,0 +1,12 @@
+{
+  "label": "B",
+  "framework": "Tutorial",
+  "title": "Tu setup de métricas",
+  "content_bucket": "Arquitectura de Producto",
+  "target_audience": "El Product Manager / Builder",
+  "hook_type": "friccion",
+  "hook_copy": "Si tu producto no despega: quizás mirás mal.",
+  "body_summary": "Un paso a paso práctico para que PMs definan, implementen y analicen las métricas esenciales que revelan el verdadero potencial de un producto en sus primeros 90 días.",
+  "cta_copy": "Contanos: ¿qué herramienta usás para medir activación?",
+  "why_stands_out": "Ofrece una solución concreta y práctica a la frustración de PMs con la medición temprana, enfocándose en la implementación efectiva."
+}

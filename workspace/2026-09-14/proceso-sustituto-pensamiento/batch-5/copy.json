@@ -1,0 +1,131 @@
+{
+  "niche": "proceso de producto / arquitectura de producto",
+  "cta_goal": "saves",
+  "framework": "Antes/Después",
+  "sistema": "light editorial (slide_statement)",
+  "document_title": "Las 10 cosas que el autor de INSPIRED enseñó mal",
+  "slides": [
+    {
+      "slide_num": 1,
+      "role": "hook",
+      "template": "slide_statement",
+      "headline": "Las 10 cosas que <b>el autor de INSPIRED enseñó mal.</b>",
+      "headline_size": 72
+    },
+    {
+      "slide_num": 2,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "Marty Cagan definió en 2008 cómo se construye producto. Ahora revisó lo que enseñó y marcó diez correcciones.",
+      "secondary": "<b>Acá va cada una: lo que decía antes, y lo que dice hoy.</b>",
+      "headline_size": 48,
+      "secondary_gap": 50,
+      "circle_image": "C:/Users/danil/.claude/skills/ig-carousels/assets/marty_cagan.jpg",
+      "circle_image_position": "center 15%",
+      "circle_top": 830,
+      "circle_size": 340
+    },
+    {
+      "slide_num": 3,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>1. Viabilidad</b><br>Antes: los riesgos de un producto eran tres — si sirve, si se entiende y si se puede construir.",
+      "secondary": "<b>Ahora: falta el cuarto, y es el más caro. Si el negocio lo puede sostener.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 4,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>2. El problema</b><br>Antes: entender bien el problema antes de salir a resolverlo.",
+      "secondary": "<b>Ahora: los equipos se quedan meses validando cuál es el problema y nunca llegan a la solución.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 5,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>3. El porqué</b><br>Antes: el porqué era el propósito de la empresa.",
+      "secondary": "<b>Ahora: el porqué que importa es por qué la gente usa tu producto, y por qué lo deja.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 6,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>4. Humildad</b><br>Antes: el product manager es el CEO del producto.",
+      "secondary": "<b>Ahora: el trabajo empieza por admitir lo que no sabés.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 7,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>5. Previsibilidad</b><br>Antes: roadmaps y documentos para saber qué sale y cuándo.",
+      "secondary": "<b>Ahora: esa sensación de control se paga con innovación y con confianza.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 8,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>6. Política interna</b><br>Antes: si el producto es bueno, la política de la empresa es ruido.",
+      "secondary": "<b>Ahora: la política existe, y hay que saber moverse en ella.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 9,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>7. Liderazgo</b><br>Antes: escribió para los equipos, no para quienes los conducen.",
+      "secondary": "<b>Ahora: un equipo con autonomía no necesita menos jefatura. Necesita mejor.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 10,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>8. Gobernanza</b><br>Antes: quién manda en la empresa no es problema de producto.",
+      "secondary": "<b>Ahora: un gran producto no garantiza una gran empresa.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 11,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>9. Competencia</b><br>Antes: contó la disciplina como algo ordenado y cordial.",
+      "secondary": "<b>Ahora: hay que resolver el problema mucho mejor que el de al lado, no apenas mejor.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 12,
+      "role": "body",
+      "template": "slide_statement",
+      "headline": "<b>10. Pensar</b><br>Antes: personas, procesos y producto.",
+      "secondary": "<b>Ahora: el proceso terminó usándose para no tener que pensar.</b>",
+      "headline_size": 46,
+      "secondary_gap": 55
+    },
+    {
+      "slide_num": 13,
+      "role": "cta",
+      "template": "slide_statement",
+      "headline": "Diez correcciones del tipo que escribió <b>el método que usás.</b>",
+      "secondary": "<b>Guardate la lista</b> y leela antes de tu próxima reunión.",
+      "align": "center",
+      "headline_size": 58,
+      "secondary_gap": 90,
+      "corner_glow": false,
+      "show_arrow": false
+    }
+  ]
+}
